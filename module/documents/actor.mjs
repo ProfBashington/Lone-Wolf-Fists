@@ -14,6 +14,8 @@ export class lwfActor extends Actor {
 
   /** @override */
   prepareBaseData() {
+    // Core resets overrides, statuses, and Active Effect phases here (v14).
+    super.prepareBaseData();
     // Data modifications in this step occur before processing embedded
     // documents or derived data.
   }
@@ -26,6 +28,7 @@ export class lwfActor extends Actor {
    * is queried and has a roll executed directly from it).
    */
   prepareDerivedData() {
+    super.prepareDerivedData();
     const actorData = this;
     const flags = actorData.flags.lonewolffists || {};
   }

@@ -48,7 +48,7 @@ export class lwfItemSheet extends foundry.appv1.sheets.ItemSheet {
   /** @override */
   async getData() {
     // Retrieve base data structure.
-    const context = super.getData();
+    const context = await super.getData();
 
     // Use a safe clone of the item data for further operations.
     const itemData = this.document.toPlainObject();

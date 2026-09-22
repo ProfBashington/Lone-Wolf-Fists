@@ -547,24 +547,27 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     })
 
     html.on('click', '#rest-button', async () => {
-      const restHTML = await renderTemplate('systems/lone-wolf-fists/templates/popups/popup-rest.hbs');
-      const restData = await Dialog.wait({
-        title: "How long would you like to rest?",
+      const restHTML = await foundry.applications.handlebars.renderTemplate('systems/lone-wolf-fists/templates/popups/popup-rest.hbs');
+      const restData = await foundry.applications.api.DialogV2.input({
+        window: { title: "How long would you like to rest?" },
         content: restHTML,
-        buttons:{
-          submit: {
-            label: "Rest",
-            callback: (html) => {
-              const formElement = html[0].querySelector('form');
-              const formData = new FormDataExtended(formElement);
-              return formData.object;
+        ok: { label: "Rest" },
+        render: (_event, dialog) => {
+          // Prevent inputting a non-number
+          const input = dialog.element.querySelector('[name="hours-rested"]');
+          input?.addEventListener('change', (e) => {
+            const contents = e.target.value;
+            if(isNaN(parseInt(contents)) || contents >= 1000){
+              e.target.value = "";
+              dialog.element.querySelector('.rest-error').innerText = "You must enter a valid number of hours";
             }
-          }
-        }
+          });
+        },
       });
+      if(!restData) return;
 
       if(restData["full-rest"] === "true"){
-        this.actor.update({[ `system.health.value` ]: this.actor.system.health.max
+        await this.actor.update({[ `system.health.value` ]: this.actor.system.health.max
          })
         return;
       }
@@ -575,8 +578,8 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
           return;
         }
         const rolls = await new Roll(`${restData["hours-rested"]}d10`).evaluate();
-        const newHealth = rolls._total + this.actor.system.health.value;
-        this.actor.update({[ `system.health.value` ]: newHealth})
+        const newHealth = rolls.total + this.actor.system.health.value;
+        await this.actor.update({[ `system.health.value` ]: newHealth})
       }
     });
 
@@ -597,29 +600,34 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
       const missing = pack.filter(({name}) => names.includes(name));
       const difference = parseInt(ev.currentTarget.dataset.missing);
       const masteries = {"missing": missing, "difference": difference};
-      const masteryHTML = await renderTemplate('systems/lone-wolf-fists/templates/popups/popup-masteries.hbs', masteries)
-      const choices = await Dialog.wait ({
-        title: "Choose your mastery",
+      const masteryHTML = await foundry.applications.handlebars.renderTemplate('systems/lone-wolf-fists/templates/popups/popup-masteries.hbs', masteries)
+      const choices = await foundry.applications.api.DialogV2.input({
+        window: { title: "Choose your mastery" },
         content: masteryHTML,
-        buttons:{
-          submit: {
-            label: "Master",
-            callback: (html) => {
-              const formElement = html[0].querySelector('form');
-              const formData = new FormDataExtended(formElement);
-              return formData.object;
-            }
-          }
-        }
+        ok: { label: "Master" },
+        render: (_event, dialog) => {
+          // Prevent choosing more than the allotted number of masteries
+          const boxes = dialog.element.querySelectorAll('.mastery');
+          boxes.forEach(box => {
+            box.addEventListener('change', (e) => {
+              const checked = dialog.element.querySelectorAll('.mastery:checked');
+              if(checked.length > difference){
+                e.target.checked = false;
+                dialog.element.querySelector('.mastery-error').innerText = "You must deselect a mastery to make a new choice";
+              }
+            })
+          })
+        },
       });
-      let items = this.actor.items.map(i => i.toObject());
+      if(!choices) return;
+      const newItems = [];
       for(let i in choices){
         if (choices[i] !== null){
           let obj = await game.packs.get('lone-wolf-fists.masteries').getDocument(choices[i]);
-          items.push(obj.toObject());
+          newItems.push(obj.toObject());
         }
       }
-      this.actor.update({ items });
+      if(newItems.length) await this.actor.createEmbeddedDocuments('Item', newItems);
     })
 
     html.on('click', '.chakra-image',  (ev) => {
@@ -814,7 +822,7 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     // Get the type of item to create.
     const type = header.dataset.type;
     // Grab any data associated with this control.
-    const data = duplicate(header.dataset);
+    const data = { ...header.dataset };
     // Initialize a default name.
     const name = `New ${type.capitalize()}`;
     // Prepare the item object.

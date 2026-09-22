@@ -1,28 +1,12 @@
-<form>
+<div>
     <h3>Choose <span id="difference">{{difference}}</span> new {{#if (comparison difference 1)}}skill{{else}}skills{{/if}} to master.</h3>
     <div>
     {{#each missing}}
     <input type="checkbox" id="{{this._id}}" class="mastery" name="{{this.name}}" value="{{this._id}}">
     <img src="{{this.img}}" width="24" height="24">
-    <label for="{{this.name}}">{{this.name}}</label><br>
+    <label for="{{this._id}}">{{this.name}}</label><br>
     {{/each}}
     </div>
-    <div id="error">
+    <div class="mastery-error">
     </div>
-    <script>
-
-            // Prevent choosing more than the allotted number of masteries
-            let difference = parseInt(document.querySelector("#difference").innerText);
-            let boxes = document.querySelectorAll('.mastery');
-            boxes.forEach(box => {
-                box.addEventListener('change', (e) => {
-                    let checked = document.querySelectorAll('.mastery:checked');
-                    if(checked.length > difference){
-                        e.target.checked = false;
-                        document.querySelector('#error').innerText = "You must deselect a mastery to make a new choice";
-                    }
-                })
-            })   
-
-    </script>
-</form>
+</div>

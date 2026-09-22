@@ -15,17 +15,15 @@ export class lwfCombat extends Combat {
   }
 
   async endCombat() {
-    return Dialog.confirm({
-      title: game.i18n.localize("COMBAT.EndTitle"),
+    const confirmed = await foundry.applications.api.DialogV2.confirm({
+      window: { title: game.i18n.localize("COMBAT.EndTitle") },
       content: `<p>${game.i18n.localize("COMBAT.EndConfirmation")}</p>`,
-      yes: async () => {
-        const combatantList = this.combatants.map(c => c.actorId);
-        for(let c in combatantList) {
-          const combatant = await game.actors.get(combatantList[c]);
-          await chakraReset(combatant);
-        }
-        await this.delete();
-      }
     });
+    if (!confirmed) return;
+    // Use each combatant's own actor so unlinked tokens reset their synthetic actor.
+    for (const combatant of this.combatants) {
+      if (combatant.actor) await chakraReset(combatant.actor);
+    }
+    return this.delete();
   }
 }

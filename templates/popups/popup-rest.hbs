@@ -1,21 +1,10 @@
-<form>
+<div>
     <div>
         <input id="hours-rested" type="text" class="inline-input smallish-box" name="hours-rested" data-dtype="Number">
         <span> hours.</span>
     </div>
     <input id="full-rest" type="checkbox" name="full-rest" value="true">
     <label for="full-rest">Rest until fully healed</label>
-    <div id="error">
+    <div class="rest-error">
     </div>
-    <script>
-        // Prevent inputting a non-number
-        const input = document.querySelector("#hours-rested");
-        input.addEventListener('change', (e) => {
-            const contents = e.target.value;
-            if(isNaN(parseInt(contents)) || contents >= 1000){
-                e.target.value = "";
-                document.querySelector('#error').innerText = "You must enter a valid number of hours";
-            }
-        })
-    </script>
-</form>
+</div>
