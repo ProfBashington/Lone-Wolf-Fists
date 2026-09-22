@@ -16,7 +16,7 @@ $stage = Join-Path $output "stage-$stamp"
 $allowDirectories = @('assets', 'css', 'lang', 'module', 'templates')
 $allowFiles = @('system.json', 'README.md', 'CHANGELOG.md', 'LICENSE.md', 'MIT-LICENSE.txt', 'ATTRIBUTIONS.md')
 $requiredFiles = @('system.json', 'LICENSE.md', 'MIT-LICENSE.txt', 'assets/LICENSE-ASSETS.md', 'packs/LICENSE-PACKS.md', 'css/lone-wolf-fists.css', 'module/lone-wolf-fists.mjs')
-$forbiddenPatterns = @('*.map', '*.scss', 'package.json', 'package-lock.json', 'template.json', '*.xcf', '.git*', '.nvmrc', '.npmrc')
+$forbiddenPatterns = @('LOG', 'LOG.old', '*.map', '*.scss', 'package.json', 'package-lock.json', 'template.json', '*.xcf', '.git*', '.nvmrc', '.npmrc')
 
 Push-Location $root
 try {
@@ -31,7 +31,8 @@ try {
     if ($LASTEXITCODE -gt 7) { throw "Staging $directory failed with exit code $LASTEXITCODE." }
   }
   foreach ($file in $allowFiles) { Copy-Item -LiteralPath (Join-Path $root $file) -Destination (Join-Path $stage $file) }
-  & robocopy.exe (Join-Path $root 'build\packs') (Join-Path $stage 'packs') /E /NFL /NDL /NJH /NJS /NP | Out-Null
+  # LevelDB LOG files are timestamped diagnostics, not data; leaving them out keeps builds reproducible.
+  & robocopy.exe (Join-Path $root 'build\packs') (Join-Path $stage 'packs') /E /XF LOG LOG.old /NFL /NDL /NJH /NJS /NP | Out-Null
   if ($LASTEXITCODE -gt 7) { throw "Pack staging copy failed with exit code $LASTEXITCODE." }
   # The rebuilt LevelDB packs do not carry the pack license notice; it must ship with them.
   Copy-Item -LiteralPath (Join-Path $root 'packs\LICENSE-PACKS.md') -Destination (Join-Path $stage 'packs\LICENSE-PACKS.md')
