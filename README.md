@@ -40,8 +40,8 @@ npm run check:contracts
 npm run packs:roundtrip
 ```
 
-The contract check verifies that the manifest, runtime registrations, and legacy Actor/Item
-template types agree, and prevents nested form markup. The pack command deterministically
+The contract check verifies that the manifest `documentTypes` and runtime TypeDataModel
+registrations agree (there is no legacy template.json), and prevents nested form markup. The pack command deterministically
 rebuilds temporary packs under `build/packs`, reopens them, and compares their semantic records
 with `pack-source`. `npm run packs:export` is intentionally refusing when `pack-source` is
 non-empty so it cannot overwrite reviewed content by accident. Only export from a verified

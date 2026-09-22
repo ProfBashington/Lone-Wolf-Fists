@@ -35,13 +35,21 @@ function checkForms(templateRoot) {
 (async () => {
   const documentTypes = await import(pathToFileURL(path.resolve("module/data/document-types.mjs")).href);
   const manifest = JSON.parse(fs.readFileSync("system.json", "utf8"));
-  const templates = JSON.parse(fs.readFileSync("template.json", "utf8"));
   const runtime = fs.readFileSync("module/lone-wolf-fists.mjs", "utf8");
 
   sameMembers("Manifest Actor documentTypes", Object.keys(manifest.documentTypes?.Actor || {}), documentTypes.ACTOR_TYPES);
   sameMembers("Manifest Item documentTypes", Object.keys(manifest.documentTypes?.Item || {}), documentTypes.ITEM_TYPES);
-  sameMembers("Legacy template Actor types", templates.Actor?.types || [], documentTypes.ACTOR_TYPES);
-  sameMembers("Legacy template Item types", templates.Item?.types || [], documentTypes.ITEM_TYPES);
+  // v14 deprecates legacy template.json; TypeDataModels are the only source of type data.
+  if (fs.existsSync("template.json")) throw new Error("template.json must not return; declare types in system.json documentTypes and TypeDataModels");
+  const models = fs.readFileSync("module/data/_module.mjs", "utf8");
+  for (const [block, types] of [["actorDataModels", documentTypes.ACTOR_TYPES], ["itemDataModels", documentTypes.ITEM_TYPES]]) {
+    const body = runtime.slice(runtime.indexOf(`const ${block} = {`), runtime.indexOf("}", runtime.indexOf(`const ${block} = {`)));
+    for (const type of types) {
+      const entry = body.match(new RegExp(`(?:^|[\\s,{])"?${type}"?\\s*:\\s*models\\.(\\w+)`));
+      if (!entry) throw new Error(`${block} has no data model for type "${type}"`);
+      if (!new RegExp(`\\b${entry[1]}\\b`).test(models)) throw new Error(`Data model ${entry[1]} for "${type}" is not exported from module/data/_module.mjs`);
+    }
+  }
 
   if (!runtime.includes("ACTOR_TYPES.map") || !runtime.includes("ITEM_TYPES.map")) {
     throw new Error("Runtime model registration must be derived from the declared document types");
