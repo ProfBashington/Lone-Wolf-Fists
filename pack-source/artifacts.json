@@ -1,0 +1,2419 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "artifacts",
+  "records": [
+    {
+      "key": "!items!4vr0tG2CcnTBLGN6",
+      "value": {
+        "_id": "4vr0tG2CcnTBLGN6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624354478,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624354478,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/rolling-dices.svg",
+        "name": "Lucky Charm",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "A necklace, small piece of jewelry, bracelet, or other small wearable trinket. Genuinely diverts your fortune for the better, but not by much.",
+          "chakra": {
+            "description": "The wielder regains double the Prana from any elemental font of power they are near.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>Enjoy a +1 Rank to any action that protects you from harm. 1/round</p><p>Once per Scene, you may gain Advantage or lose Disadvantage from sheer good luck.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Adventurous and flirty, this old rascal lives for thrills and fun. He constantly goads his rider into doing things in the most radical fashion they can.",
+            "dharma": "Dare a terrible danger for the sheer thrill.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 100,
+          "techEffect": "<p>You summon the slumbering decree of hell, rejecting the mortal world’s feeble attempt to destroy you. Against an Energy attack, this defense reflects a copy of any completely defended attack back at the attacker.</p><p>Until the end of the round, your armor enjoys an additional +25 bonus, for a total of 50.</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 7,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Defense",
+          "techniqueName": "Laugh at Death",
+          "tier": "Bauble",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!7rEnqRjDBD3Pu4w9",
+      "value": {
+        "_id": "7rEnqRjDBD3Pu4w9",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624356981,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624356981,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/broadsword.svg",
+        "name": "Massive Sword “Stone Cracking Saber”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "Huge and blunt, this hard-edged blade is impossible to lift for anyone except those chosen to wield it. In the hands of a stalwart hero of the common folk, it can bring ruin to the tyrannies of the fallen world.",
+          "chakra": {
+            "description": "Regains 5 Prana per round per full Platoon of common people who are actively rooting for it this scene.",
+            "hasChakra": true,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+1 Rank to an attack, 1/round.</p><p>Every strike deals +2d10 Damage.</p><p>Every strike is Destructive.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Stoic and straightforward, has a huge and caring heart under a gruff exterior. Cares for the common folk who it was forged to protect, such as farmers, miners and fishermen. It rises to the defense of common folk, especially against those who would enslave them. It will never willingly be used for tyranny, although it's a bit simple-minded and easier to dupe than other artifacts.",
+            "dharma": "Win a great victory for the will and good of the common people.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>You pound your foe into the ground like a railroad spike. In addition to dealing with your attack, they are slammed into the ground by an (Achieved Rank) Trip and buried by rubble, requiring a (Technique Rank) Power action to dig their way out.</p><p>The surrounding Field is rocked with a (Technique Rank) Shockwave Hazard.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 5,
+          "techSkill": "-",
+          "techTags": "Trip",
+          "techType": "Attack",
+          "techniqueName": "Mountain Splitter Strike",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": true,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!9B36RW5HGUHegayn",
+      "value": {
+        "_id": "9B36RW5HGUHegayn",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624365868,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624899235,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/cape.svg",
+        "name": "Raven God's Shroud",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 10,
+          "artifactDescription": "A heavy gray kinsale cloak, accentuated with thick black runes. It happens to be the beneficiary of a high blessing from an ancient god of the skies and the dead.",
+          "chakra": {
+            "description": "",
+            "hasChakra": true,
+            "recovery": 6
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>Increases armor by +10.</p><p>While wearing Raven God’s Shroud, you speak the secret language of birds. You can communicate with any avians you encounter, and those that join you as Disciples roll 2d10 and choose the highest for their starting Loyalty.</p><p>The Cloak grants you +2 Ranks to withstand any physical Hazard you encounter, which it arranges through lucky circumstance and fortuitous coincidences.</p><p>Finally, the cloak has more space inside than outside; it has a cargo capacity size 6, like a vehicle.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Wise but judgmental, bold and certain in action but fatalistic and short-tempered. Raven God’s Shroud tends to bicker with and put down its wearer, although it never refuses anyone’s shoulders. Gets drunk when its wearer does, and can be very helpful if plied with enough booze and praise.",
+            "dharma": "Fearlessly acquire a valuable piece of lost knowledge.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>Catching the enemy’s eye with your leering, empty mask, you force them to contemplate the confounding and paradoxical nature of their own consciousness. The Counterattack damage from this Technique manifests as Aggravation towards an Existential Crisis Emotional Imbalance. The Dramatic penalty of this Imbalance forces the enemy to constantly distract themselves from any thoughts deeper than surface-level, lest their mind be overtaken with doubts about the validity of their own being. This weakness is obvious and can be exploited by cunning adversaries.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Counterattack",
+          "techType": "Defense",
+          "techniqueName": "Mocking Reflection",
+          "tier": "Treasure",
+          "type": "Armor",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!a5os8GYS8Sctmbf6",
+      "value": {
+        "_id": "a5os8GYS8Sctmbf6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624350180,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624350180,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/wax-seal.svg",
+        "name": "Jade Divine-Governance Seal",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "A heavy seal, made of purest jade and sculpted by an impossibly masterful artisan. Even the most mundane ink used to stamp with it becomes a lustrous gold.",
+          "chakra": {
+            "description": "The wielder regains double the Prana from any elemental font of power they are near.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>When used to stamp a newly-crafted law, these seals invest it with divine authority. Whether this is a magical effect in itself or merely a deeply-ingrained cultural one is unknown, but the effect is to legitimize the law in the minds of all who come to know it.</p><p>Which is eventually everyone in the World of Ashes and Ghosts.</p><p>A law stamped with this seal becomes a recognized law of good order which all civilizations should uphold; it governs all under heaven.</p><p>Over the course of the next Campaign Arc, the knowledge of the law disseminates across the entire world and becomes either a Custom or a Law in every Domain on the planet.</p><p>Usable once per Campaign Arc.</p>",
+          "size": 4,
+          "soul": {
+            "description": "A hidebound traditionalist, the Eunuch has a will of iron and is completely ruthless in the pursuit of his goals. He is insidious and ingratiating, using those he advises to bring the world into line with his ancient and close-minded view of how it “should” be.",
+            "dharma": "Enact a law or custom according to the ancient ways.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>You play a mystical song that blurs the line between dreams and reality. Combines with Senses, Heart, Spirit or Intellect skill.</p><p>You create images, sounds and other illusions that are perfectly convincing. They have no mass, but conveniently conform to real objects that have mass whenever touched, or evade touch where no such objects are available.</p><p>This allows you to introduce any character, creature, event, or terrain to the description of your surroundings; only you know they are facsimiles.</p><p>Others can see through your illusions if they achieve a Senses action of a Rank greater than your (Achieved Rank).</p><p><strong>Skill:</strong> Senses</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Stealth",
+          "techType": "Mudra",
+          "techniqueName": "Waking Dream Song",
+          "tier": "Relic",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!c2mWDr0BSxwdp9nf",
+      "value": {
+        "_id": "c2mWDr0BSxwdp9nf",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624351814,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380128,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/lhqeaqo.png",
+        "name": "Kaufu Blade “Cruel Appetite”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "Forged with forbidden magic for a terrible purpose, Cruel Appetite craves the tender flesh of humans. Huge and artful, the sword is buoyed by its magic to perfect balance; its curves and flourishes are beautiful and cruel, causing agonizing wounds.",
+          "chakra": {
+            "description": "Draws power from hellish fonts of power and death. Regains any Prana that characters do from a Diabolical font of power. Whenever a human dies in its presence (same Field) or as a result of its attacks, regains 1 Prana.",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Increase an attack by +3 Ranks/1 per round.</p><p>Deals +1d10 aggravation when it delivers damage.</p>",
+          "size": 3,
+          "soul": {
+            "description": "",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>Unleashes a screaming blast of hellish Prana. This is an Unholy, Ranged Rank 10 Energy attack, which causes an additional Rank 5 Shockwave in the Field of the impact site.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 0,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": null,
+          "techSkill": "-",
+          "techTags": "Unholy, Ranged",
+          "techType": "Mudra",
+          "techniqueName": "Sinister Desire",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": true,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!d1P8az2gwe3qQtXV",
+      "value": {
+        "_id": "d1P8az2gwe3qQtXV",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624348334,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624348334,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/mirror-mirror.svg",
+        "name": "Imperial Eunuch Mirror",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "An untarnishable, flat sheet of silver, set into an uncarved crystal stalagmite. Unreflective and cloudy, the eerie, green-tinted man who approaches from within its foggy depths is dressed in antiquated clothing and is uncomfortably ancient.",
+          "chakra": {
+            "description": "The wielder regains double the Prana from any elemental font of power they are near.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>Gazing into the looking glass, the Eunuch appears and advises you.</p><p>He is condescending and reserved; nothing in this world meets his impossibly high standards. Still, he advises; it is after all, his self-chosen purpose.</p><p>He uses his Rank 10 Intellect and encyclopedic knowledge of the vanished ancient world to answer all inquiries.</p><p>He speaks harshly, but beyond the boundary of argument with persuasive Rank 10 Heart actions.</p><p>He is also a master of the Art of the Sage and Courtier and uses these powers for those he advises (and against them, to realize his own ends).</p>",
+          "size": 4,
+          "soul": {
+            "description": "A hidebound traditionalist, the Eunuch has a will of iron and is completely ruthless in the pursuit of his goals. He is insidious and ingratiating, using those he advises to bring the world into line with his ancient and close-minded view of how it “should” be.",
+            "dharma": "Enact a law or custom according to the ancient ways.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>You play a mystical song that blurs the line between dreams and reality. Combines with Senses, Heart, Spirit or Intellect skill.</p><p>You create images, sounds and other illusions that are perfectly convincing. They have no mass, but conveniently conform to real objects that have mass whenever touched, or evade touch where no such objects are available.</p><p>This allows you to introduce any character, creature, event, or terrain to the description of your surroundings; only you know they are facsimiles.</p><p>Others can see through your illusions if they achieve a Senses action of a Rank greater than your (Achieved Rank).</p><p><strong>Skill:</strong> Senses</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Stealth",
+          "techType": "Mudra",
+          "techniqueName": "Waking Dream Song",
+          "tier": "Treasure",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!dvqvDXf0oaXY0Se2",
+      "value": {
+        "_id": "dvqvDXf0oaXY0Se2",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624322700,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624340752,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/cape-armor.svg",
+        "name": "Devil King's Armour",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 1100000,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "A polished black-jade piece of an elaborate and horrific suit of lamellar armor. Rumored to be have once belonged to a world-conquering supreme warlord of hell. Its many individual pieces are currently scattered, horded and lost across the burning surface of the World of Ashes and Ghosts. Its return would be considered a dire omen in the martial world.",
+          "chakra": {
+            "description": "Each piece of this armor has its own Chakra (two gauntlets, two greaves, one cuirass) with Recovery 6. These Chakra are blocked if you suffer the Dramatic Imbalance to their associated limb and do not recover Prana during such a round.",
+            "hasChakra": true,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Armour +25</p><p>If you are subject to the Art of the Courtier, the Imbalance manifests in such a way as to favor this Armor’s goals.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Taciturn and aloof, wise and reserved, this armor acts like you’d imagine the devil’s butler would. Wants its wearer to be evil emperor of the world and wants to advise them as the power behind the throne.",
+            "dharma": "Win a significant conquest in your rise to world-rulership.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 100,
+          "techEffect": "<p>You summon the slumbering decree of hell, rejecting the mortal world’s feeble attempt to destroy you. Against an Energy attack, this defense reflects a copy of any completely defended attack back at the attacker.</p><p>Until the end of the round, your armor enjoys an additional +25 bonus, for a total of 50.</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 7,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Defense",
+          "techniqueName": "Laugh at Death",
+          "tier": "Relic",
+          "type": "Armor",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!fh3iLml1oQPDZZWY",
+      "value": {
+        "_id": "fh3iLml1oQPDZZWY",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624364549,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624364549,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/bandana.svg",
+        "name": "Princely Fortune",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 5,
+          "artifactDescription": "The last shred of an ancient and heaven-blessed warlord’s banner, it is now worn as a bandana or headband. Its wearer enjoys the good fortune of heaven’s favor.",
+          "chakra": {
+            "description": "Has its own seven Chakra along the celestial tiger spine at its core. These open at Recovery 7, one each at the end of every round.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>Increase your armor by +5 from the sheer good luck granted by Princely Fortune.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Inhumanly intense and hostile, Tiger Mountain Ghost drives its wielder to unending carnage and destruction at maximum effort until they die of exhaustion. An incredibly willful and commanding individual can bring it to heel, but it seethes in barely-contained fury while not being bathed in the blood of its foes.",
+            "dharma": "Bring about a great change through wanton destruction.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 100,
+          "techEffect": "<p>Tiger Mountain Ghost’s raw fury shrieks forth, a blistering red beam of incalculable destruction. It strikes any Field in range of your senses, exploding on impact and enveloping the Field in an (Achieved Rank) explosion. Finally, to add insult to injury, this explosion awakens and summons one of the Dangers and Dooms of the surrounding Tract, which descends on the blast site in a torrent of destruction at its fastest possible speed.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 7,
+          "techSkill": "-",
+          "techTags": "Ranged, Energy, Unholy, Destructive",
+          "techType": "Attack",
+          "techniqueName": "World-Breaking Strike",
+          "tier": "Bauble",
+          "type": "Armor",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!fS0vkypxUxA8a8lw",
+      "value": {
+        "_id": "fS0vkypxUxA8a8lw",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624363113,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380139,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/aT19ega.png",
+        "name": "Mystical Gun \"Lucky Lady\"",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A beautiful old-fashioned shooting iron, muted blue steel on a heavy sandalwood grip. Fashioned after a sixshooter, it has seven chambers, each rune-inscribed to represent one of the seven Chakra.",
+          "chakra": {
+            "description": "",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>Never needs to be reloaded</p><p>Make an attack Ranged, +1 Rank. 7/round.</p><p>Whenever you tie on Initiative, you go first.</p><p>+2d10 Initiative at the start of every round (adds to rolled and bid).</p><p>+5 Ranks to any defense or protection against any danger, illeffect or even simple bad luck. 1/round.</p><p>You can trick-shot, ricochet or otherwise make any shot you fire go exactly where you need it to, even if you can’t see the target or know where they are. This extends to ludicrous levels; you can shoot empty air and hit an assassin behind you that you didn't know was there.</p>",
+          "size": 2,
+          "soul": {
+            "description": "Temperamental but loyal if you spoil her, the Lucky Lady not only graciously gifts you the use of her magic, but also spurns any other wielder while you treat her properly. If you even so much as look at another weapon, she’ll withhold her magic and be dead weight in your hand until you offer a proper apology and act of contrition. She’s partial to a full stip-cleaning, upgrades to a more stylish holster, and bragging to others about times you two have spent together, especially if they make her look good.",
+            "dharma": "Face down overwhelming odds with a grin.",
+            "hasSoul": true
+          },
+          "tag1": "Ranged",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>A wave of tormented ghosts flows out from the blade, cursing the surrounding area. This takes the form of Prediction Imbalance (p.133) centered on the Spirit Skill, cast on the inhabitants of the surrounding Field. It takes the form “Those who oppose the wielder of Edge of Calamity shall decline”; for every 3 achieved Ranks, the penalty carries an additional -1 Effort. This effect lasts for the remainder of the Campaign Arc.</p>",
+          "techFacing": {
+            "max": 6,
+            "min": 3,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Mudra",
+          "techniqueName": "Thousand Misfortunes",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!g24pGIKHpPhtOiln",
+      "value": {
+        "_id": "g24pGIKHpPhtOiln",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624331713,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624340752,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/lantern-flame.svg",
+        "name": "Five Poison Sky-Net",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 500000,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "An old-style glass box lantern, with weird green light pulsing within. A spider can be seen trapped inside the hatches.",
+          "chakra": {
+            "description": "The wielder regains double the Prana from any elemental font of power they are near.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>Once per Scene, can be opened. The spider within spins a web of enormous size and paralytic potency. Coats a Field and everyone within it inside a steel-hard web of silk (Rank 10 to break free). Those trapped within are numbed and paralyzed by a Virulence 10 poison, which lasts long enough for them to starve to death and become mummified.</p>",
+          "size": 4,
+          "soul": {
+            "description": "A hidebound traditionalist, the Eunuch has a will of iron and is completely ruthless in the pursuit of his goals. He is insidious and ingratiating, using those he advises to bring the world into line with his ancient and close-minded view of how it “should” be.",
+            "dharma": "Enact a law or custom according to the ancient ways.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>You play a mystical song that blurs the line between dreams and reality. Combines with Senses, Heart, Spirit or Intellect skill.</p><p>You create images, sounds and other illusions that are perfectly convincing. They have no mass, but conveniently conform to real objects that have mass whenever touched, or evade touch where no such objects are available.</p><p>This allows you to introduce any character, creature, event, or terrain to the description of your surroundings; only you know they are facsimiles.</p><p>Others can see through your illusions if they achieve a Senses action of a Rank greater than your (Achieved Rank).</p><p><strong>Skill:</strong> Senses</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Stealth",
+          "techType": "Mudra",
+          "techniqueName": "Waking Dream Song",
+          "tier": "Treasure",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!g3gdVrMWyprzN44m",
+      "value": {
+        "_id": "g3gdVrMWyprzN44m",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624324677,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380150,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/Pi76LeU.png",
+        "name": "Diabolic Blade “Edge of Calamity”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 900000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A massive black blade, radiates a palpable atmosphere of menace. Forged in hellfire and quenched in innocent blood, it is a tool which demands to work its wickedness in the realm of mortals.",
+          "chakra": {
+            "description": "Draws power from Wood-element fonts of power as a character.",
+            "hasChakra": true,
+            "recovery": 7
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p><strong>Eviscerate:</strong> +3 Ranks to an attack, deals +4d10 Physical Aggravation if it injured the foe. 1/Round</p><p><strong>Enslave:</strong> When in the presence of a demon, wicked spirit or ghost, you may use a Spirit action with +6 Ranks to Bind them to your will. If your Achieved Rank is high enough to Bind the spirit, they become your Disciple. The strength of your control is represented by their starting Loyalty (they’re not sincerely loyal; they’re just magically compelled to be your slave).</p>",
+          "size": 3,
+          "soul": {
+            "description": "Insidious and cunning, constantly tries to convince the wielder that the atrocities it desires are the most reasonable and surest way to achieve their own goals.",
+            "dharma": "Commit a violent atrocity (GM’s choice; the Geneva Convention and most holy books outline a few examples).",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>A wave of tormented ghosts flows out from the blade, cursing the surrounding area. This takes the form of Prediction Imbalance (p.133) centered on the Spirit Skill, cast on the inhabitants of the surrounding Field. It takes the form “Those who oppose the wielder of Edge of Calamity shall decline”; for every 3 achieved Ranks, the penalty carries an additional -1 Effort. This effect lasts for the remainder of the Campaign Arc.</p>",
+          "techFacing": {
+            "max": 6,
+            "min": 3,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Mudra",
+          "techniqueName": "Thousand Misfortunes",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": true,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!GhEMXUB3ttRyh1pM",
+      "value": {
+        "_id": "GhEMXUB3ttRyh1pM",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624370201,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624370201,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/cloak.svg",
+        "name": "Sound-Devouring Mantle",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "A shroud, worn sometimes like a scarf. Deep red and gossamer-light, it muffles sounds and surrounds its wearer in eerie silence.",
+          "chakra": {
+            "description": "Each piece of this armor has its own Chakra (two gauntlets, two greaves, one cuirass) with Recovery 6. These Chakra are blocked if you suffer the Dramatic Imbalance to their associated limb and do not recover Prana during such a round.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>+3 Ranks to any Senses action to hide or sneak.</p><p>You may awaken a single Chakra without Prana Flare, once per round. If you Flare while wearing the Shroud, its magic deactivates until the next sunset.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Taciturn and aloof, wise and reserved, this armor acts like you’d imagine the devil’s butler would. Wants its wearer to be evil emperor of the world and wants to advise them as the power behind the throne.",
+            "dharma": "Win a significant conquest in your rise to world-rulership.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 100,
+          "techEffect": "<p>You summon the slumbering decree of hell, rejecting the mortal world’s feeble attempt to destroy you. Against an Energy attack, this defense reflects a copy of any completely defended attack back at the attacker.</p><p>Until the end of the round, your armor enjoys an additional +25 bonus, for a total of 50.</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 7,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Defense",
+          "techniqueName": "Laugh at Death",
+          "tier": "Treasure",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!HIDLYjgFqcxvOt5E",
+      "value": {
+        "_id": "HIDLYjgFqcxvOt5E",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624327950,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624340752,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/spiked-shoulder-armor.svg",
+        "name": "Dirt-Heap Emperor",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 800000,
+        "system": {
+          "armorValue": 15,
+          "artifactDescription": "An eclectic collection of different items of various enchantments; sports shoulder-pad worn by a dying hero, pauldron of a legendary king, bulletproof vest forged in dragon's fire, etc. Looks like you’re wearing a dumpster, but provides incredible protection.",
+          "chakra": {
+            "description": "Recovery 6",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+15 Armor</p>",
+          "size": 4,
+          "soul": {
+            "description": "Wise but judgmental, bold and certain in action but fatalistic and short-tempered. Raven God’s Shroud tends to bicker with and put down its wearer, although it never refuses anyone’s shoulders. Gets drunk when its wearer does, and can be very helpful if plied with enough booze and praise.",
+            "dharma": "Fearlessly acquire a valuable piece of lost knowledge.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>Creates a Shield of raw luck around you. You and anyone in the same Area who has your favor is protected by this effect. It manifests as good fortune, things going your way, bullets missing, and other too-convenient coincidences.</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 5,
+          "techSkill": "-",
+          "techTags": "Shield, Sustainable",
+          "techType": "Defense",
+          "techniqueName": "Divine Flotsam",
+          "tier": "Treasure",
+          "type": "Armor",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!HKyz0P2YocqqrHbV",
+      "value": {
+        "_id": "HKyz0P2YocqqrHbV",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624372845,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624942028,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/lightning-saber.svg",
+        "name": "Water Element Saber “Silver Magnificence”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "Broad, gleaming silver and artfully embellished like a rolling wave, this single-sided saber is magnificent to behold. Weighty but well-balanced, it is always cool to the touch.",
+          "chakra": {
+            "description": "Regains any Prana that characters do from Water-Elemental fonts of power. Additionally, crewmates may aid the wielder of this blade in opening their Chakra if it is their captain; their Rank 2+ Spirit actions can be used to open their Captain’s Chakra.",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Attack, +2 Ranks and +2d10 Damage, 2/ round</p><p>Defense, +2 Ranks and Disarming. 1/Round.</p>",
+          "size": 3,
+          "soul": {
+            "description": "Serene but stern, the Grass Cutting Blade has the aloof and far-seeing attitude of an ancient emperor. Withholds its powers from any who are not gentlemanly, chivalrous, and polite, which is a rare person in the Fallen World. Tends to criticize and offer advice unprompted.",
+            "dharma": "Sacrifice something significant to return harmony to society.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>Aiming at a vehicle, you unleash a glittering Ranged, Destructive Energy strike. If aimed at a sailing vessel, also unleashes an (Achieved Rank) wave to capsize the unfortunate vessel.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Element Control (Water), Ranged, Energy, Destructive",
+          "techType": "Attack",
+          "techniqueName": "Prow-Shattering Strike",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": true,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!IDX2Sfail1d75Bmn",
+      "value": {
+        "_id": "IDX2Sfail1d75Bmn",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624367408,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380041,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/9ELzRqM.png",
+        "name": "Rising Sun Razor",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A heavy two-handed sword, forged with mystic gold and glowing with divine lettering. It sparks and flashes during impacts, keening as it cuts through the air. It feels warm and righteous in the hands of the just, but burns the hand of any evildoer which tries to wield it.",
+          "chakra": {
+            "description": "",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Increase an attack by +3 Ranks/1 per round. Holy.</p><p>Increase a Defense by +3 Ranks/1 per round.</p>",
+          "size": 3,
+          "soul": {
+            "description": "Arrogant and critical, possesses the divine stamp of Heaven and never lets you forget it. Will not abide evil in any form and burns evildoers who touch it (Rank 6 Holy Burning Hazard)",
+            "dharma": "Destroy a great evil.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>Heals a wound with a miraculous touch of the blade. If placed gently on the subject requiring healing, they recover 3d10 Aggravation from any Physical Imbalance.</p><p>Alternatively, this touch can totally cure any Curse, sickness, illness or poison less than Rank 12.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 0,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": null,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Mudra",
+          "techniqueName": "Beneficent Touch",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": true,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!IPNLklm0U9xLvL7n",
+      "value": {
+        "_id": "IPNLklm0U9xLvL7n",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624321684,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624448760,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/lead-pipe.svg",
+        "name": "Defender of the Weak Lead Pipe “Wolf-Beating Pipe”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 1200000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "An ancient and dented length of pipe, carved in barely-legible runes and smooth with untold age. Weighty and ill-balanced (and reeking lightly of old booze), it's an ugly and cumbersome weapon. Those who show loyalty to the unwholesome thing find it to be an invaluable ally.",
+          "chakra": {
+            "description": "",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+2 Defense, can increase any defense but not create new defense actions.</p>",
+          "size": 3,
+          "soul": {
+            "description": "An irascible and charmingly insane old coot, Wolf- Beating Pipe has a personality like a kindly and mischievous old beggar. As kind as a grandfather and as mean as a retired sailor, it knows more than it tells and only reveals its true wisdom through frustrating riddles and indirect revelations.",
+            "dharma": "Render a powerful evildoer (Degree 1+) harmless without killing them",
+            "hasSoul": true
+          },
+          "tag1": "Special",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>Against a wicked being, deals Aggravation to an Redemption Emotional Imbalance equal to any Damage from this attack.</p><p>When choosing the Dramatic manifestation of this Imbalance, the victim must seek a way to atone for their past wrongdoings and can commit no evil acts.</p><p>When used to Disarm a wicked being, it destroys the weapon unless it is magical.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Holy, Disarm",
+          "techType": "Attack",
+          "techniqueName": "Fang-Smashing Blow",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!KdAtb6jPk37zUWP7",
+      "value": {
+        "_id": "KdAtb6jPk37zUWP7",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624330354,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380054,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/DpguAfv.png",
+        "name": "Earth Element Hammer “Skullbuster”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 600000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A massive steel warhammer, festooned in skull iconography and wrapped in studded black leather. Truly heavy metal, it rings with a deep bass thrum when it strikes.",
+          "chakra": {
+            "description": "Recovers 1d10 Prana per Feature or Vehicle destroyed by the direct or indirect actions of its wielder.",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+4d10 damage to every successful attack.</p><p>All strikes carry the Destructive keyword.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Serene but stern, the Grass Cutting Blade has the aloof and far-seeing attitude of an ancient emperor. Withholds its powers from any who are not gentlemanly, chivalrous, and polite, which is a rare person in the Fallen World. Tends to criticize and offer advice unprompted.",
+            "dharma": "Sacrifice something significant to return harmony to society.",
+            "hasSoul": false
+          },
+          "tag1": "Heavy",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>Slamming Skullbuster into anyone or anything on the ground, you unleash a thunderous burst of Prana. This causes two effects:</p><p>First, whatever you struck must contend with the attack.</p><p>Second, it unleashes a localized Earthquake Hazard at (Achieved Rank) which topples creatures and causes enormous structural damage to terrain Features (increase the Rank by +1 for any which would be significantly damaged by earthquakes).</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 5,
+          "techSkill": "-",
+          "techTags": "Destructive",
+          "techType": "Attack",
+          "techniqueName": "Earth Shaker",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!LO1zmGF6KjTc9L6H",
+      "value": {
+        "_id": "LO1zmGF6KjTc9L6H",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624338625,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624340752,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/flute.svg",
+        "name": "Fox Spirit Flute",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 300000,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "A simple reed flute, carved from an unidentifiable silver wood. It glows softly, as though bathed in moonlight. Its notes are melancholy, unearthly and haunting, like a song remembered from a dream.",
+          "chakra": {
+            "description": "The wielder regains double the Prana from any elemental font of power they are near.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Whenever this flute is played, its music originates from any point its player desires it to within the same Field. This is often used to confuse and mislead others.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Adventurous and flirty, this old rascal lives for thrills and fun. He constantly goads his rider into doing things in the most radical fashion they can.",
+            "dharma": "Dare a terrible danger for the sheer thrill.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>You play a mystical song that blurs the line between dreams and reality. Combines with Senses, Heart, Spirit or Intellect skill.</p><p>You create images, sounds and other illusions that are perfectly convincing. They have no mass, but conveniently conform to real objects that have mass whenever touched, or evade touch where no such objects are available.</p><p>This allows you to introduce any character, creature, event, or terrain to the description of your surroundings; only you know they are facsimiles.</p><p>Others can see through your illusions if they achieve a Senses action of a Rank greater than your (Achieved Rank).</p><p><strong>Skill:</strong> Senses</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Stealth",
+          "techType": "Mudra",
+          "techniqueName": "Waking Dream Song",
+          "tier": "Treasure",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!LpiQ7xpFHbH4ZH7o",
+      "value": {
+        "_id": "LpiQ7xpFHbH4ZH7o",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624323633,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624340752,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/jigsaw-box.svg",
+        "name": "Devil-Summoning Box",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 700000,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "A small black square, highly polished and apparently smooth. It is a puzzle box, which requires intense concentration and tireless novel attempts to even get the damned thing open. When worked, the sound of bells is distantly heard.",
+          "chakra": {
+            "description": "The wielder regains double the Prana from any elemental font of power they are near.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>When worked for an hour in a dark and secluded place, the box creates a schism which allows hellish entities egress into the world.</p><p>They manifest as a trio of Rank 7, Enlightened Mogui (Bestiary, p.198) with enormous knowledge. They can act as teachers in the Arts of the Sorcerer, Courtier, Seer, and any diabolic martial art they know (which includes up to the Master-level Techniques for Naraka’s Cataclysms, and whatever other styles the GM feels they’ve acquired through their long lives).</p><p>They demand sacrifices of flesh for their knowledge. Or rather, they take payment of flesh; they tend to imply their price indirectly, and will flay their summoner alive if they are not properly propitiated (not that they’ll warn you first).</p>",
+          "size": 4,
+          "soul": {
+            "description": "A hidebound traditionalist, the Eunuch has a will of iron and is completely ruthless in the pursuit of his goals. He is insidious and ingratiating, using those he advises to bring the world into line with his ancient and close-minded view of how it “should” be.",
+            "dharma": "Enact a law or custom according to the ancient ways.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>You play a mystical song that blurs the line between dreams and reality. Combines with Senses, Heart, Spirit or Intellect skill.</p><p>You create images, sounds and other illusions that are perfectly convincing. They have no mass, but conveniently conform to real objects that have mass whenever touched, or evade touch where no such objects are available.</p><p>This allows you to introduce any character, creature, event, or terrain to the description of your surroundings; only you know they are facsimiles.</p><p>Others can see through your illusions if they achieve a Senses action of a Rank greater than your (Achieved Rank).</p><p><strong>Skill:</strong> Senses</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Stealth",
+          "techType": "Mudra",
+          "techniqueName": "Waking Dream Song",
+          "tier": "Treasure",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!N5L6NrvtQfwMhDf8",
+      "value": {
+        "_id": "N5L6NrvtQfwMhDf8",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624352922,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380073,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/sDqzuV7.png",
+        "name": "Lightning Spear “Army Crushing Pike”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A long, reflective steel spear, pennant fluttering handsomely in the wind. Hums with the barely-contained power of heaven, occasionally beams or sparks with raw cosmic energy.",
+          "chakra": {
+            "description": "",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Add +1 Rank to rolled or Bid Initiative. You may strike foes in an adjacent Area.</p><p>While you lead a Squad or Platoon, increase one of their attacks or defenses by +3 Ranks 1/turn.</p>",
+          "size": 3,
+          "soul": {
+            "description": "Arrogant and critical, possesses the divine stamp of Heaven and never lets you forget it. Will not abide evil in any form and burns evildoers who touch it (Rank 6 Holy Burning Hazard)",
+            "dharma": "Destroy a great evil.",
+            "hasSoul": false
+          },
+          "tag1": "Reach",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>Throwing the Army Crushing Pike like a javelin, it streaks into the foe like a bolt of lightning. This is a Ranged Area Attack, targeting a Field for (Achieved Rank) in a catastrophic explosion of electric energy. The spear vanishes on impact and reappears, unharmed, in the hand of its thrower after being hurled.</p>",
+          "techFacing": {
+            "max": 6,
+            "min": 3,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 5,
+          "techSkill": "-",
+          "techTags": "Ranged",
+          "techType": "Attack",
+          "techniqueName": "Lance of Heaven",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!nLTizMMyiIhc7YjM",
+      "value": {
+        "_id": "nLTizMMyiIhc7YjM",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624359314,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624359314,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/two-handed-sword.svg",
+        "name": "Metal-Cutting Jian \"Steel-Eating Blade\"",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "Straight and narrow, this Jian was forged by a tribe of ancients who wished to destroy the catastrophe they foresaw in the industrial age. It is perfectly balanced, handsomely embellished and cuts through steel like rice paper",
+          "chakra": {
+            "description": "Recovery 5, regains 1 Prana per 100 corpses in the surrounding Field",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>+3 Ranks to an attack 1/round</p><p>Against vehicles or structures, can cut a doorway-sized hole into them effortlessly 1/round.</p><p>If parried with a weapon or whenever it strikes any equipment, weapon or armor, the item is destroyed, sliced neatly in half.</p><p>All blows are Destructive.</p><p>If an attack fails to penetrate the armor of a vehicle, it still takes 1d10 damage per Rank of the strike. If an attack equals the armor of a vehicle, it is destroyed.</p>",
+          "size": 4,
+          "soul": {
+            "description": "",
+            "dharma": "Destroy a war machine or industrial factory.",
+            "hasSoul": true
+          },
+          "tag1": "Special",
+          "tag1Effect": "",
+          "tag2": "Ranged",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>You lash out in an explosion of violence. This attack is any combination with totals 3 Ranks; either a single +3, a +2 and +1, or three +1 attacks. If split into more than one strike, the attacks may each be given different Facings.</p><p>Foes struck by these attacks suffer +3d10 Aggravation.</p><p>If an enemy reduces damage from one of these strikes with their Aura, you gain that much Prana.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Multi-attack",
+          "techType": "Attack",
+          "techniqueName": "Bloodbath Frenzy",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!OSLCom4aeJWg41n3",
+      "value": {
+        "_id": "OSLCom4aeJWg41n3",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624329153,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624723103,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/katana.svg",
+        "name": "Divine Katana \"Grass-Cutting Sword\"",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 400000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "Long and straight, gently rounded like a calmus leaf, ivory white and pristine despite its millennia of neglect. Once wielded solely by princes and those with divine blood, it has lowered its standards considerably over the last few centuries.",
+          "chakra": {
+            "description": "",
+            "hasChakra": true,
+            "recovery": 10
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Increase an Attack or Defense by +2 Ranks/2 per round.</p>",
+          "size": 3,
+          "soul": {
+            "description": "Serene but stern, the Grass Cutting Blade has the aloof and far-seeing attitude of an ancient emperor. Withholds its powers from any who are not gentlemanly, chivalrous, and polite, which is a rare person in the Fallen World. Tends to criticize and offer advice unprompted.",
+            "dharma": "Sacrifice something significant to return harmony to society.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>The wind blows fiercely in the direction you swing the blade. Creates a Spirit-based action that buffets everything in this Field or an adjacent one with an (Achieved Rank) gust, knocking them over, blowing them away or otherwise causing wind-based havoc in the direction you indicate. You can change this direction for 1 Effort at any time until the end of the round. If sustained, you can change the direction for 1 Effort at any time.</p>",
+          "techFacing": {
+            "max": 6,
+            "min": 3,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 5,
+          "techSkill": "-",
+          "techTags": "Element Control (Air), Sustainable",
+          "techType": "Mudra",
+          "techniqueName": "Reed-Bending Decree",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!oT7tC3faZz3eDPgO",
+      "value": {
+        "_id": "oT7tC3faZz3eDPgO",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624336463,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624340752,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/ring.svg",
+        "name": "Five-Elements Promise",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 100000,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "A heavy, ornamental ring of brass, crystal, jade, gold, and other precious materials. Appears grown, rather than carved. These few mystic rings are the physical remnants of the divine treatise which allow the disparate and warring elements to cooperate in the formation of our universe.",
+          "chakra": {
+            "description": "The wielder regains double the Prana from any elemental font of power they are near.",
+            "hasChakra": true,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>No natural elemental Hazard of Rank 10 or lower can harm the wielder of this ring; they are beloved and protected by all the elements of the universe.</p><p>Additionally, they enjoy the immediate good graces of any sane elemental-aligned spirit they encounter (although they can ruin this good first impression with bad behavior).</p><p>Elemental Hazards or magics that are created or commanded by non-natural forces (like a Mystic Martial Arts technique) can injure the wearer of this ring, but they enjoy +1 Rank to defend against such dangers.</p><p>Rank 12+ Hazards can also harm the wielder, as these are manifestations of divine elemental laws and forbearances, but they enjoy +3 ranks to their Endurance action to resist them.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Adventurous and flirty, this old rascal lives for thrills and fun. He constantly goads his rider into doing things in the most radical fashion they can.",
+            "dharma": "Dare a terrible danger for the sheer thrill.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 100,
+          "techEffect": "<p>You summon the slumbering decree of hell, rejecting the mortal world’s feeble attempt to destroy you. Against an Energy attack, this defense reflects a copy of any completely defended attack back at the attacker.</p><p>Until the end of the round, your armor enjoys an additional +25 bonus, for a total of 50.</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 7,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Defense",
+          "techniqueName": "Laugh at Death",
+          "tier": "Treasure",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!ou7jyQ3NvlerkqI2",
+      "value": {
+        "_id": "ou7jyQ3NvlerkqI2",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624319149,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624416848,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/lightning-bow.svg",
+        "name": "Arrow-Multiplying Bow “Misfortune Rain”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 1500000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A tall and ornately carved yew Yumi, tipped in jade and strung with an unbreakable silver thread. Alive and nihilistic, it has come to be obsessed with the grim and miserable. It considers only artists for wielders and lives to help them paint masterpieces of carnage.",
+          "chakra": {
+            "description": "Regains 1 Prana per 100 corpses in the surrounding Field",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Attack any target you can see at any distance, +2 Rank 2/round.</p><p>Whenever you draw back the bowstring, a thin arrow with an ebony shaft and bone-white fletching materializes within it at full draw. As a result, you never need to supply ammunition for your attacks. This arrow only materializes to kill and can never be summoned for any other purpose.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Artistic and vainglorious, gothic and deeply macabre, Misfortune Rain loathes its existence and mollifies its existential agony with the glorious narcotic of artistic catharsis. Demands its wielder commit novel and visionary atrocities or it finds a way to slip their grasp and find a more homicidal and creative master.",
+            "dharma": "Create an artistic masterpiece of horror and suffering.",
+            "hasSoul": true
+          },
+          "tag1": "Ranged",
+          "tag1Effect": "",
+          "tag2": "Ranged",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>You fire an arrow into the eye of heaven, where it multiplies and rains down in a maelstrom of thousands of black arrows.</p><p>Pick a Field you can target with a ranged strike; This attack strikes everyone in that Field.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 5,
+          "techSkill": "-",
+          "techTags": "Ranged, Unholy",
+          "techType": "Attack",
+          "techniqueName": "Canvas of Sorrow",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!P0MSwb7dnvLtZQ0d",
+      "value": {
+        "_id": "P0MSwb7dnvLtZQ0d",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624340731,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380083,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/Tiw17KN.png",
+        "name": "Generous White Blade",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 200000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "Bone-white from pommel to tip, this straight, rune-etched Jian blade is so searing hot that it bursts into flames whenever unsheathed. Its name is a joke; after its creation, you literally couldn’t give this thing away. Finds a more welcoming home in this violent era.",
+          "chakra": {
+            "description": "Draws power from Fire-element fonts of power as a character.",
+            "hasChakra": true,
+            "recovery": 5
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+2 Ranks to an attack, 3/Round</p><p>Anything struck by the blade faces a Rank 3 Fire Hazard. Flammable items, including clothes, burst into flames at its touch.</p>",
+          "size": 3,
+          "soul": {
+            "description": "Arrogant and critical, possesses the divine stamp of Heaven and never lets you forget it. Will not abide evil in any form and burns evildoers who touch it (Rank 6 Holy Burning Hazard)",
+            "dharma": "Destroy a great evil.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>You shoot a ball of flame from the tip of Generous White Blade. Where it strikes, it explodes, causing a secondary (Technique Rank) Fire Hazard to spread across the Area of impact.</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Element Control (Fire), Ranged",
+          "techType": "Attack",
+          "techniqueName": "Fatal Generosity",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!Q2wJXJhA5q5szUE0",
+      "value": {
+        "_id": "Q2wJXJhA5q5szUE0",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624344519,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624791257,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/shard-sword.svg",
+        "name": "Heavy Corpse-Sword “Blinding Marrow”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A massive sword, as long as a grown man and enormously heavy. It is festooned with bristles and spikes, grisly iron-gray and unreflective, Blinding Marrow is a fearsome and ferocious weapon.",
+          "chakra": {
+            "description": "",
+            "hasChakra": true,
+            "recovery": 7
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p><strong>Corpse Heft:</strong> Swung with its full weight, Blinding Marrow adds +3 to a Strike and deals 4 health levels of damage if it hits. It is Destructive if turned against an unliving target. 1/ Round. Infuse.</p><p><strong>Wraith Speed:</strong> Swung for speed, Blinding Marrow strikes faster than its own image, which lags behind it, fooling the foe. This puts the foe at a Disadvantage against you, unless they are able to detect your strike with an (Achieved Rank) Senses action. 2/Round. Infuse.</p><p><strong>Blade of the Damned:</strong> You may detect and strike Ghostly beings while wielding Blinding Marrow. Whenever an undead being of a lower Degree first encounters you, roll a d10; if the result is equal to or under your Degree, they become your Disciple.</p>",
+          "size": 5,
+          "soul": {
+            "description": "Stoic and straightforward, has a huge and caring heart under a gruff exterior. Cares for the common folk who it was forged to protect, such as farmers, miners and fishermen. It rises to the defense of common folk, especially against those who would enslave them. It will never willingly be used for tyranny, although it's a bit simple-minded and easier to dupe than other artifacts.",
+            "dharma": "Win a great victory for the will and good of the common people.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>You pound your foe into the ground like a railroad spike. In addition to dealing with your attack, they are slammed into the ground by an (Achieved Rank) Trip and buried by rubble, requiring a (Technique Rank) Power action to dig their way out.</p><p>The surrounding Field is rocked with a (Technique Rank) Shockwave Hazard.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 5,
+          "techSkill": "-",
+          "techTags": "Trip",
+          "techType": "Attack",
+          "techniqueName": "Mountain Splitter Strike",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": true,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!qsyEFMLOkuqxENDQ",
+      "value": {
+        "_id": "qsyEFMLOkuqxENDQ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624374281,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624374281,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/semi-closed-eye.svg",
+        "name": "Weird Eye",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "An orb of murky crystal, colors and smoke swirl inside.",
+          "chakra": {
+            "description": "Each piece of this armor has its own Chakra (two gauntlets, two greaves, one cuirass) with Recovery 6. These Chakra are blocked if you suffer the Dramatic Imbalance to their associated limb and do not recover Prana during such a round.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>You may scry and see distant events within the orb’s depths. This allows you, once per day, to peer into the orb and use your Senses as though you were physically present at any place that you have ever visited or know of for a fact. While using this magic, your Senses action is increased by +3 Ranks.</p><p>If you attempt to peer into a place you are not certain exists, then the GM may allow you to see such a place, but they may have the orb broadcast a wholly fictitious image instead. The orb tends to be an unreliable narrator and responds to subconscious desires as well as conscious commands.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Taciturn and aloof, wise and reserved, this armor acts like you’d imagine the devil’s butler would. Wants its wearer to be evil emperor of the world and wants to advise them as the power behind the throne.",
+            "dharma": "Win a significant conquest in your rise to world-rulership.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 100,
+          "techEffect": "<p>You summon the slumbering decree of hell, rejecting the mortal world’s feeble attempt to destroy you. Against an Energy attack, this defense reflects a copy of any completely defended attack back at the attacker.</p><p>Until the end of the round, your armor enjoys an additional +25 bonus, for a total of 50.</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 7,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Defense",
+          "techniqueName": "Laugh at Death",
+          "tier": "Treasure",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!R9CSfcO0XapdDhNz",
+      "value": {
+        "_id": "R9CSfcO0XapdDhNz",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624371647,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624930328,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/tribal-mask.svg",
+        "name": "Uncanny Facsimile",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 7,
+          "artifactDescription": "A grinning wooden puppet-mask. Projects an aura of the powerfully uncanny, driving those who behold it mad. Fashioned by a living puppet that thought it was a man, or vice versa, it confronts viewers with hideous truths better left unexamined.",
+          "chakra": {
+            "description": "",
+            "hasChakra": true,
+            "recovery": 3
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>Increase your armor by +7.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Inhumanly intense and hostile, Tiger Mountain Ghost drives its wielder to unending carnage and destruction at maximum effort until they die of exhaustion. An incredibly willful and commanding individual can bring it to heel, but it seethes in barely-contained fury while not being bathed in the blood of its foes.",
+            "dharma": "Bring about a great change through wanton destruction.",
+            "hasSoul": false
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>Catching the enemy’s eye with your leering, empty mask, you force them to contemplate the confounding and paradoxical nature of their own consciousness. The Counterattack damage from this Technique manifests as Aggravation towards an Existential Crisis Emotional Imbalance. The Dramatic penalty of this Imbalance forces the enemy to constantly distract themselves from any thoughts deeper than surface-level, lest their mind be overtaken with doubts about the validity of their own being. This weakness is obvious and can be exploited by cunning adversaries.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Counterattack",
+          "techType": "Defense",
+          "techniqueName": "Mocking Reflection",
+          "tier": "Treasure",
+          "type": "Armor",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!S3acZLvwYnSFxUqG",
+      "value": {
+        "_id": "S3acZLvwYnSFxUqG",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624375524,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380096,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/7PUrxeo.png",
+        "name": "Wood Element Staff “Thousand Year Sapling”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "The still-living branch of an immortal peach tree, Thousand Year Sapling constantly flowers and frondesces with the pulsing life energy blooming from within it.",
+          "chakra": {
+            "description": "Draws power from Wood-element fonts of power as a character.",
+            "hasChakra": true,
+            "recovery": 7
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+2 Defense, 3/turn; may trade 1 of these for +1 Attack 1/turn.</p><p>You may strike foes in an adjacent Area.</p><p>Plant life instinctively bends and writhes out of the way of the wielder of this staff; they are never impeded by plant-based terrain.</p><p>Additionally, when moving, new growth from plants springs into life under their footsteps. This allows them to climb or move along any growing surface as though it were solid ground, no matter its orientation in space.</p>",
+          "size": 3,
+          "soul": {
+            "description": "Arrogant and critical, possesses the divine stamp of Heaven and never lets you forget it. Will not abide evil in any form and burns evildoers who touch it (Rank 6 Holy Burning Hazard)",
+            "dharma": "Destroy a great evil.",
+            "hasSoul": false
+          },
+          "tag1": "Reflexive",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>Infusing Thousand Year Sapling with lifeenergy, you strike it into a nearby surface. The Area blossoms into green life, roots and leaves smashing their way through hard surfaces in a flood of plant growth. This is an (Achieved Rank) Entangling Hazard which Grabs and holds, but does not injure, anyone in or adjacent to the impact site. The fruits produced yearly by this sward of growth are nourishing and delicious. If thrown, Thousand- Year Sapling ricochets back into your hand after causing its bloom.</p>",
+          "techFacing": {
+            "max": 6,
+            "min": 3,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Element Control (Wood), Ranged, Grab",
+          "techType": "Mudra",
+          "techniqueName": "Furious Bloom",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!Sig2qtkLPbHMmRsx",
+      "value": {
+        "_id": "Sig2qtkLPbHMmRsx",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624318247,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624340752,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/energy-sword.svg",
+        "name": "Apocalypse-Bringing Blade “Tiger Mountain Ghost”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 1300000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A sword of awesome and terrible power; an entire spine roils up its center, encased in a razor sharp shard of orange amber. Its handle is wrapped in human skin tanned into leather. Waves of nauseating hate radiate from it like a raw plutonium rod, sickening and killing those too weak to answer its call to destruction.",
+          "chakra": {
+            "description": "Has its own seven Chakra along the celestial tiger spine at its core. These open at Recovery 7, one each at the end of every round.",
+            "hasChakra": true,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+5 Ranks to an attack, 2/round</p><p>+7 Ranks to an act of Destruction, 1/round</p>",
+          "size": 4,
+          "soul": {
+            "description": "Inhumanly intense and hostile, Tiger Mountain Ghost drives its wielder to unending carnage and destruction at maximum effort until they die of exhaustion. An incredibly willful and commanding individual can bring it to heel, but it seethes in barely-contained fury while not being bathed in the blood of its foes.",
+            "dharma": "Bring about a great change through wanton destruction.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 100,
+          "techEffect": "<p>Tiger Mountain Ghost’s raw fury shrieks forth, a blistering red beam of incalculable destruction. It strikes any Field in range of your senses, exploding on impact and enveloping the Field in an (Achieved Rank) explosion. Finally, to add insult to injury, this explosion awakens and summons one of the Dangers and Dooms of the surrounding Tract, which descends on the blast site in a torrent of destruction at its fastest possible speed.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 7,
+          "techSkill": "-",
+          "techTags": "Ranged, Energy, Unholy, Destructive",
+          "techType": "Attack",
+          "techniqueName": "World-Breaking Strike",
+          "tier": "Relic",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!upE5JzNDlzhtnZvj",
+      "value": {
+        "_id": "upE5JzNDlzhtnZvj",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624368808,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624368808,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/rolled-cloth.svg",
+        "name": "Sky-Riding Carpet",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 25,
+          "artifactDescription": "An old and tattered rug of vermilion and gold, weaved in a mesmeric pattern. Smells a bit like hashish. Moves with an animation of its own. Tends to pose and strut like a cocky and theatrical young man.",
+          "chakra": {
+            "description": "Each piece of this armor has its own Chakra (two gauntlets, two greaves, one cuirass) with Recovery 6. These Chakra are blocked if you suffer the Dramatic Imbalance to their associated limb and do not recover Prana during such a round.",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>When unrolled and stood upon, can be commanded to fly with Rank 7 Agility speed and maneuvering. Can carry a single rider and up to two normal-person-sized guests.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Adventurous and flirty, this old rascal lives for thrills and fun. He constantly goads his rider into doing things in the most radical fashion they can.",
+            "dharma": "Dare a terrible danger for the sheer thrill.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Heavy",
+          "tag2Effect": "",
+          "techCost": 100,
+          "techEffect": "<p>You summon the slumbering decree of hell, rejecting the mortal world’s feeble attempt to destroy you. Against an Energy attack, this defense reflects a copy of any completely defended attack back at the attacker.</p><p>Until the end of the round, your armor enjoys an additional +25 bonus, for a total of 50.</p>",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 7,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Defense",
+          "techniqueName": "Laugh at Death",
+          "tier": "Treasure",
+          "type": "Item",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!X6Q65KFViT3MTdOm",
+      "value": {
+        "_id": "X6Q65KFViT3MTdOm",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624358125,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624358125,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/handheld-fan.svg",
+        "name": "Mesmeric Metal Fan “Maniac Mirror”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A mirrored war fan, painted with blood-crimson Kaufu sigils that drive the reader mad. Crafted by a cruel man for a cruel purpose, those who gaze into it see their worst fears.",
+          "chakra": {
+            "description": "Recovery 5, regains 1 Prana per 100 corpses in the surrounding Field",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+2 Ranks to a Defense 2/round</p><p><strong>Soul-Shredding Mirror:</strong> If you completely defend against an attack, the attacker suffers the difference in Aggravation to an Emotional Imbalance of stark terror against facing Maniac Mirror, as it reflects their darkest terrors. If they take the Dramatic Penalty for this Imbalance, they cannot willingly attack, confront or approach this weapon or its wielder.</p>",
+          "size": 2,
+          "soul": {
+            "description": "",
+            "dharma": "Destroy a war machine or industrial factory.",
+            "hasSoul": false
+          },
+          "tag1": "Subtle",
+          "tag1Effect": "",
+          "tag2": "Ranged",
+          "tag2Effect": "",
+          "techCost": 40,
+          "techEffect": "<p>Splaying the flashing metal leaves of the fan, you parry an incoming strike with a perfect reflection. So perfect, in fact, that it steps forth from the mirror and fights under your command! If the attack is completely blocked, you summon a clone of the attacker, which has their Effort in Ferocity and replicas of their equipment. They are sinister and deranged, act on your initiative, and are in all respects a Loyalty 10 Disciple.</p><p>This clone cannot replicate any magic of the original, with the sole exception of the attack that they were born deflecting; they can unleash this attack as an intrinsic magical capability once per round if an Expert or weaker Technique, and once per scene if a Master or Supreme Technique.</p><p>If the attack originated from a magic weapon, then they wield a distorted version of this Artifact which duplicates it more or less perfectly, with whatever cosmetic weird changes the GM deems appropriate. Duplicated artifacts are as fragile as mortal instruments and can be readily destroyed.</p>",
+          "techFacing": {
+            "max": 0,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 5,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Defense",
+          "techniqueName": "Through the Looking-Glass",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!XcaxGU1kIAprEyKG",
+      "value": {
+        "_id": "XcaxGU1kIAprEyKG",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755624320092,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558380114,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/RN7FQ0a.png",
+        "name": "Assassin’s Subtle Hook Swords “Gentleman Scoundrel”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 1400000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A pair of matte-black hook swords. They mute nearby sounds and radiate an aura of subtle menace.",
+          "chakra": {
+            "description": "Produce no Prana of their own, but if you must Quash your Prana Flare, then all Prana you would lose by reducing the Pool to 0 is stored within these blades and free to use until the end of the scene.",
+            "hasChakra": true,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": false,
+          "held": false,
+          "shakti": "<p>You may use these weapons to empower any attacks from stealth while remaining hidden.</p><p>Attack, +1 Rank. 2/Round</p><p>Disarm or Trip attempt, +3 Ranks 1/Round.</p><p>+5 Ranks to a Stealth action to hide 1/Scene.</p><p>If coated in poison, they totally absorb it and only release it at a time of their wielders choosing. Once excreted, the poison can remain for the remainder of the scene at the discretion of the wielder. They never poison the wielder.</p>",
+          "size": 3,
+          "soul": {
+            "description": "",
+            "dharma": "Fulfill a wicked contract.",
+            "hasSoul": true
+          },
+          "tag1": "Balanced",
+          "tag1Effect": "",
+          "tag2": "Subtle",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>Aiming at a vehicle, you unleash a glittering Ranged, Destructive Energy strike. If aimed at a sailing vessel, also unleashes an (Achieved Rank) wave to capsize the unfortunate vessel.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Element Control (Water), Ranged, Energy, Destructive",
+          "techType": "Attack",
+          "techniqueName": "Prow-Shattering Strike",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": true,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!XnibhrAebJOvJlR2",
+      "value": {
+        "_id": "XnibhrAebJOvJlR2",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624355655,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624355655,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/chainsaw.svg",
+        "name": "Magical Chainsaw \"Murderous Grin\"",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "A long and heavy machine that clatters and screams and growls like a metal animal. The jagged, hungry teeth never cease spinning; the thick metal grating on the side pukes out chewed-up flesh, gore and bone so that the engine never hitches no matter the violence it unleashes.",
+          "chakra": {
+            "description": "Recovery 5, regains 1 Prana per 100 corpses in the surrounding Field",
+            "hasChakra": false,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>For the cost of 1 Effort, Murderous Grin adds +1 Rank and +2d10 aggravation to any attack. This power is evocable for free once per round.</p>",
+          "size": 4,
+          "soul": {
+            "description": "Artistic and vainglorious, gothic and deeply macabre, Misfortune Rain loathes its existence and mollifies its existential agony with the glorious narcotic of artistic catharsis. Demands its wielder commit novel and visionary atrocities or it finds a way to slip their grasp and find a more homicidal and creative master.",
+            "dharma": "Create an artistic masterpiece of horror and suffering.",
+            "hasSoul": false
+          },
+          "tag1": "Special",
+          "tag1Effect": "",
+          "tag2": "Ranged",
+          "tag2Effect": "",
+          "techCost": 12,
+          "techEffect": "<p>You lash out in an explosion of violence. This attack is any combination with totals 3 Ranks; either a single +3, a +2 and +1, or three +1 attacks. If split into more than one strike, the attacks may each be given different Facings.</p><p>Foes struck by these attacks suffer +3d10 Aggravation.</p><p>If an enemy reduces damage from one of these strikes with their Aura, you gain that much Prana.</p>",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 3,
+          "techSkill": "-",
+          "techTags": "Multi-attack",
+          "techType": "Attack",
+          "techniqueName": "Bloodbath Frenzy",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    },
+    {
+      "key": "!items!y0xFl5p1bKUMFLHu",
+      "value": {
+        "_id": "y0xFl5p1bKUMFLHu",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755624320858,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755624340752,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/whitebackground/wolverine-claws_1.svg",
+        "name": "Bloodthirsty Tigers Claws “Flesh Thirsters”",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 1000000,
+        "system": {
+          "armorValue": 0,
+          "artifactDescription": "Three cruel copper hooks strapped to the knuckles and forearms, one for each hand. The straps are black silk and the gauntlets are polished stone; red jasper striped with black hematite. The claw-prongs gleam an impossible sunrise red; they are warm and pulse under the touch.",
+          "chakra": {
+            "description": "You gain 1 Prana per Aggravation you deal to an enemy.",
+            "hasChakra": true,
+            "recovery": 0
+          },
+          "editMode": false,
+          "hasTechnique": true,
+          "held": false,
+          "shakti": "<p>+2 Ranks to an Attack, 2/round</p><p>You count as Unarmed when wielding these weapons, allowing you to attack twice with a single Effort die each.</p><p>Always deal an additional 2d10 Aggravation</p>",
+          "size": 3,
+          "soul": {
+            "description": "",
+            "hasSoul": false
+          },
+          "tag1": "Unarmed",
+          "tag1Effect": "",
+          "tag2": "Balanced+",
+          "tag2Effect": "",
+          "techCost": 3,
+          "techEffect": "<p>Paying in your own flesh, you offer a sacrifice of meat to the Flesh Thirsters in exchange for savage power. You gain 1 Ferocity for every Effort you possess. Roll these dice and create a second action pool for attacks, defenses and acts of carnage this round.</p><p>Next round, replace your Effort with Ferocity entirely. If you choose to pay the cost of this Technique again at the start of that round, ignore the mechanical penalty for Imbalances.</p><hr><p><strong>The actual price for the technique is 3d10 Health.</strong></p>",
+          "techFacing": {
+            "max": 9,
+            "min": 0,
+            "none": true
+          },
+          "techLvl": "Novice",
+          "techRank": 2,
+          "techSkill": "-",
+          "techTags": "",
+          "techType": "Mudra",
+          "techniqueName": "Starving Tiger Meditation",
+          "tier": "Treasure",
+          "type": "Weapon",
+          "unique": false,
+          "worn": false
+        },
+        "type": "artifact"
+      }
+    }
+  ]
+}

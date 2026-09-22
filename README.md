@@ -1,8 +1,8 @@
 # LWF System
 
-![Foundry v13](https://img.shields.io/badge/foundry-v13-green)
+![Foundry v14](https://img.shields.io/badge/foundry-v14-green)
 
-This is a system to play the post-apocalyptic anime inspired ttrpg [Lone Wolf Fists](https://www.drivethrurpg.com/en/product/416442/tian-shang-lone-wolf-fists-core-rulebook) using Foundry VTT version 12+. It has been built starting from the [Boilerplate system](https://github.com/asacolips-projects/boilerplate), and I consider it currently feature complete.
+This is a system to play the post-apocalyptic anime inspired ttrpg [Lone Wolf Fists](https://www.drivethrurpg.com/en/product/416442/tian-shang-lone-wolf-fists-core-rulebook) using Foundry VTT version 14.368. It retains its AppV1 sheets for this compatibility release.
 
 ## Features
 - Character sheets for player characters, npcs/monsters, titans/disasters, vehicles, platoons, and squads.
@@ -26,6 +26,26 @@ This is a system to play the post-apocalyptic anime inspired ttrpg [Lone Wolf Fi
 - The module dice so nice does not work with the dice rolling mechanic - no dice are rolled.
 - Effort and health max cannot be increased for player characters - as a workaround for techniques that change these things, create an npc with the relevant stats.
 - Health bars should display properly, but please let me know if any other issues arise around display of health or other attributes!
+
+## Pack development
+
+Foundry compendium packs are LevelDB databases and must not be edited directly. Their
+`CURRENT` pointer files are sensitive to line-ending conversion on Windows. The reviewed
+source of record is `pack-source/*.json`; it preserves every LevelDB key and document ID.
+
+Use the following workflow after installing dependencies:
+
+```powershell
+npm run check:contracts
+npm run packs:roundtrip
+```
+
+The contract check verifies that the manifest, runtime registrations, and legacy Actor/Item
+template types agree, and prevents nested form markup. The pack command deterministically
+rebuilds temporary packs under `build/packs`, reopens them, and compares their semantic records
+with `pack-source`. `npm run packs:export` is intentionally refusing when `pack-source` is
+non-empty so it cannot overwrite reviewed content by accident. Only export from a verified
+release archive or a checkout whose LevelDB pointer files retain LF.
 
 ## Licenses
 The majority of this system is distributed under the MIT license, but the assets and packs folders are not. See 'assets/LICENSE-ASSETS.md' and 'packs/LICENSE-PACKS.md' for more information

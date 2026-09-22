@@ -1,0 +1,1496 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "gupt-kala",
+  "records": [
+    {
+      "key": "!folders!15Pa1c8CHeYb49Hz",
+      "value": {
+        "_id": "15Pa1c8CHeYb49Hz",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231622,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231677,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Art of the Doctor",
+        "sort": 200000,
+        "sorting": "a",
+        "type": "Item"
+      }
+    },
+    {
+      "key": "!folders!JC8Mu7PkgwbGey58",
+      "value": {
+        "_id": "JC8Mu7PkgwbGey58",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229639,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229639,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Art of the Courtier",
+        "sort": 100000,
+        "sorting": "a",
+        "type": "Item"
+      }
+    },
+    {
+      "key": "!folders!NyRk2KogC3MMsmMF",
+      "value": {
+        "_id": "NyRk2KogC3MMsmMF",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": "15Pa1c8CHeYb49Hz",
+        "name": "Alchemy Organs",
+        "sort": 0,
+        "sorting": "a",
+        "type": "Item"
+      }
+    },
+    {
+      "key": "!folders!Q95dVDOIuEX5No1I",
+      "value": {
+        "_id": "Q95dVDOIuEX5No1I",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": "St1XG0JYWuYu4V1P",
+        "name": "Elemental Curses",
+        "sort": 0,
+        "sorting": "a",
+        "type": "Item"
+      }
+    },
+    {
+      "key": "!folders!SgoM6mZoIP5OlE6A",
+      "value": {
+        "_id": "SgoM6mZoIP5OlE6A",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": "JC8Mu7PkgwbGey58",
+        "name": "Seven Classic Emotions",
+        "sort": 0,
+        "sorting": "a",
+        "type": "Item"
+      }
+    },
+    {
+      "key": "!folders!St1XG0JYWuYu4V1P",
+      "value": {
+        "_id": "St1XG0JYWuYu4V1P",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233582,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233658,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Art of the Priest",
+        "sort": 300000,
+        "sorting": "a",
+        "type": "Item"
+      }
+    },
+    {
+      "key": "!folders!tgb0IQ86TUVtr75m",
+      "value": {
+        "_id": "tgb0IQ86TUVtr75m",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": "St1XG0JYWuYu4V1P",
+        "name": "Elemental Blessings",
+        "sort": 0,
+        "sorting": "a",
+        "type": "Item"
+      }
+    },
+    {
+      "key": "!items!97oLnzzz92AgaOi6",
+      "value": {
+        "_id": "97oLnzzz92AgaOi6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "St1XG0JYWuYu4V1P",
+        "img": "modules/game-icons-net/blackbackground/jerusalem-cross.svg",
+        "name": "Art of the Priest",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "powers": "<p>Mankind needs intercession with the divine, especially since gods are ancient, weird and horrifically hungry beings with a penchant for screwing with mere mortals. Priests study the ancient laws of Heaven and Earth, learning the unbreakable ethereal legality by which spirits live. They chant, and meditate, and pray, not to achieve some distant enlightenment but to force the spirit world into a shape more favorable to themselves.</p><hr><p><strong>Uses the Spirit skill.</strong></p><hr><h1>New Action: Blessing or Curse</h1><p>You can create Spiritual Imbalances in your enemies. This requires you to place an arcane sigil on their body; this is classically a prayer strip affixed with a divine seal. Such marks cannot be removed unless their curse/blessing is removed. This requires a Spirit action, which can be defended against as an attack. It must manifest from within melee range. If your strike hits, The “damage” of your attack generates Aggravation towards a Spirit Imbalance. This may be any of the following Elemental Curses or Blessings.</p><h2>Elemental Curses</h2><p>These alter the circumstances of the universe rather than limiting your actions. They twist fate, rather than your body; suppressing them requires intense acts of will, constant adherence to weird behavior, or some other distracting practice that reduces your available Effort. If you want access to your full Effort, the world starts to warp around you as your new destiny manipulates circumstances to manifest itself.</p><h2>Elemental Blessings</h2><p>Alternatively, you can place an Elemental Blessing on yourself or any ally. A person may only be under the Influence of a single Blessing.</p><h1>New Action: Evoke Spirit Treaty</h1><p>You combine the act of summoning and binding a spirit into a special, much more powerful ceremony. You invoke the most ancient and sacred of heavenly laws and call forth a spirit.</p><ul><li><p>As with Summoning, this requires an hour-long ritual.</p></li><li><p>You do not require any token to call up the spirit; you have memorized the true names and laws of Heaven which allow you to summon any being which operates under heavenly decree.</p></li><li><p>Once summoned, the spirit appears instantaneously.</p></li><li><p>Consult the Spirit Effect Chart to determine the power of spirit you may call forth.</p></li></ul><p>As a tradeoff for your more powerful summoning, your binding is temporary and based on a bargain you strike with the spirit.</p><ul><li><p>You must name the deed you wish it to perform and the length of its service, and the spirit names its price.</p></li><li><p>If you meet the price, it must perform the deed to the best of its abilities. If you cannot, it is free to leave.</p></li></ul><p>You can haggle all you like; the spirit must name something that Heaven deems as a fair price, with the service of more powerful spirits worth a premium. In general, weak spirits want worship, wealth or material indulgences, while more powerful ones want veneration in annual ceremonies, large bodies of worshippers and prayer, vast wealth, and rare magical items.</p><h1>New Action: Heal the Soul</h1><p>You may heal Spiritual imbalances. You may treat one patient per Effortless Rank at a time. After several days of therapeutic prayer and cleansing, apply a Spirit action to each patient. They heal injury at an advanced rate according to the Rank of action used to treat them:</p><ul><li><p><strong>Rank 3:</strong> 2d10 of Spiritual Aggravation</p></li><li><p><strong>Rank 6:</strong> 3d10 of Spiritual Aggravation</p></li><li><p><strong>Rank 9:</strong> 4d10 of Spiritual Aggravation</p></li><li><p><strong>Rank 12:</strong> 1d10 Ranks of a Spiritual Imbalance</p></li><li><p><strong>Rank 14:</strong> 2d10 Ranks of a Spiritual Imbalance</p></li></ul>"
+        },
+        "type": "gupt-kala"
+      }
+    },
+    {
+      "key": "!items!9FyLMGRdcuFxfmqG",
+      "value": {
+        "_id": "9FyLMGRdcuFxfmqG",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Q95dVDOIuEX5No1I",
+        "img": "modules/game-icons-net/blackbackground/wildfires.svg",
+        "name": "Fire Curse",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Things go easy for you…. Too easy. Your life is technically charmed, but it makes your actual goals impossible. Something convenient, lucky and distracting constantly gets in the way of any actual accomplishments. You can’t attack, work towards a goal or pursue any Dharma while suffering this curse.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Effort"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!bnRGTSyoNdpBaRxW",
+      "value": {
+        "_id": "bnRGTSyoNdpBaRxW",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229679,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229679,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "JC8Mu7PkgwbGey58",
+        "img": "modules/game-icons-net/blackbackground/jester-hat.svg",
+        "name": "Art of the Courtier",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "powers": "<p>The courtier learns the language of the soul; those bottomless, emotional wavelengths that direct our actions more powerfully than reason can dare. They neither pull strings nor play games; they are machinists, delicately carving human personalities into interlocking shapes for their grand designs. Theirs is a subtle, insidious art; they sow memetics into their victims and reap a bountiful harvest of passion; much like the farmer, they know how to plant for the crop they desire.</p><hr><p><strong>Uses the Heart skill.</strong></p><hr><h1>New Action: Stoke Passion</h1><p>Courtiers can provoke a powerful, sustained attitude in the heart of another. Say something in-character to manipulate your target and take a Heart action. This can be defended against with Heart, as the foe counter-argues or rebukes your manipulations to the best of their ability. If your rhetoric overcomes theirs, the “damage” of your attack generates Aggravation towards an Emotional Imbalance as you fill their heart with poisonous magic.</p><p>You may Stoke Passions even in the midst of combat; a few quick but well-positioned words are more than enough to throw someone into a rage or kindle their deepest suspicions.</p><p>Choose the subject of the target’s Imbalance (a person, place, idea, plan, relationship, anything someone might feel passionately about) and choose one of the Seven Classic Emotions to inflame. These weak points of the soul are what Courtiers exploit to create their persistent manipulations.</p><h2>Bending the Emperor’s Ear</h2><p>A whisper in the right ear can change the fate of nations. Courtiers, with their encyclopedic understanding of human social dynamics and organizations of power, are masters of influencing the ideas of key decision-makers to their benefit. This allows them to orchestrate the Domain-level actions undertaken by their Rulers. Take a Heart action, targeting either the Ruler or one of their advisors or confidants. The Rank of your action determines how comprehensive your manipulations are:</p><ul><li><p><strong>Rank 1:</strong> 1 Domain action; may be a single die.</p></li><li><p><strong>Rank 3:</strong> 1 Domain action, must be a Rank 2+ action if available.</p></li><li><p><strong>Rank 6:</strong> 1 Domain action, must be their highest-Ranked action.</p></li><li><p><strong>Rank 9:</strong> 2 Domain actions, their Highest-Ranked and one additional.</p></li><li><p><strong>Rank 12:</strong> 3 Domain actions, each which must be the highest available.</p></li><li><p><strong>Rank 14+:</strong> Their entire turn is spent according to the courtier’s wishes.</p></li></ul><p>Insidiously, the Ruler is unaware that they are acting out the Courtier’s machinations and in fact, believe themselves to be following their own ideas and desires. An equal-Ranked Heart action can uncover the deception and return their true will to them.</p><h1>Healing Emotional Trauma</h1><p>Due to your extensive knowledge of the human heart and your delicacy at manipulating the psyche, you are able to heal the traumas and phobias of others. You may treat one patient per Effortless Rank. After a month-long period of psychoanalysis and therapy, apply a Heart action to each patient. They heal emotional injury at an advanced rate according to the Rank of action used to treat them:</p><ul><li><p><strong>Rank 3:</strong> 2d10 Emotional Aggravation</p></li><li><p><strong>Rank 6:</strong> 3d10 Emotional Aggravation</p></li><li><p><strong>Rank 9:</strong> 4d10 Emotional Aggravation</p></li><li><p><strong>Rank 12:</strong> 1d10 Ranks of Emotional Imbalance</p></li><li><p><strong>Rank 14+:</strong> 2d10 Ranks of Emotional Imbalance</p></li></ul>"
+        },
+        "type": "gupt-kala"
+      }
+    },
+    {
+      "key": "!items!BqlMFyvQZuJtut7V",
+      "value": {
+        "_id": "BqlMFyvQZuJtut7V",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Q95dVDOIuEX5No1I",
+        "img": "modules/game-icons-net/blackbackground/cosmic-egg.svg",
+        "name": "Cosmic Curse",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Gloomy, supernatural hauntings and misfortune bedevil you. These announce your presence, distract you, and make everything harder and more eerie. You cannot gain Advantage nor use stealth under any circumstances while so cursed, and that’s frankly the least of your worries. Have you ever tried to have a social life while shrieking phantasms make the walls bleed?</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Effort"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!cLfNv1o7F6nfUePb",
+      "value": {
+        "_id": "cLfNv1o7F6nfUePb",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Q95dVDOIuEX5No1I",
+        "img": "modules/game-icons-net/blackbackground/earth-spit.svg",
+        "name": "Earth Curse",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">This curse creates opportunities to indulge in specific bad behavior; an old killer can’t retire as they’re drawn back into a web of debts and loyalties, a recovering drunk is gifted a bottle of rare wine, a newlywed has wannabe paramours attempting to seduce them, etc. When the curse manifests, a new opportunity arises to indulge the behavior, and the character must resolve it or indulge while it remains in effect.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Effort"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!D0K62YTmMOnWMVj4",
+      "value": {
+        "_id": "D0K62YTmMOnWMVj4",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231654,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231654,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "NyRk2KogC3MMsmMF",
+        "img": "modules/game-icons-net/blackbackground/kidneys.svg",
+        "name": "Water System: Kidneys and Bladder",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Injured Water systems damage the regulation of energy. Their phlegmatic Prana overflows, causing torpor, laziness, sloth and indolence. You become depressed, losing sight of life’s joys and seeing only its agonies. Your actions become languid, shiftless and slow. You cannot be proactive; you can respond to others but take no initiative of your own. When not in immediate danger, you take as little action as possible, collapsing in a miserable heap.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!d7dcv3IhYrfd5OQZ",
+      "value": {
+        "_id": "d7dcv3IhYrfd5OQZ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229679,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229679,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "SgoM6mZoIP5OlE6A",
+        "img": "modules/game-icons-net/blackbackground/enrage.svg",
+        "name": "Wood: Deepest Hate",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">A seed of rage is planted inside you and watered with loathing. You utterly despise the target of this emotion; cooperating with it or even ignoring it is unthinkable. You’re blinded by furious anger and act like a rampaging beast toward it, attacking, shrieking, foaming at the mouth and generally going apeshit if granted half an opportunity.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Emotional",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!DXUnnA0kkIfLjNfA",
+      "value": {
+        "_id": "DXUnnA0kkIfLjNfA",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231654,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231654,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "15Pa1c8CHeYb49Hz",
+        "img": "modules/game-icons-net/blackbackground/doctor-face.svg",
+        "name": "Art of the Doctor",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 100000,
+        "system": {
+          "editMode": false,
+          "powers": "<p>The Doctor’s art is about understanding the natural harmony of elemental alchemy present within the human form. The balance of the digestive and cognitive systems with the limbic and cardiovascular, the delicate interplay between blood and Prana and the touchpoints where flesh and soul meet. The true Doctors have all vanished in the radioactive smoke of the end times, but their teachings and wisdom remain.</p><p>Doctors use a variety of special tools and techniques to diagnose and treat their patients. Some are esoteric, like the moxibustion of herbs in glass vials against pressure points or the subtle realigning of Prana meridians with acupuncture needles. Others are more familiar, such as the manipulation of tissue and spirit from acupressure massages or the direct manipulation of organs via surgical scalpel and instruments.</p><p>To the enlightened Doctor, these are all methods to ultimately achieve the same goal: the re-alignment of soul and body into a healthy and balanced whole.</p><hr><p><strong>Uses the Intellect skill.</strong></p><p>You may treat Physical Imbalances, Sickness or Poison of any type.</p><h1>New Action: Advanced Medical Treatment</h1><p>You may give sophisticated medical treatment. You treat up to one patient per Effortless Rank at a time; further patients must wait until you finish healing or abandon your current ones. After a 1-day period of rest and recuperation, apply an Intellect action to each patient. They heal injury at an advanced rate according to the Rank of action used to treat them:</p><p><strong>Rank 3:</strong> 2d10 Physical Aggravation</p><p><strong>Rank 6:</strong> 3d10 Physical Aggravation</p><p><strong>Rank 9:</strong> 4d10 Physical Aggravation</p><p><strong>Rank 12:</strong> 1d10 Levels of a Physical Imbalance</p><p><strong>Rank 14:</strong> 2d10 Levels of a Physical Imbalance</p><h1>New action: Malady Realignment</h1><p>In addition to accelerating the healing of Imbalances, Doctors have secret practices which can make them more manageable for recovering patients. You may take a ten-minute action cautiously evaluating and treating a willing patient’s injuries. At the end of this procedure you redistribute the damage in a given bodily system into a more manageable form.</p><p>Take an Intellect action. Its Ranks are the number of Ranks of a single Physical Imbalance that you may relocate. These Ranks may be relocated:</p><ol><li><p>To another Limb, or the Torso or Head</p></li><li><p>Into one of the body’s Internal Alchemy Organs as defined below</p></li></ol><p>If moved to another limb, this creates (or worsens) an Imbalance on the new body part, but relieves that many Ranks in the treated appendage. The damage is not healed, its effect is simply diverted and diluted over other bodily systems.</p><p>In combat, you may use precision strikes in conjunction with forbidden medical practices to inflame one of the Internal Alchemy Organs directly rather than create a standard Physical Imbalance.</p><p>In any instance where you would inflict Damage or Aggravation you may use it to create an Imbalance in any of the Internal Alchemy Organs outlined below. This is a permanent upgrade to your capabilities and has no cost for you.</p><h1>Internal Alchemy Organs</h1><p>The health systems of the body generally tick along quietly in the healthy human frame. They can be used by a crafty Doctor to absorb grievous outward injuries. This is not without strange consequences, however! A character whose injuries are internalized into one of the following organs suffers a unique Imbalance while they heal.</p><ul><li><p>The Mechanical Penalty is equal in Rank to the amount of Ranks “healed” from the relocated Imbalance.</p></li><li><p>The Dramatic Penalty is determined by the Alchemy Organ used to compensate.</p></li></ul>"
+        },
+        "type": "gupt-kala"
+      }
+    },
+    {
+      "key": "!items!guE0OM0s02tBGk2p",
+      "value": {
+        "_id": "guE0OM0s02tBGk2p",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229679,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229679,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "SgoM6mZoIP5OlE6A",
+        "img": "modules/game-icons-net/blackbackground/card-joker.svg",
+        "name": "Fire: Flippant Joy",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Nothing matters! Live for the Day! You Only Live Once! Yeah, you get the idea; you’re one of THOSE assholes. You are convinced, because of some aspect of the subject of this Imbalance, that nothing matters. So you party hard and die young, etc. You can’t commit to anything that isn’t immediately and completely gratifying (nor can you resist that which is those things). Your life is a meaningless, struggle-less party through the best hits of pleasure and hedonism while the fact of the Subject remains.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Emotional",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!gUKxjDU2ofjS34Xx",
+      "value": {
+        "_id": "gUKxjDU2ofjS34Xx",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229679,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229679,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "SgoM6mZoIP5OlE6A",
+        "img": "modules/game-icons-net/blackbackground/poison-bottle.svg",
+        "name": "Water: Envenomed Doubt",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Your heart is poisoned with doubt; you experience an incurable crisis of trust over the subject of this emotion. It is deceitful, has an ulterior motive, or was otherwise made to trick you in some deep and injurious way. If you fail to practice diligence with this snake of a Subject, it will mean your ruin. Trust is out of the question; if it offered to pull you up from dangling over a cliff, you’d rather drop than take the aid.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Emotional",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!hZNOlkUm4mr7e5aK",
+      "value": {
+        "_id": "hZNOlkUm4mr7e5aK",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231654,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231654,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "NyRk2KogC3MMsmMF",
+        "img": "modules/game-icons-net/blackbackground/heart-organ.svg",
+        "name": "Fire System: Heart and Small Intestine",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">When the Fire systems are inflamed, you become sanguine and emotionally overcharged. You burn with barelycontained passions, shrieking and cackling and weeping with uncontainable emotional overflow. Your actions become chaotic and driven by zealotry. You cannot be subtle, rational, consistent or cautious in your actions; you must act loudly, spontaneously and in a fever pitch of raw emotion.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!IFDAbrRMoDmyo3V7",
+      "value": {
+        "_id": "IFDAbrRMoDmyo3V7",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229679,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229679,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "SgoM6mZoIP5OlE6A",
+        "img": "modules/game-icons-net/blackbackground/robot-antennas.svg",
+        "name": "Metal: Logical Confusion",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Only logic matters; all else is built on lies. You must argue your actions concerning the subject back to first principles before you take them. This is cumbersome and leaves you struggling to justify even simple actions (you argued that last attack, but what about THIS one?!). Emotional appeals don’t work on you, but you also never take any risk that isn’t exhaustively, reductively calculated. You’re also incredibly easy to trick into doing stupid crap because a simple “no” never suffices as an answer.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Emotional",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!iyr9mbrBtwmI1zWo",
+      "value": {
+        "_id": "iyr9mbrBtwmI1zWo",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Q95dVDOIuEX5No1I",
+        "img": "modules/game-icons-net/blackbackground/windy-stripes.svg",
+        "name": "Air Curse",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You are brought together with something that hinders you; this might be a person, thing or even a place. While this curse is in effect, you just can’t shake this awful thing; it makes life suck for you while it’s connected to you. At a bare minimum, this causes Disadvantage, but it generally makes everything that can go wrong do so as spectacularly and pathetically as possible.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Effort"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!J2IUSOaAP8OLkL0Y",
+      "value": {
+        "_id": "J2IUSOaAP8OLkL0Y",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "tgb0IQ86TUVtr75m",
+        "img": "modules/game-icons-net/blackbackground/water-splash.svg",
+        "name": "Water Blessing",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You breathe water as easily as air. You also enjoy (Blessing’s Rank) in Effortless Resistance to water-related injury, such as the crushing depths of the ocean, and an equal amount of Effortless Agility to swim.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!j7WyWrlUaI5UsLeZ",
+      "value": {
+        "_id": "j7WyWrlUaI5UsLeZ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Q95dVDOIuEX5No1I",
+        "img": "modules/game-icons-net/blackbackground/metal-boot.svg",
+        "name": "Metal Curse",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">The technological world is your foe; electronic devices short out when you touch them, machines break down or snag your clothes and injure you. You’re constantly clingy with static electricity and ruin any artifice you touch. You cannot use any technology more sophisticated than stone-age clubs while so cursed.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Effort"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!kqlWjTVsHBx6M3Bp",
+      "value": {
+        "_id": "kqlWjTVsHBx6M3Bp",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231654,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231654,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "NyRk2KogC3MMsmMF",
+        "img": "modules/game-icons-net/blackbackground/lungs.svg",
+        "name": "Metal System: Lungs and Large Intestine",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Injuries diverted into the Metal systems deaden your emotions, leaving you cold and hyper-analytical. Moral conscientiousness becomes impossible; situations are evaluated purely along the axis of logic and game theory. Your actions become icy, mechanical and ruthless. You cannot act out of emotion or belief, and it is very possible that you decide to take no action at all, as none currently satisfy a sufficiently logical goal.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!l8EciyQnt6nkVG8Y",
+      "value": {
+        "_id": "l8EciyQnt6nkVG8Y",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625235431,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625235431,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/paint-brush.svg",
+        "name": "Art of the Artisan",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "powers": "<p>Masters of technology and innovation, the Artisan dares the mystical principles of invention and industry that lesser methods required aeons to recreate. Their craft is the art, philosophy and tradition of science, unclouded by the prejudice of intellectual bias. They align their inventiveness and engineering with the divine principles of creation, allowing them to make miracles of craftsmanship.</p><hr><p><strong>Uses the Intellect skill.</strong></p><h1>New Action: Kludge</h1><p>You can repair anything. Anything.</p><p>Granted a single action, a malfunctioning or broken device, some tools and some makeshift materials for repair, you can render a broken piece of machinery temporarily operational. This is extraordinarily dangerous to both the machine and its user, but in a pinch, sometimes, you risk it.</p><ul><li><p>Requires an Intellect action, which may be during an action scene as you frantically repair a device in the blink of an eye.</p></li><li><p>You must have tools which could possibly allow you to operate on the machine. They might be slipshod and improvised, but they need to be able to get the job done.</p></li><li><p>You must have some reasonably appropriate scrap materials to be used in the repair. Keep in mind that, in the real actual world, a radiator can be temporarily repaired with an egg,</p></li><li><p>You must have a broken machine in need of fixing. Note that, every System or Weapon on a vehicle counts as a single machine, as does the Vehicle itself.</p></li></ul><p>If all of the above criteria are met, you may attempt to Kludge the machine back into hazardous life.</p><p>The Rank of your Intellect action determines the sophistication of the machine you can repair. If you have the wits to engineer a tool of equal or greater sophistication than the one you are Kludging, then you miraculously repair the machine… Sort of.</p><p>Every time the machine is operated, roll a d10 atfer using it to determine if it malfunctions.</p><p><strong>1 or less:</strong> It explodes catastrophically, with a Rank equal to the Rank required to repair it (more technology makes bigger booms, it’s a universal law).</p><p><strong>2-3:</strong> It breaks down once again, this time beyond repair.</p><p><strong>4-10:</strong> Despite all odds, it operates normally</p><p>Every time the machine is used, subtract a cumulative -1 from the next roll. At the end of the current scene, a Kludged machine falls apart into worthless scrap and may never be repaired again.</p><h1>New Action: Engineer Machine Servant</h1><p>You can do with science what is typically accomplished only through magic: Your use of Intellect has the following new functions at these Ranks:</p><p><strong>Rank 3:</strong> You can engineer an unintelligent but otherwise sophisticated robot servitor. They obey your direct commands and perform simple tasks. They require no food nor water nor air and are powered for decades by their brass and crystal hearts. They are incredibly strong and resilient, able to lift up to Power 4 and withstand hardship up to Endurance 4, but they are clumsy and operate at Agility 0. Its Ferocity is 1, as a standard human sans intelligence.</p><p><strong>Rank 6:</strong> You can make any machine you create intelligent through the addition of a clockwork brain. The device is endowed with both intelligence and personality; it has an identity, opinions, a perspective, feelings, the whole nine yards. Its effective Intellect is Rank 4. If given to a humanoid machine, its Effort is effectively 2. Rank 9: You can construct a mighty behemoth of piston and steel. It can be as hulking as a tank (Size 7) and has Ferocity 12. You can engineer weaponry and motility for them that is equivalent in potency to a Beast-Tier creature.</p><p><strong>Rank 12:</strong> You may endow an intelligent mechanical servitor with incredible capabilities through the installation of a Prana Battery. Each Battery operates like a Chakra, with an Elemental Alignment (Earth, Fire, Water, etc.), a Pool of 3 and Recovery of 6. You may program any Techniques you know into your servitor’s steel brain, allowing them to make use of this artificial martial magic. Due to structural limitation (ie; the total lack of an actual soul), these devices cannot Prana Flare.</p><p><strong>Rank 14+:</strong> You can create a technological demigod. It can be as hulking as a tank and operates with an Effort of 15-20. It is installed with 7 Prana batteries and programmed with any Techniques you know. Although perfectly loyal to you, it has its own drive and desires and pursues them with all the powers at its disposal.</p><p>Engineering a miracle requires 1 frantic night’s worth of mad invention and construction in the case of Rank 3-9, and 1 Week’s tireless engineering for Rank 12+.</p><p>Constructing miraculous inventions requires a well-stocked laboratory sanctified to the elements (Wealth 1000 and a Rank 4 Spirit action must be used in it’s construction at a minimum).</p><p>Construction otherwise follows all the normal Crafting rules (p.17). All miraculous construction requires one-third of its materials as Magic Resources.</p><h1>New Action: Awaken A. I.</h1><p>You can endow an appropriately sophisticated computer with Artificial Intelligence that is as real and conscious as a spiritual being. This requires you to be capable of programming the computer and requires 1 night’s worth of sleepless toil at its console. The Rank of Intellect you achieve generates an A.I. of equal power to a being summoned through an equivalent Spirit action.</p><p>It has Effort and powers equivalent to these beings, but it must remain within the technological confines of its computer universe, making it effectively Ghostly (p.185). It may communicate through and operate all of the devices connected to it’s processor, but it cannot use it’s powers in any other physical capacity.</p><p>Such beings have strange powers, such as sending those near their processors into virtual-reality Psychic Vision Quests (p.200), constructing artificial entities that are equivalent to ghosts of various types (such as Bhuut p.204, or Nightmare Made Flesh, p. 199), or modifying living beings who get within range of their mechanical apparatuses (creating beings like the Cyber-Thugs, p.193). They might possess nearby corpses as a Vetala (p.203), construct robotic servitors or war machines (p.190) or trap demons and spiritswithin technological prisons (p.202)</p><h1>New Action: Craft Wonders</h1><p>Only Artisans are capable of the genius and spontaneous creativity necessary to create the highest echelons of mechanical or magical marvels. See the Armory for full details (p.231)</p>"
+        },
+        "type": "gupt-kala"
+      }
+    },
+    {
+      "key": "!items!Lpl1aewM7NmVMsH6",
+      "value": {
+        "_id": "Lpl1aewM7NmVMsH6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "tgb0IQ86TUVtr75m",
+        "img": "modules/game-icons-net/blackbackground/wind-hole.svg",
+        "name": "Air Blessing",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You’re immune to injury or death from the cold. You additionally enjoy (Blessing’s Rank) in Effortless movement related to overcoming obstacles (not to speed though).</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!LT3E03pUlWx3mkWk",
+      "value": {
+        "_id": "LT3E03pUlWx3mkWk",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229679,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229679,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "SgoM6mZoIP5OlE6A",
+        "img": "modules/game-icons-net/blackbackground/all-seeing-eye.svg",
+        "name": "Cosmic: Enlightenment Obsessions",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You are driven to seek enlightenment everywhere, mistaking your blind zeal for aesthetic dedication. You cannot act practically; every action must be in perfect accord with your highest principles at all time or you must piously refuse all earthly action and suffer whatever mere mortal consequences that entails.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Emotional",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!Lx7hdgVxVybHZdGx",
+      "value": {
+        "_id": "Lx7hdgVxVybHZdGx",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "tgb0IQ86TUVtr75m",
+        "img": "modules/game-icons-net/blackbackground/alien-fire.svg",
+        "name": "Fire Blessing",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You’re immune to injury or death from the cold. You additionally enjoy (Blessing’s Rank) in Effortless movement related to overcoming obstacles (not to speed though).</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!NFIcdnLKruOvVBW5",
+      "value": {
+        "_id": "NFIcdnLKruOvVBW5",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "tgb0IQ86TUVtr75m",
+        "img": "modules/game-icons-net/blackbackground/metal-plate.svg",
+        "name": "Metal Blessing",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You conduct electricity perfectly and can hence never be electrocuted. You enjoy a magnetic field that repels metal ammunition and weapons as armor of (Blessing’s Rank).</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!NN1qAQCvYhgbzFrC",
+      "value": {
+        "_id": "NN1qAQCvYhgbzFrC",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Q95dVDOIuEX5No1I",
+        "img": "modules/game-icons-net/blackbackground/mouth-watering.svg",
+        "name": "Water Curse",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You are separated from something vital. This might be a person, object or even place you require. While this curse is in effect, you can’t get into contact with it; circumstances intervene to prevent any interaction. The crafter of the curse names the thing so distanced. If you’re in direct contact with it, circumstances change such that you both separate at an Agility Rank equal to this Imbalance unless this is somehow beneficial, in which case one of you is injured, destroyed or otherwise ruined while you remain together as from a Hazard of that Rank instead.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Effort"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!NPl7k7DSdWeWzG5k",
+      "value": {
+        "_id": "NPl7k7DSdWeWzG5k",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231654,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231654,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "NyRk2KogC3MMsmMF",
+        "img": "modules/game-icons-net/blackbackground/stomach.svg",
+        "name": "Earth System: Spleen and Stomach",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">A harmed Earth system obstructs the body’s attunement to the natural instinct to evolve and change. You become stoic, unchanging and rigid in mind and stiff in body. You grow stubborn and hard-headed. Your actions become clipped, reluctant and rigid. They can only be negative; you can only criticize, defend, dig in, and otherwise act like a stubborn ass. You don’t attack or move unless it is suicidal to avoid doing so.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!Nystew22fnMeD5gr",
+      "value": {
+        "_id": "Nystew22fnMeD5gr",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231654,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231654,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "NyRk2KogC3MMsmMF",
+        "img": "modules/game-icons-net/blackbackground/brain.svg",
+        "name": "Cosmic System: Chakra and Limbic System",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Imbalances relocated to the eyes and brain influence the perception of reality. You become detached from reality, hallucinating and confounding cause and effect. Your actions follow an altered reality defined by the Doctor; you must treat these hallucinations as real, no matter how bizarre or impossible they become.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!OgmMtVNLzGF2AFS3",
+      "value": {
+        "_id": "OgmMtVNLzGF2AFS3",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229679,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229679,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "SgoM6mZoIP5OlE6A",
+        "img": "modules/game-icons-net/blackbackground/water-drop.svg",
+        "name": "Air: Detachment and Sorrow",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You’ve been hurt and you won’t be hurt again. You experience emotional agony when you encounter or even contemplate the target of this emotion, unable to bear interacting with it or even thinking about it without a total emotional breakdown. Further, while the subject persists, you refuse to get close to anyone or anything else, detaching yourself from emotional investment and becoming distant and passive to everything.</span></p>",
+          "editMode": false,
+          "rank": 1,
+          "source": "Emotional",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!rfeeO5Fz1qCrcNaA",
+      "value": {
+        "_id": "rfeeO5Fz1qCrcNaA",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231654,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231654,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "NyRk2KogC3MMsmMF",
+        "img": "modules/game-icons-net/blackbackground/eyeball.svg",
+        "name": "Air System: Eyes and Brain",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">When the sensitive Air systems are used to divert injury, the body’s ability to regulate fear and suspicion is injured. You become paranoid, flighty and hyper-reactive. Every friend is a secret foe, every shadow contains an assassin. Your actions become twitchy and hair-trigger. You cannot take any action with the barest particle of risk, you may never act on trust, and you may devolve into a paranoid knot of tightly-clenched muscle if unable to otherwise protect yourself.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!rh1bJUW3Uv7mHE42",
+      "value": {
+        "_id": "rh1bJUW3Uv7mHE42",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Q95dVDOIuEX5No1I",
+        "img": "modules/game-icons-net/blackbackground/evil-tree.svg",
+        "name": "Wood Curse",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Natural phenomena conspire against you; animals despise you, catastrophes of the natural world beset you wherever you go, you can’t find a moment’s rest, peace or comfort while in natural surroundings. You cannot use Stealth or gain Advantage whatsoever from natural terrain. Additionally, you treat any natural terrain as Disadvantageous, or Dangerous if it's already Disadvantageous.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Effort"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!sFfS90cUFOIQzSRC",
+      "value": {
+        "_id": "sFfS90cUFOIQzSRC",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625237948,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625237948,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/wizard-face.svg",
+        "name": "Art of the Sage",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "powers": "<p>The future is anyone’s game; people do regrettably have free will, and every problem in history is the result of that cosmic oversight. But the shape of the future is as concrete as the shape of the past, to those who understand how to see it. Some consult venerable poetry-texts, some stick hot pokers into tortoise shells, some toss the ol’ bones or draw from a deck of cards; some are just super-geniuses who figure it out. Whatever the method, these clairvoyants and savants make predictions that come true; where do you think all those ominous prophecies come from?</p><hr><p><strong>Uses the Senses Skill</strong></p><hr><h1>Foretell Prophecy</h1><p>You make predictions about the future, sensing the subtle twitches of the skein of fate. Prophecies might be somewhat broad and a touch vague, but they’re still true; or, rather, they’re the most likely shape the future will take.</p><p><strong>To Foretell a Prophecy, first consult your preferred scrying equipment for ten minutes and craft a Prophecy.</strong></p><p>You can (and should) be exceptionally weird and vague with the specifics of your prophecy, but you must articulate an Approach within it that allows cunning actors to exploit fate to their benefit (and avoid its perils!)</p><h2>Prophecy Approach</h2><p>The Approach is a statement of the form <strong>“The (Situation) must be approached in (Manner)”.</strong></p><p>This will serve as the basis for judging whether people are acting in accordance with the Prophecy, similarly to a Dramatic Penalty in other Imbalances.</p><ul><li><p>The <strong>Situation</strong> refers to a forthcoming Scene; it might be a battle, or an important ritual, or a social event; really, any specific event that’s going to happen within this Campaign Arc. <strong>While the scene lasts, the Prophecy effects </strong><em><strong>everyone</strong></em><strong> present and everyone whose actions influence the Scene.</strong> This means that even distant and indirect actors are affected while interacting with the prophesied event.</p></li><li><p>The <strong>Manner</strong> that it can be approached is prescriptive, like “cautiously” or “recklessly” or even something more esoteric like “reverently”. This is the trigger that is used to determine if a given character’s actions will be helped/hindered by the Prophecy. It can be as specific or broad as the Seer wishes; specificity will make it harder for foes to take advantage of the Prophecy, but will hinder the freedom of allies to pursue it creatively. Broader Manners allow for more flexibility, but risk the enemy benefiting from your Prophecy.</p></li></ul><p><strong>Next, take a Senses action to determine how accurate, broad and binding your new Prophecy turns out.</strong></p><p>While in the Situation, characters must adhere to the Method of the Prophecy to claim its advantages, or avoid its penalties:</p><ul><li><p><strong>Rank 1:</strong> Adhering to the Manner prescribed for the Prophecy grants Advantage.</p></li><li><p><strong>Rank 3:</strong> Additionally, ignoring the Manner causes Disadvantage.</p></li><li><p><strong>Rank 6:</strong> Adhering additionally grants you +3 Effort per round. The GM has veto action against your actions while you enjoy this advantage; should a proposed action not harmonize with the Manner, you may not take that action.</p></li><li><p><strong>Rank 9:</strong> Ignoring the Manner now additionally penalizes you -3 Effort each round. The GM must warn you, prior to committing to an action, if it will carry this auspicious sanction. If you cannot be penalized during this round, then you will lose 3 Effort in a future round/action of the GM’s choosing instead. Fate is cruel!</p></li><li><p><strong>Rank 12:</strong> The scope of your Prophecy is broadened and deepened. It now applies more generally; the Prediction remains for the entire next Campaign Arc and influences everyone whose actions can be traced to the Situation during that time.</p></li><li><p><strong>Rank 14+:</strong> Your Prophecy becomes permanent; it is inherited by the descendants of those involved in the situation, or the place it is foretold to occur, forever predicting those bloodlines or areas as auspicious places for the Situation to take place</p></li></ul><h3>Example Prophecies</h3><p><em><strong>Example Prophecy 1:</strong> “When the sun rises, everyone weeps. The air of winter is foul. The southern mountain has a bird and the north is fallen. When the cock crows, the sun shall set.”</em></p><p><em><strong>Approach:</strong> The forthcoming battle in the Sword Peak Mountains must be approached subtly</em></p><p><em><strong>Rank:</strong> 9</em></p><p>In this example, an indirect, stealthy or otherwise subtle approach to battle would be in accordance with the Approach.</p><p><em><strong>Example Prophecy 2:</strong> “God is blind. The grass and trees grow downward. Positive and negative switch positions. Up is earth, and down is Heaven. Even the headless must wear crimson caps. Abusing authority, when will this end? A history of countless blunders will ensue”</em></p><p><em><strong>Approach:</strong> The governance of Thankless Toil Providence must be approached frugally</em></p><p><em><strong>Rank:</strong> 12</em></p><p>A more powerful Prophecy, this one applies to the entire next Campaign Arc, rather than a single scene. It essentially forbids ill-considered actions on the part of the rulers of the Thankless Toil Domain, forcing them to act uncharacteristically wise in their stewardship, the morons.</p><h1>Predict Fate</h1><p>You can foretell the fate of any person, place or thing, seeing their future as clearly as their present. These predictions are more concrete and limited in scope, so are much faster to generate; merely glance at your scrying tool and consider the subject and in a heartbeat the truth will reveal itself to you.</p><p>Predicting Fate creates an special kind of Imbalance, called a <strong>Prediction Imbalance.</strong> These are stranger than normal Imbalances, and can be applied to anything, not just people. They can also influence how others interact with the subject, rather than simply dictating how the subject will act.</p><p>To create a Prediciton Imbalance, use a Senses action and make a brief prediction using your chosen divination method, directed towards any a person, place or thing. You need not be able to perceive the target directly, as your divination sees their fate, rather than the subject itself.</p><p>Your prediction must take the form of: <strong>“(Subject) will (Prosper/Decline) if (Circumstance arises)”</strong></p><ul><li><p>For nonliving targets, the Rank of your action determines the Rank of the Prediction.</p></li><li><p>For living targets, they may defend against your prophesied doom with their own Senses action, subtracting their action from yours and taking Aggravation equal to the difference.</p></li></ul><p>You may choose whether the target <strong>Prospers</strong> or <strong>Declines</strong>.</p><p><strong>Prosper</strong> predictions allow the target to claim a Bonus if their actions this round/turn all adhere to the prophecy’s dictates.</p><p><strong>Decline</strong> predictions enforce their Penalty unless their target adheres to the prophecy’s edicts this round/turn (in this way, it functions almost identically to a Dramatic Penalty)</p><p><strong>Note</strong> that Predictions Imbalances need not adhere strictly to the “Subject will decline/prosper if circumstance” formula, they need merely contain a subject, action and direction of fortunes. So “Those who swear the Pumpkin-Stealing Oath will decline if they betray its dictates” works as well as “Those who break the Pumpkin-Stealing Oath shall suffer”</p><h1>Prediction Imbalances</h1><p>The Rank of these peculiar Imbalances determine how much of bonus/Penalty they enforce as well as how long they last;</p><ul><li><p><strong>Rank 3:</strong> +/-1 Effort, 1 Week</p></li><li><p><strong>Rank 6:</strong> +/-2 Effort, 1 Month</p></li><li><p><strong>Rank 9:</strong> +/-3 Effort, 1 Season/Arc</p></li><li><p><strong>Rank 12:</strong> +/-4 Effort, 1 Year</p></li><li><p><strong>Rank 14+:</strong> +/-5 Effort, Permanent</p></li></ul><p>Prosper predictions award Effort bonuses, while Decline predictions enforce penalties. To claim a bonus, you must either act within or cause the described circumstance. To avoid a penalty, you must avoid the circumstance or prevent it.</p><p>After the duration of a Prediction, circumstances change so that it’s no longer relevant and it vanishes (unless it’s permanent, in which case, tough luck).</p><h2>Modifying Fortune</h2><p>A Seer can weaken a Prediction to make it more enduring, or shorten it to increase its potency.</p><ul><li><p>You can alter the duration of a Prediction by reducing it’s Bonus/Penalty by 1 for each time category you want to boost it.</p></li><li><p>Alternatively, you can reduce it’s time category to increase it’s Bonus/Penalty by +/-1 per step.</p></li></ul><p>For example, a Rank 9 Prophecy could be permanent if it only enforced a -1 Effort Penalty, or it could last but a single week and enforce a crippling -5!</p><h2>Auspicious Places and Things</h2><p>When interacting with auspicious inanimate things, like places or objects which carry a Prediction Imbalance, it is your actions, rather than the subjects, that determine whether you can claim the bonus or avoid the penalty.</p><p>For example, if you’re battling at Garbage Dump Paradise and dealing with its eternal Prediction Imbalance “Those who do harm to their loved ones here will prosper”, then you can claim its juicy +3 Effort bonus during any round in which you’re attempting to injure somebody you love. This has led to more than one bitter martial rivalry ending in marriage, by the way, so use this strategy judiciously.</p><h2>The Limits of Prophecy</h2><p>Every subject may only be under a single Prediction Imbalance and a single Prophecy at a given time. The highest- Ranked of these are the only ones which stick; lesser Prophecies and Predictions revealing only incomplete, garbled or inaccurate visions of fate.</p>"
+        },
+        "type": "gupt-kala"
+      }
+    },
+    {
+      "key": "!items!sI1bOLPxJWbEhOco",
+      "value": {
+        "_id": "sI1bOLPxJWbEhOco",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625239283,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625239283,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/evil-tower.svg",
+        "name": "Art of the Sorcerer",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "powers": "<p>Buried in moldering tomes and kept in secret vaults in hell are the ancient laws of demonkind. They contain the words of command for the dead and for devils, the rituals by which they may be bound in service and commanded. This deep magic was laid down in antediluvian antiquity so that the high cosmos was not subject to the petty bickering and power-grabs that plague the elemental courts, but they came with a cost; any one versed in their nuances could evoke and claim their sovereignty. The sorcerer's art was thieved from hell one lifetime at a time, its cost paid in blood and souls.</p><hr><p><strong>Uses the Spirit skill.</strong></p><h1>New Action: Command the Dead</h1><p>With an hour-long ritual, an imperious command and a fresh supply of bodies, you raise the dead to do your bidding. The Rank of your Spirit action determines the quality and amount of the undead.</p><ul><li><p><strong>Rank 3:</strong> You raise a single human or animal corpse, even one withered entirely into bones. It follows your commands but is about as intelligent and obedient as a barely-tamed, hungry wolf. It has a Ferocity of 1.If fed with a steady supply of living flesh and trained, it gains a measure of sentience; this turns its Ferocity into Effort and it can become a Disciple after 1 Plot Arc.</p></li><li><p><strong>Rank 6:</strong> You can bestow a single corpse with sentience and self-control, making a Ghoul, an intelligent undead servant of impressive skill. In addition to an Effort of 2, they have a single Mortal Mastery of your choosing, 2 total Health Levels, a Focus Slot and access to their Hell Chakra. They are created with Loyalty 10, but this can erode as usual. Protip: they eat copious volumes of fresh meat. They may be trained as Disciples act in all respects like selfish, cannibalistic Minor Heroes.</p></li><li><p><strong>Rank 9:</strong> You may imbue a corpse with not only intelligence and will, but mystical power. You can recreate any undead of your choosing of Effort/Ferocity 10 or less.</p></li><li><p><strong>Rank 12:</strong> Your dark mastery now allows you to create undead of Effort/Ferocity up to 20.</p></li><li><p><strong>Rank 14+:</strong> You can create an undead being of up to Effort/ Ferocity 30. Additionally, you can remove your own heart and transform yourself into an undead creature.</p></li></ul><h2>Becoming Eternal</h2><p>If you turn yourself undead, your corpse-body operates by the following rules:</p><ul><li><p>You neither age nor die.</p></li><li><p>You can neither be poisoned nor become sick (although your body can be the vector of sickness for others).</p></li><li><p>You neither breath nor bleed. Neither do you feel pain, suffer shock from injuries, or deal with damage in any way except as a corpse. Your body is a stranger to your soul.</p></li><li><p>You become vulnerable to Holy attacks.</p></li><li><p>You must eat only freshly killed meat (rotten meat will do in a pinch, but you absolutely cannot eat cooked food).</p></li><li><p>You cannot procreate.</p></li><li><p>Your body doesn’t heal naturally; it must be repaired via the corpse-restoring methods of undertakers. It is repaired similarly to a vehicle.</p></li></ul><p>Your Chakra still function because your soul and its connection to your body is still technically intact. This means you’re still vulnerable to things like the Doctor’s Art, with the notable advantage of being capable of removing and transplanting troublesome organs with considerably greater ease.</p><h2>Raising the Horde</h2><p>You can create larger numbers of undead if you have sufficient skill. When making undead weaker than your Rank entitles you to, you may make a larger number of lesser undead (assuming you have the fresh corpses available).</p><ul><li><p><strong>1 Category less:</strong> 3 such undead</p></li><li><p><strong>2 Categories:</strong> 10</p></li><li><p><strong>3 Categories:</strong> 25</p></li><li><p><strong>4 Categories:</strong> 100</p></li></ul><h1>New Action: Summon Demon</h1><p>Rather than summoning spirits, you can call up the denizens of hell.</p><ul><li><p>As with Summoning, this requires an hour-long ritual.</p></li><li><p>You do not require any token to call up the demon; you have memorized the true names and laws of Naraka which allow you to summon any of hell’s inhabitants.</p></li><li><p>Once summoned, the demon appears instantaneously and is bound to your will for one year and a day.</p></li><li><p>Consult the Spirit Effect Chart to determine the power of demon you may call forth.</p></li></ul><h1>New Action: Unhallow Landscape</h1><p>With an hour-long blood ritual, you can consummate a place to be sacred under the laws of hell. The higher your Spirit action, the larger an area you can unhallow. However, the cost in blood also increases; you must sacrifice this many living creatures (with at least as much blood in their body as a human being) and spill their blood into your ritual circle to complete the sorcery.</p><ul><li><p><strong>Rank 3:</strong> 1 Room, 1 sacrifice</p></li><li><p><strong>Rank 6:</strong> 1 Area, 3 sacrifices OR a Minor Hero Fist</p></li><li><p><strong>Rank 9:</strong> 1 Field, 10 sacrifice OR a Degree 1+ Lone Wolf Fist</p></li><li><p><strong>Rank 12:</strong> 3 connected Fields, 50 sacrifices OR a Degree 3+ Lone Wolf Fist</p></li><li><p><strong>Rank 14+:</strong> 1 Tract, 100 sacrifices OR a Sworn Brotherhood of Lone Wolf Fists</p></li></ul><p>Unhallowed landscapes have the following properties to make them extremely useful to Sorcerers:</p><ul><li><p>Sorcerous rituals performed in them have their effect increased by one category. This means Demonic summoning reads the next entry in the Spirit Effect Chart for purposes of summoning and Commanding the Dead reads the entry after the one achieved. For example, a Rank 3 result in Commanding the Dead would allow you to create a Ghoul servant.</p></li><li><p>The Sorcerer is aware of all that transpires within their Unhallowed Landscape as with a Rank 6 Spirit action. They can invade the thoughts and dreams of those who dare enter their realm, allowing psychic, emotional and magical attacks which their foes cannot answer.</p></li><li><p>The Unhallowed Landscape has a Rich Magic Node within every Field, as veins of hellish materials boil to the surface.</p></li><li><p>Sorcerers do not Prana Flare and are not subject to Volatility within their own Unhallowed Landscape</p></li><li><p>In a single Area, a Hellish Font forms. Demonic Prana pumps from it like a volcanic geyser; those with an active Hell Chakra may drink up to (The Rank required to create the site X 2) in Prana from it per round so long as they can perceive it</p></li><li><p>Insubstantial Evil spirits may operate as though they had corporeal bodies against the enemies of the Sorcerer while within an Unhallowed Landscape. Corporeal evil spirits who serve the Sorcerer (specifically including all Demons) can blend into the landscape, becoming frightening looking architecture or statues and may end this facade to spring terrible surprise assaults at will.</p></li></ul>"
+        },
+        "type": "gupt-kala"
+      }
+    },
+    {
+      "key": "!items!UAmtZtLefvL2sm8g",
+      "value": {
+        "_id": "UAmtZtLefvL2sm8g",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "tgb0IQ86TUVtr75m",
+        "img": "modules/game-icons-net/blackbackground/black-hole-bolas.svg",
+        "name": "Cosmic Blessing",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You enjoy (Blessing’s Rank) in Effortless defense against purely magical effects.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!UmdSn3qRZmb3oJne",
+      "value": {
+        "_id": "UmdSn3qRZmb3oJne",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "tgb0IQ86TUVtr75m",
+        "img": "modules/game-icons-net/blackbackground/deku-tree.svg",
+        "name": "Wood Blessing",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You cannot be poisoned by any plant. You enjoy a (Blessing’s Rank) Effortless Endurance to survive in inhospitable natural environments.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!vcGwL6vWmdMLvAcS",
+      "value": {
+        "_id": "vcGwL6vWmdMLvAcS",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625229679,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625229679,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "SgoM6mZoIP5OlE6A",
+        "img": "modules/game-icons-net/blackbackground/terror.svg",
+        "name": "Earth: Soul-Wilting Terror",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You are utterly terrified of the subject of this emotion. Being in its presence or thinking about it too deeply is enough to send you catatonic (or apoplectic, depending on how you process mind-rending, stupefying horror). You’ll endure bodily injury or death before confronting it, you wuss.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Emotional",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!VCiJhTabJB6XaG1o",
+      "value": {
+        "_id": "VCiJhTabJB6XaG1o",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625231654,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625231654,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "NyRk2KogC3MMsmMF",
+        "img": "modules/game-icons-net/blackbackground/liver.svg",
+        "name": "Wood System: Liver and Gallbladder",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">The Wood systems regulate the body’s natural hedonistic impulses; when inflamed by offset injury, you become animalistic and self-indulgent. You live for visceral pleasure, a purely hedonic beast, utterly debased to your most depraved urges. Your actions become lustful and basic and you cannot control your impulses at all. You must indulge and debase yourself in any available pleasure and may invent a unique one on the spot according to the GM’s whims.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!vq4ChiKgey6rzcyZ",
+      "value": {
+        "_id": "vq4ChiKgey6rzcyZ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625233636,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625233636,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "tgb0IQ86TUVtr75m",
+        "img": "modules/game-icons-net/blackbackground/ground-sprout.svg",
+        "name": "Earth Blessing",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "bodyPart": "Any",
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">You never get lost; you have an unerring sense of place. If you would roll on the Infamous Staggering Around Like An Idiot Chart, your result becomes 10. Additionally, you enjoy (Blessing’s Rank) in Effortless defense against any injury caused by earth or stone.</span></p>",
+          "editMode": true,
+          "rank": 1,
+          "source": "Spiritual",
+          "stat": "Any"
+        },
+        "type": "imbalance"
+      }
+    },
+    {
+      "key": "!items!ZZ3QR50VvieZaMvn",
+      "value": {
+        "_id": "ZZ3QR50VvieZaMvn",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625236744,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625236744,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/brodie-helmet.svg",
+        "name": "Art of the General",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "powers": "<p>The general’s wisdom is purchased in the bodies of friends and the innocent. Theirs is an art too vital to neglect, too fundamental to ignore. By studying all of mankind’s wearisome wars, they find the cosmic mandates of heaven, those most sacred and invisible laws of conflict on which all battle is founded and by which every struggle is judged. They align their actions with these divine principles and become invincible, striding against insane odds and prevailing against inevitable defeat.</p><hr><p><strong>Uses Intellect to create Divine Strategies</strong></p><p><strong>Uses Heart to Influence the Jianghu</strong></p><hr><p>Generals Create Divine Strategies by aligning their battlefield plans with one of the Seven Divine Tactics. Generals Influence the Jianghu by pulling the subtle threads which hold the society of mystical martial artists together.</p><h1>New Action: Formulate Divine Strategy</h1><p>Given ten minutes to formulate a plan and instruct yourtroops, you create a divinely-inspired battle strategy. These are beneficial and function similarly to Imbalances; those who adhere to your plan reap its benefits so long as they restrict and focus their actions accordingly during the turn. The Rank of the Intellect Action you use to devise your Divine Strategy determines the benefit for adopting it:</p><p><strong>Rank 1:</strong> The plan is brittle and short-sighted, but efficacious. You may gain Advantage once during an ensuing conflict for following it. After this, it no longer functions.</p><p><strong>Rank 3:</strong> So long as you adhere to this solid and wellsequenced plan, you gain +1 Rank to any 1 action during your turn.</p><p><strong>Rank 6:</strong> Obeying this brilliant plan grants you +2 Ranks to any one action once per turn.</p><p><strong>Rank 9:</strong> Following this genius strategy affords you +3 Ranks to a single action once per turn.</p><p><strong>Rank 12:</strong> Following the enlightened instructions of this mystical general-sage yields an astonishing +4 Ranks to a single action once per turn. Alternatively, you can add +2 to two actions.</p><p><strong>Rank 14+:</strong> Obeying the transcendent wisdom of this heavenly general gifts you with a staggering +5 Ranks to a single action once per turn. You can alternatively add +3 to two actions.</p><p>Anyone with an Effort of 2 or higher who is supplied with the plan may use it in a forthcoming battle. It can be verbally explained or given as written or other instructions. It need not be fully read and comprehended; if the general outline is understood, the recipients need only some reference material or in-battle instructions to keep on track. It cannot be utilized by anyone with an Effort of only 1, but it can be given to Squads, Platoons, even entire armies. Generals often find it efficacious to formulate several plans and distribute them so that different wings of a larger force can pursue distinct strategies while still benefiting from their genius.</p><p>Divine Strategies are instructions, conceived of by the player creating them, that consider both the specifics of the battle situation and the mystical principles outlined in the Seven Divine Strategies below. Characters who wish to benefit from their boon must align their actions with the demands of the plan’s details. Specifically, they must do at least ONE of the following:</p><ul><li><p>Keep within a specific Area, or keep moving.</p></li><li><p>Remain in or return to a certain state (like being hidden, or protected by magic, or underwater).</p></li><li><p>Continue or avoid a certain type of activity (like refraining from offense, or sacrificing the use of certain skills, or keeping up an unrelenting onslaught of attacks).</p></li></ul><p>Additionally, the plan itself must adhere to the approach of the specific Divine Strategy you choose, as outlined below. Once devised, a Divine Strategy remains relevant until the situation radically changes, or for the duration of the following Action scene; whichever comes first.</p><h1>The Seven Divine Strategies</h1><h2>Cosmic Strategy: Mystical Warfare</h2><p>The Cosmic strategy is to use the gifts of heaven and hell to your benefit. The strategy must utilize magic of some variety, which includes the magical martial-arts of the Yuddhakhala.</p><h2>Metal Strategy: Shadow War</h2><p>The Metal strategy is one of striking from the shadows. It must include subterfuge, stealth, surprise attacks, sabotage, or some other form of stealth warfare.</p><h2>Wood Strategy: Furious Onslaught</h2><p>The Wood strategy is relentless offense! It must utilize a powerful imbalance towards attacks or destruction and must not involve utilizing defensive structures or advantages.</p><h2>Air Strategy: Speed and Evasion</h2><p>The Air strategy is one of evasion. It must employ movement, speed, evasiveness, or a defensive strategy based on dodging, avoiding or outrunning the foe. It may be used offensively, such as with strafing tactics.</p><h2>Fire Strategy: Strike at the Heart</h2><p>The Fire strategy is based on psychological warfare. It must involve demoralizing the foe, confounding their principles, terrifying them. Conversely, it may instead inspire your troops through some sort of rousing action (like making certain gigantic war-drums are booming across the battlefield, or capturing enemy standards and trophies).</p><h2>The Water Strategy: Adaptation and Defense</h2><p>The Water strategy is centered around an adaptive, active defense. It must be reactive, defensive, or involve the utilization of advantageous, defensive terrain. It must not employ anything except the bare offense, although a deadly counter-offense is permissible against an aggressive foe.</p><h2>The Earth Strategy: Tactical Superiority</h2><p>The Earth strategy is one of wisdom, caution and reliable tactics. It must be based on sound strategic reasoning (if you’ve read about it in a history book, it qualifies), unsurprising and based on an obvious tactical advantage. It can be creative, such as using shieldwall or phalanx tactics, but it cannot take anything but the tiniest risks in its tactical inventiveness.</p><hr><h1>New Action: Influence the Jianghu</h1><p>Although the world is greatly changed, the martial society of old lives on. Once called the Jianghu or “Rivers and Lakes”, the brotherhood of mystical martial artists existed below and at the fringes of society; in the fallen world, they define that society.</p><p>The General, being well-versed in the immortal laws of conflict, understands this martial society and can influence it. By tugging on its invisible threads of loyalty, pride, fear and reputation, they may engineer social circumstances to their liking and lay cultural traps for their enemies Generals use social methods, such as proclamations, boasting, rumors, challenges and insults in well-trafficked and well-connected places, to seed their manipulation attempts into the Jianghu.</p><p>They filter down like dew through a canopy, coming to saturate the whole martial world over the course of the ensuing Montage scene or Arc. Players are either told at the start of that scene that their characters have heard the rumor, or they hear it from the Degree 1+ characters they encounter during an early scene.</p><p>You may attempt to influence the Jianghu in the following ways:</p><ul><li><p>Change the perception of an individual from Villain to Hero or vice versa</p></li><li><p>Issue a personal challenge to a one-on-one duel</p></li><li><p>Hold a Tournament</p></li><li><p>Spread and/or shape the reputation of a martial artist, so long as their fame or infamy isn’t already well-established</p></li></ul><p>The Rank of your Heart action determines the efficacy of your manipulations:</p><p><strong>Rank 3:</strong> A claim is accepted with some skepticism. An event held is considered optional, possibly illicit: Minor Heroes and Degree-1 martial artists likely attend</p><p><strong>Rank 6:</strong> A claim is generally regarded as true. An event is considered noteworthy but somewhat illegitimate: Degree 1-3 martial artists attend.</p><p><strong>Rank 9:</strong> A claim isn’t questioned. An event is held to be reasonably important and legitimate: Degree 1-5 Martial artists attend.</p><p><strong>Rank 12:</strong> A claim is vociferously defended. An event a mustattend, avoided only by the incompetent, idiotic or cowardly: Any-Degree martial artists might attend</p><p><strong>Rank 14+:</strong> A claim is unquestionably true; to question it is to spit in the face of respectful behavior. An event one of dire and lasting consequences; to spurn this event is to exit the martial world. Specific, named characters of your choosing either attend this event or are considered cowards.</p><p>If a character of appropriate Degree snubs a challenge or tournament, then they must contend with a negative rumor regarding their behavior (perhaps they’re considered a coward, or full of themselves). Characters of higher degree can get away with ignoring you. This stain on their reputation limits their options for mentors, allies, and followers. This works like Altering Cultures (p.23) but has the unique ability to target and change the opinion of the Jianghu, the entirety of the martial arts world.</p><p>Some characters are famous or infamous on a worldwide scale and hence are beyond these summons except at the very highest Rank (But really, why do you WANT the Mockingbird Emperor showing up to your tournament?!)</p>"
+        },
+        "type": "gupt-kala"
+      }
+    }
+  ]
+}

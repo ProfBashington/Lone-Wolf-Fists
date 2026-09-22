@@ -1,0 +1,251 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "skills",
+  "records": [
+    {
+      "key": "!items!33FzjjKo5OaI1Mb1",
+      "value": {
+        "_id": "33FzjjKo5OaI1Mb1",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736543583815,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919450817,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Senses.svg",
+        "name": "Senses",
+        "ownership": {
+          "ERHAnm4Ji8BvSIrw": 3,
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Senses-description.jpg\">",
+          "skill": "Senses",
+          "use": "<p>The skill of the five senses, situational awareness and physical subtlety. When characters need to get information about their surroundings, move and hide, or notice minute detail, they use this skill. Use Senses when you must:</p><ul><li><p>Hide or sneak</p></li><li><p>Detect anything with the five senses</p></li><li><p>Gather details from your environment</p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!aBrrqvogjC7jJiXS",
+      "value": {
+        "_id": "aBrrqvogjC7jJiXS",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736543579995,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919401490,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Heart.svg",
+        "name": "Heart",
+        "ownership": {
+          "ERHAnm4Ji8BvSIrw": 3,
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Heart-description.jpg\">",
+          "skill": "Heart",
+          "use": "<p>The skill of empathy, charm, and persuasiveness.When characters need to communicate, deceive, or convince someone of an argument, they use this skill. Use Heart when you must:</p><ul><li><p>Influence many people at once</p></li><li><p>Lie, directly or surreptitiously</p></li><li><p>Use or shape the rules of culture</p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!CewtuPeGDKdYBeBB",
+      "value": {
+        "_id": "CewtuPeGDKdYBeBB",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736543537054,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919256946,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Agility.svg",
+        "name": "Agility",
+        "ownership": {
+          "ERHAnm4Ji8BvSIrw": 3,
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Agility-description.jpg\">",
+          "skill": "Agility",
+          "use": "<p>The skill of balance, nimbleness, and speed.When characters need to move fast or far, when they need to tightrope walk across a power line; when they need to dance through a hail of bullets, they use this skill. Use Agility when:</p><ul><li><p>Moving tactically</p></li><li><p>Traveling fast</p></li><li><p>Balancing or performing a gymnastic feat</p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!Dxn7Qt4TMWv0lfiK",
+      "value": {
+        "_id": "Dxn7Qt4TMWv0lfiK",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736543578976,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919379393,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Endurance.svg",
+        "name": "Endurance",
+        "ownership": {
+          "ERHAnm4Ji8BvSIrw": 3,
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Endurance-description.jpg\">",
+          "skill": "Endurance",
+          "use": "<p>The skill of resilience, staying power, and toughness. When characters need to push their limits, resist harmful phenomena, or survive inimical circumstances, they use this skill. Use Endurance when: </p><ul><li><p>Withstanding hardships</p></li><li><p>Prolonging strenuous activities</p></li><li><p>Enduring deprivation</p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!RwqTWQznbhAIwQRA",
+      "value": {
+        "_id": "RwqTWQznbhAIwQRA",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736543581334,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919417993,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Intellect.svg",
+        "name": "Intellect",
+        "ownership": {
+          "ERHAnm4Ji8BvSIrw": 3,
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Intellect-description.jpg\">",
+          "skill": "Intellect",
+          "use": "<p>The skill of comprehension, intuition and memory. When characters need to rigorously apply logic, conceive sophisticated thoughts, or recall a memory with speed and accuracy, they use this skill. Use Intellect when you must:</p><ul><li><p>Intuit or engineer complex ideas</p></li><li><p>Solve a logic problem rapidly</p></li><li><p>Recall information quickly and completely</p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!ry6HSoFV9WWZORk4",
+      "value": {
+        "_id": "ry6HSoFV9WWZORk4",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736543584779,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919468381,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Spirit.svg",
+        "name": "Spirit",
+        "ownership": {
+          "ERHAnm4Ji8BvSIrw": 3,
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Spirit-description.jpg\">",
+          "skill": "Spirit",
+          "use": "<p>The skill of the soul, balance, and mystical attunement. When characters need to synchronize with the weft of Dharma, sense spiritual phenomena, or use magical rituals, they use this skill. Use Spirit when you need to:</p><ul><li><p>Attune to the invisible world of the spirit</p></li><li><p>Perform complex magical rites or rituals</p></li><li><p>Summon, rebuke or bind spirits</p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!xzAYmyAYaqEf0Mmu",
+      "value": {
+        "_id": "xzAYmyAYaqEf0Mmu",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736543582578,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919435974,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Power.svg",
+        "name": "Power",
+        "ownership": {
+          "ERHAnm4Ji8BvSIrw": 3,
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Power-description.jpg\">",
+          "skill": "Power",
+          "use": "<p>The skill of raw physical strength. When characters use their muscles to lift, break, shove or otherwise leverage their sinew-studded frame, this is the skill they use. Use Power when:</p><ul><li><p>Lifting and throwing heavy objects</p></li><li><p>Improvising heavy weapons</p></li><li><p>Shoving, pulling, dragging, or otherwise moving weighty loads</p></li></ul>"
+        },
+        "type": "skill"
+      }
+    }
+  ]
+}

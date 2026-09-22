@@ -1,0 +1,252 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "archetypes",
+  "records": [
+    {
+      "key": "!items!ef18myu1JjlUzv3I",
+      "value": {
+        "_id": "ef18myu1JjlUzv3I",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1733769580574,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916395396,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "hPede2HWGwC82D7v"
+        ],
+        "flags": {
+          "core": {}
+        },
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/archetypes/enlightened-hero.svg",
+        "name": "Enlightened Hero",
+        "ownership": {
+          "1M1BYjtIbR87GznA": 3,
+          "default": 0
+        },
+        "sort": 300000,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "description": "<p>Those inclined towwards the mystical and arcane.</p>",
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Effort"
+        },
+        "type": "archetype"
+      }
+    },
+    {
+      "key": "!items!RmcMamwZMCPKGfMR",
+      "value": {
+        "_id": "RmcMamwZMCPKGfMR",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1733769269065,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916412425,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "PEDK5ouxBhpxvJLE"
+        ],
+        "flags": {
+          "core": {}
+        },
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/archetypes/cunning-hero.svg",
+        "name": "Cunning Hero",
+        "ownership": {
+          "1M1BYjtIbR87GznA": 3,
+          "default": 0
+        },
+        "sort": 200000,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "description": "<p>The intellectuals, trickesters and schemers.</p>",
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Effort"
+        },
+        "type": "archetype"
+      }
+    },
+    {
+      "key": "!items!TC4KpXjFHyRWSo3H",
+      "value": {
+        "_id": "TC4KpXjFHyRWSo3H",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1733769269065,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916381287,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "pc1MMfHJ0t2UiPLd"
+        ],
+        "flags": {
+          "core": {}
+        },
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/archetypes/strong-hero.svg",
+        "name": "Strong Hero",
+        "ownership": {
+          "1M1BYjtIbR87GznA": 3,
+          "default": 0
+        },
+        "sort": 100000,
+        "system": {
+          "active": true,
+          "agg": 10,
+          "description": "<p>The mightiest, most straightforward heroes.</p>",
+          "rank": 1,
+          "source": "Physical",
+          "stat": "Effort"
+        },
+        "type": "archetype"
+      }
+    },
+    {
+      "key": "!items.effects!ef18myu1JjlUzv3I.hPede2HWGwC82D7v",
+      "value": {
+        "_id": "hPede2HWGwC82D7v",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "cd9suLhBWMW847kB",
+          "modifiedTime": 1737389748737,
+          "systemId": null,
+          "systemVersion": null
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "Set archetype - enlightened hero",
+        "origin": "Item.3tgo2IyHHp6IYDzf",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.archetype",
+              "value": "Enlightened",
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    },
+    {
+      "key": "!items.effects!RmcMamwZMCPKGfMR.PEDK5ouxBhpxvJLE",
+      "value": {
+        "_id": "PEDK5ouxBhpxvJLE",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "cd9suLhBWMW847kB",
+          "modifiedTime": 1737389737601,
+          "systemId": null,
+          "systemVersion": null
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "Set archetype - cunning",
+        "origin": "Item.tGDjJ3bS2N8DBL8H",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.archetype",
+              "value": "Cunning",
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    },
+    {
+      "key": "!items.effects!TC4KpXjFHyRWSo3H.pc1MMfHJ0t2UiPLd",
+      "value": {
+        "_id": "pc1MMfHJ0t2UiPLd",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "cd9suLhBWMW847kB",
+          "modifiedTime": 1737389758424,
+          "systemId": null,
+          "systemVersion": null
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "Set archetype - strong hero",
+        "origin": "Item.2ePsC02qYZminFzr",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.archetype",
+              "value": "Strong",
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    }
+  ]
+}

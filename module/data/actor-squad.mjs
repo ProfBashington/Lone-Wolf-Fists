@@ -26,6 +26,7 @@ export default class lwfSquad extends lwfActorFollower {
     let numbers = [0, 0];
     for(let m of this.namedMembers) {
       const member = fromUuidSync(m);
+      if (!member) continue;
       power += member.system.power.lvl;
       health += member.system.health.lvl;
       if(member.system.power.lvl <= HIGHEFFORT)

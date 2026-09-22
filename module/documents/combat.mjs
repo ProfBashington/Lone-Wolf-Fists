@@ -22,9 +22,9 @@ export class lwfCombat extends Combat {
         const combatantList = this.combatants.map(c => c.actorId);
         for(let c in combatantList) {
           const combatant = await game.actors.get(combatantList[c]);
-          chakraReset(combatant);
+          await chakraReset(combatant);
         }
-        this.delete();
+        await this.delete();
       }
     });
   }

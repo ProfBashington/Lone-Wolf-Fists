@@ -1,0 +1,1659 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "disasters",
+  "records": [
+    {
+      "key": "!actors!77UVgpGC2BUsFwgH",
+      "value": {
+        "_id": "77UVgpGC2BUsFwgH",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755436518371,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755442646139,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/the_mad_simugh.Avatar.webp",
+        "items": [
+          "p7F7pCFKWmhY37Eq",
+          "5bxNIeNRO1cfYxrl"
+        ],
+        "name": "Fimbulwinter",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 0,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Fimbulwinter",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/mutagenic_mustard_gas.Token.webp?1742222745276",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 200000,
+        "system": {
+          "armor": 0,
+          "biography": "<p>The final winter is close, when the sun is swallowed by the demon-wolf that chases it across the sky and darkness descends forever. This is a precursor to that frigid bedlam, where darkness and ice are brought in on howling maniacwinds, shredding the world with frozen teeth.</p>",
+          "calamity": "5bxNIeNRO1cfYxrl",
+          "cataclysms": "Something freezes solid. Scouring cold winds with impossible force. Ice, sleet, snow and hail blast out of the darkness with shotgun force. Something in the frozen landscape collapses.",
+          "description": "",
+          "duration": "1 Week",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 1
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "lvl": 35
+          },
+          "scope": "1 Tract",
+          "type": true
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!eq4bxJCnG97sT9cD",
+      "value": {
+        "_id": "eq4bxJCnG97sT9cD",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755436516127,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755442646139,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/ash_typhoon.Avatar.webp?1742168649736",
+        "items": [
+          "BZYx1OgxUOWznrTa",
+          "4O6ksjDuUyM7NiT8"
+        ],
+        "name": "Ash Typhoon",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 0,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Ash Typhoon",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/ash_typhoon.Token.webp?1742168649736",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 100000,
+        "system": {
+          "armor": 0,
+          "biography": "<p>Endless waves of ashes and black soot that drip down from the sky like oily tears. Ruins crops, pollutes lungs, despoils lakes and streams, and gunks machinery in thick layers of ash and grime.</p>",
+          "calamity": "4O6ksjDuUyM7NiT8",
+          "cataclysms": "Drifts of ash fall from the sky, coating a Field in toxic soot (hazard equal to Achieved Rank). A gust of wind causes destruction. Sheets of oily black acid rain fall, (Hazard equal to Achieved Rank). Choking clouds of smog roil across the Field (Hazard equal to Achieved Rank)",
+          "description": "",
+          "duration": "1 day",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 1
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "lvl": 30
+          },
+          "scope": "1 Tract",
+          "type": true
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!HcwaC0o3I4gbekle",
+      "value": {
+        "_id": "HcwaC0o3I4gbekle",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755436519418,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755442646139,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/fog_of_lost_souls.Avatar.webp?1742163199783",
+        "items": [
+          "mChlmID8URIjpSkx",
+          "BZYx1OgxUOWznrTa"
+        ],
+        "name": "Fog of Lost Souls",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 0,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Fog of Lost Souls",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/fog_of_lost_souls.Token.webp?1742163199783",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "biography": "<p>A swirling fogbank of eerie quiet, punctuated by the howls, shrieks and sobs of the damned, the lost and the dead. Alive and malevolent, it lurks through the unlit streets of Suicide Heaven like a cruel and indolent deity.</p>",
+          "calamity": "mChlmID8URIjpSkx",
+          "cataclysms": "Disorient a group of characters; one of them must take a Senses action of Rank equal to your result or roll in the Infamous Staggering Around Like an Idiot Chart.\n\nMove characters anywhere else within the Fog, as with an Agility action of (Achieved Rank). Inflict a Curse (as from Art of the Priest, p.128) on any character.\n\nSummon a demon as the Art of the Sorcerer; it arrives immediately from the mist, transported instantaneously by the magic which summoned it.",
+          "description": "",
+          "duration": "1 day and 1 night",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 1
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "lvl": 30
+          },
+          "scope": "1 Tract",
+          "type": true
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!jV6WNO4zrcgncXr6",
+      "value": {
+        "_id": "jV6WNO4zrcgncXr6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755436521825,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755442646139,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/nightmare_carnival.Avatar.webp?1742169813601",
+        "items": [
+          "OFLaFuflTKY4dlG6"
+        ],
+        "name": "Nightmare Carnival",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 0,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Nightmare Carnival",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/nightmare_carnival.Token.webp?1742169813601",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "biography": "<p>A wandering psychic storm; manifests to beings with minds as a wave of violent hallucinations and dream-logic intruding on the real world. There seems to be a distinct and malevolent intellect behind it all, but bad dreams often seem that way, don’t they?</p>",
+          "calamity": "OFLaFuflTKY4dlG6",
+          "cataclysms": "Distorts something or someone (mortal) within the environment according to the Distortion Chart.",
+          "description": "",
+          "duration": "1 hour",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 1
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "lvl": 35
+          },
+          "scope": "1 Field and all adjacent Fields",
+          "type": true
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!JXGQXk2TtWclXtL1",
+      "value": {
+        "_id": "JXGQXk2TtWclXtL1",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755436517261,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755442646139,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/atomic_sandstorm.Avatar.webp?1742163756463",
+        "items": [
+          "mChlmID8URIjpSkx",
+          "BZYx1OgxUOWznrTa",
+          "4O6ksjDuUyM7NiT8"
+        ],
+        "name": "Atomic Sandstorm",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 0,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Atomic Sandstorm",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/atomic_sandstorm.Token.webp?1742163756463",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 300000,
+        "system": {
+          "armor": 0,
+          "biography": "<p>One of the armageddon-storms that roil across the radioactive deserts of the ruined world. Multicolored lightning flashes catastrophically within, surrounded by stinging swirls of orange dust and tornadoes of burning sands.</p>",
+          "calamity": "4O6ksjDuUyM7NiT8",
+          "cataclysms": "High sand-blasting winds. Bolts of multicolored static-lightning. Shifting tides of hot, radioactive sand. Tornadoes of sand and arcing electricity.",
+          "description": "",
+          "duration": "1 day",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 1
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "lvl": 35
+          },
+          "scope": "1 Tract",
+          "type": true
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!m6tEiJXB9Xc288Ec",
+      "value": {
+        "_id": "m6tEiJXB9Xc288Ec",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755436527055,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755442646139,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/sporefall.Avatar.webp?1742140460092",
+        "items": [
+          "f2U3huzYlm06ewgb",
+          "QXOjkS4Y6zguYvVt",
+          "UQN5M71d5Mv9KWQj"
+        ],
+        "name": "Sporefall",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 0,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Sporefall",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/sporefall.Token.webp?1742140460092",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "biography": "<p>Mind-altering spores erupt from millions of mycro-cysts within the local environment. Foamy and bright red, they drift with the wind in a scene of alien beauty. Every living creature which comes into contact with them is driven into a frothing, cannibalistic fury.</p>",
+          "calamity": "QXOjkS4Y6zguYvVt",
+          "cataclysms": "A drift of crimson spores washes across the Field, requiring an (Achieved Rank) Endurance to avoid contracting the Sporemad Physical Imbalance. A monster with (Rank x 3=Ferocity) emerges Sporemad from hiding and attacks. A mob of (Rank X10) Sporemad emerge, acting as a Platoon in a singular purpose to consume flesh and cause ruin. Other Cataclysms are results of the Sporemad causing havoc; setting fire, turning over vehicles, etc.",
+          "description": "",
+          "duration": "1 day",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 1
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "lvl": 25
+          },
+          "scope": "d5+1 adjacent fields",
+          "type": true
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!XeZTZbs6CKy4AbBy",
+      "value": {
+        "_id": "XeZTZbs6CKy4AbBy",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755436523507,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755442646139,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/mutagenic_mustard_gas.Avatar.webp?1748888436885",
+        "items": [
+          "p7F7pCFKWmhY37Eq"
+        ],
+        "name": "Mutagenic Mustard Gas",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": null
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 0,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Mutagenic Mustard Gas",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/mutagenic_mustard_gas.Token.webp?1748888436885",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "biography": "<p>A boiling cloud of bright yellow gas. Burns, poisons and mutates whatever it touches.</p>",
+          "calamity": "None",
+          "cataclysms": "Causes caustic burns. Erodes metal. Warps lower life forms into distorted, tumorous and monstrous versions of themselves. Asphyxiates anyone present.",
+          "description": "",
+          "duration": "1 Action Scene",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 1
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "lvl": 30
+          },
+          "scope": "3 Connected Fields",
+          "type": true
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors.items!77UVgpGC2BUsFwgH.5bxNIeNRO1cfYxrl",
+      "value": {
+        "_id": "5bxNIeNRO1cfYxrl",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/tension-snowflake.svg",
+        "name": "Snowstorm",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Unleashes the Freeze Onslaught on everything within a single Field in a tidal wave of impossible cold.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Week",
+            "frequency": 1,
+            "intensity": "Rank 7",
+            "sets": 2,
+            "target": "Calamity"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!77UVgpGC2BUsFwgH.p7F7pCFKWmhY37Eq",
+      "value": {
+        "_id": "p7F7pCFKWmhY37Eq",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/frozen-orb.svg",
+        "name": "Freeze",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>A single person, vehicle, structure, or terrain feature is frozen solid under a thick sheet of ice. It may be up to size 9. Living targets can resist this icy doom with Endurance, and mobile targets can attempt to escape their frigid fate by pitting their Power or Towing capacity against the Rank of the strike.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 7",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!eq4bxJCnG97sT9cD.4O6ksjDuUyM7NiT8",
+      "value": {
+        "_id": "4O6ksjDuUyM7NiT8",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/stomp-tornado.svg",
+        "name": "Wave of Silence",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Delivers a Rank 8 mystical EMP to all electronics and sources of magic in a single Field; they shut down and must have their electrical systems fully repaired before they become operational again. This utterly shuts down most power plants. Sources of magic and artifacts are locked by this unnatural freeze until a Rank 8 Spirit action is performed to untangle their knotted Chakra.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Day",
+            "frequency": 1,
+            "intensity": "Rank 8",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!eq4bxJCnG97sT9cD.BZYx1OgxUOWznrTa",
+      "value": {
+        "_id": "BZYx1OgxUOWznrTa",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/raining.svg",
+        "name": "Rain of Ruin",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Pollutes 1 Resource, Wood, Water or Consumable Node, reducing it from Rich or Standard to Poor, or totally ruining a Poor Node so that it cannot be harvested again.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "N/A",
+            "sets": 2,
+            "target": ""
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!HcwaC0o3I4gbekle.BZYx1OgxUOWznrTa",
+      "value": {
+        "_id": "BZYx1OgxUOWznrTa",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/fog.svg",
+        "name": "Funeral-Shroud Mists",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Shrouds every character as a Senses action to hide. Allies cannot hear or see one another unless they overcome the shroud. Wicked beings delight in this, using the opportunity to get away with nefarious deeds, while heroic beings are targeted by the mists for disorientation, transport, or victimization at the hands of demons.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 7",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!HcwaC0o3I4gbekle.mChlmID8URIjpSkx",
+      "value": {
+        "_id": "mChlmID8URIjpSkx",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/despair.svg",
+        "name": "Soul-Annihilating Despair",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Targets a single heroic being lost in the mist. Rank 9; their will is crushed by a glimpse into the blackest depths of despair.</p><p>This manifests as a Detachment and Sorrow Imbalance (see the Art of the Courtier, p.130)</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 9",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!jV6WNO4zrcgncXr6.OFLaFuflTKY4dlG6",
+      "value": {
+        "_id": "OFLaFuflTKY4dlG6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/abstract-006.svg",
+        "name": "Distortion",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p><strong>Special:</strong> The Nightmare Carnival can store up to 3 dice per round into a bank, which acts like Focus. The upward boundary of dice which may be held this way is 10.</p><ul><li><p><strong>Rank 1-2: </strong>B<span style=\"font-family: Lato, Roboto, sans-serif\">ecomes a grinning, maniac version of itself. Acts like normal, but is deeply unnerving to stare at.</span></p></li><li><p><strong>Rank 3-4: </strong>Transformed into an Amalgam Golem.</p></li><li><p><strong>Rank 5-8:</strong> Unleash a group of 3 Nightmares Made Flesh, which lurk into the world between the cracks in waking consciousness.</p></li><li><p><strong>Rank 9-13: </strong>Places a group within the boundaries of the carnival into a Psychic Quest (p.200).</p></li><li><p><strong>Rank 14+: </strong>Summons an Ersatz Demiurge from the psychic plane (p. 194).</p></li></ul>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 1",
+            "sets": 2,
+            "target": ""
+          },
+          "subtype": "Capability"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!JXGQXk2TtWclXtL1.4O6ksjDuUyM7NiT8",
+      "value": {
+        "_id": "4O6ksjDuUyM7NiT8",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/stomp-tornado.svg",
+        "name": "Megatornado",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 12 tornado, as large as a Field, rampages across 1 Field per turn after it evolves, for the remainder of the Action Scene</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Day",
+            "frequency": 1,
+            "intensity": "Rank 12",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!JXGQXk2TtWclXtL1.BZYx1OgxUOWznrTa",
+      "value": {
+        "_id": "BZYx1OgxUOWznrTa",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/wind-slap.svg",
+        "name": "Forceful Wind",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 8, lifts and tosses something up to the size of a tanker truck.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 8",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!JXGQXk2TtWclXtL1.mChlmID8URIjpSkx",
+      "value": {
+        "_id": "mChlmID8URIjpSkx",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/focused-lightning.svg",
+        "name": "Lightning Bolt",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 6 strike from prismatic static lightning.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 3,
+            "intensity": "Rank 6",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!m6tEiJXB9Xc288Ec.f2U3huzYlm06ewgb",
+      "value": {
+        "_id": "f2U3huzYlm06ewgb",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/burst-blob.svg",
+        "name": "Spore Burst",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>A single character within an affected Field is washed in infectious red spores. They must resist a Virulence 6 poison or take the resulting damage as Aggravation towards the Sporemad Physical Imbalance.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 3,
+            "intensity": "Rank 6",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!m6tEiJXB9Xc288Ec.QXOjkS4Y6zguYvVt",
+      "value": {
+        "_id": "QXOjkS4Y6zguYvVt",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/wind-slap.svg",
+        "name": "Spore Drift",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Expand Scope by d5+1 adjacent Fields.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Day",
+            "frequency": 1,
+            "intensity": "Rank 6",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!m6tEiJXB9Xc288Ec.UQN5M71d5Mv9KWQj",
+      "value": {
+        "_id": "UQN5M71d5Mv9KWQj",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755541350810,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/eyeball.svg",
+        "name": "Sporemad (Imbalance)",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<h1>Physical Imbalance</h1><p><strong>Dramatic Penalty:</strong> The infected are driven into a frenzy. They must hunt the nearest non-sporemad, living creature at top speed, attempting to kill and devour it in an act of senseless brutality. If no targets are apparent, they must either vent their blind fury in acts of destruction against the environment, or hurl themselves at top speed in any direction they suspect prey may lie.</p>",
+          "editMode": true,
+          "effect": {
+            "duration": "Rampage",
+            "frequency": 1,
+            "intensity": "Rank 1",
+            "sets": 2,
+            "target": "Imbalance"
+          },
+          "subtype": "Capability"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!XeZTZbs6CKy4AbBy.p7F7pCFKWmhY37Eq",
+      "value": {
+        "_id": "p7F7pCFKWmhY37Eq",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/boiling-bubbles.svg",
+        "name": "Mutate",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Causes a Virulence 5 Poison, which creates Aggravation towards a Mutation Imbalance. Generate this mutation randomly using the Mutation rules (p.57) by rolling 1d10 to randomly choose a Mutation advantage and another to randomly choose a Mutation disadvantage.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 2,
+            "intensity": "Virulence 5",
+            "sets": 2,
+            "target": ""
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    }
+  ]
+}

@@ -17,10 +17,11 @@ export function onManageActiveEffect(event, owner) {
           name: game.i18n.format('DOCUMENT.New', {
             type: game.i18n.localize('DOCUMENT.ActiveEffect'),
           }),
-          icon: 'icons/svg/aura.svg',
+          img: 'icons/svg/aura.svg',
           origin: owner.uuid,
-          'duration.rounds':
-            li.dataset.effectType === 'temporary' ? 1 : undefined,
+          duration: li.dataset.effectType === 'temporary'
+            ? { value: 1, units: 'rounds' }
+            : undefined,
           disabled: li.dataset.effectType === 'inactive',
         },
       ]);

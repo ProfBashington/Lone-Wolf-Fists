@@ -10,7 +10,9 @@ import { lwfItemSheet } from './sheets/item-sheet.mjs';
 import { preloadHandlebarsTemplates } from './helpers/templates.mjs';
 // Import DataModel classes
 import * as models from './data/_module.mjs';
+import { ACTOR_TYPES, ITEM_TYPES } from './data/document-types.mjs';
 import { extractDiceNumber, effortRoll } from './helpers/dice-roll.mjs';
+import { migrateCurrentWorld, WORLD_MIGRATION_REPORT_SETTING, WORLD_MIGRATION_SETTING } from './migrations/world-v14.mjs';
 
 /* -------------------------------------------- */
 /*  Init Hook                                   */
@@ -26,6 +28,18 @@ Hooks.once('init', function () {
     type: Boolean,
     default: false
   })
+  game.settings.register("lone-wolf-fists", WORLD_MIGRATION_SETTING, {
+    scope: "world",
+    config: false,
+    type: Number,
+    default: 0,
+  });
+  game.settings.register("lone-wolf-fists", WORLD_MIGRATION_REPORT_SETTING, {
+    scope: "world",
+    config: false,
+    type: Object,
+    default: {},
+  });
   game.lonewolffists = {
     lwfActor,
     lwfItem,
@@ -49,7 +63,7 @@ Hooks.once('init', function () {
   // Note that you don't need to declare a DataModel
   // for the base actor/item classes - they are included
   // with the Character/NPC as part of super.defineSchema()
-  CONFIG.Actor.dataModels = {
+  const actorDataModels = {
     character: models.lwfCharacter,
     npc: models.lwfNpc,
     squad: models.lwfSquad,
@@ -58,13 +72,14 @@ Hooks.once('init', function () {
     vehicle: models.lwfVehicle,
     domain: models.lwfDomain
   }
+  CONFIG.Actor.dataModels = Object.fromEntries(ACTOR_TYPES.map((type) => [type, actorDataModels[type]]));
 
   CONFIG.Combat.documentClass = lwfCombat;
   CONFIG.Combatant.documentClass = lwfCombatant;
 
 
   CONFIG.Item.documentClass = lwfItem;
-  CONFIG.Item.dataModels = {
+  const itemDataModels = {
     item: models.lwfItem,
     "gupt-kala": models.lwfGuptKala,
     technique: models.lwfTechnique,
@@ -80,11 +95,7 @@ Hooks.once('init', function () {
     anatomy: models.lwfAnatomy,
     node: models.lwfNode
   }
-
-  // Active Effects are never copied to the Actor,
-  // but will still apply to the Actor from within the Item
-  // if the transfer property on the Active Effect is true.
-  CONFIG.ActiveEffect.legacyTransferral = false;
+  CONFIG.Item.dataModels = Object.fromEntries(ITEM_TYPES.map((type) => [type, itemDataModels[type]]));
 
   // Register sheet application classes
   foundry.documents.collections.Actors.unregisterSheet('core', foundry.appv1.sheets.ActorSheet);
@@ -144,14 +155,13 @@ Handlebars.registerHelper('lookup', function (obj, key) {
 /*  Dice rolling                                */
 /* -------------------------------------------- */
 
-Hooks.on('endCombat', () => {
-  console.log('test')
-})
-
 // Accept input from chat to trigger roll
 Hooks.on('chatMessage', (_, messageText, data) => {
   if (messageText !== undefined && messageText.startsWith(`/effort`)) {
-    extractDiceNumber(messageText, data)
+    extractDiceNumber(messageText, data).catch((error) => {
+      console.error("Lone Wolf Fists | /effort failed", error);
+      ui.notifications.error("The effort roll could not be completed.");
+    });
     return false
   } else {
     return true
@@ -159,8 +169,8 @@ Hooks.on('chatMessage', (_, messageText, data) => {
 })
 
 // Dashed outline of sets when clicked
-Hooks.on('renderChatLog', () => {
-  $('#chat-log').on('click', '.dice-set', (ev) => {
+Hooks.on('renderChatLog', (_, html) => {
+  html.off('click.lwf', '.dice-set').on('click.lwf', '.dice-set', (ev) => {
     const targetDiv = ev.currentTarget;
     targetDiv.classList.toggle('selected-set')
   })
@@ -175,6 +185,13 @@ Hooks.once('ready', async function ()  {
   // Wait to register hotbar drop hook on ready so that modules could register earlier if they want to
   
   if (!game.user.isGM) return;
+  try {
+    await migrateCurrentWorld();
+  } catch (error) {
+    console.error("Lone Wolf Fists | World migration failed", error);
+    ui.notifications.error("Lone Wolf Fists world migration failed. The migration marker was not advanced.");
+    return;
+  }
   Hooks.on('hotbarDrop', (bar, data, slot) => createItemMacro(data, slot));
 
 

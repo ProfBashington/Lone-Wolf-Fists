@@ -1,0 +1,3906 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "titans-and-gods",
+  "records": [
+    {
+      "key": "!actors!6hPMOMCVOAXjjSE1",
+      "value": {
+        "_id": "6hPMOMCVOAXjjSE1",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625174359,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558213355,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/batara_kala_the_sun_eater.Avatar.webp?1748907484261",
+        "items": [
+          "cRy5a9cl0hjGp4Ll",
+          "02NY9vUqBn52k7jG",
+          "joW9rdmmqhsdqk6G",
+          "Q7H1Od1j6ItZ3sxX",
+          "shlEFvnt68RR83oc",
+          "RhJ1DaTEmsxiwo6o",
+          "t3Kbv65aFCzw95RV",
+          "ng5KghIayCSKjtwG"
+        ],
+        "name": "Batara Kala, the Sun-Eater",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Batara Kala, the Sun-Eater",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/batara_kala_the_sun_eater.Token.webp?1748907484261",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 400000,
+        "system": {
+          "armor": 8,
+          "biography": "<p>Exactly as bad as he sounds. Lives adjacent to time but impatient anyway. Huge milky eyes, tremendous or maybe his concept is just gigantic. Eats things that remind him of the sun, which he is destined to devour one day; nuclear cores and atomic weapons, that kind of thing.</p>",
+          "calamity": "joW9rdmmqhsdqk6G",
+          "cataclysms": "Earthquakes, falling debris, collapsing buildings. Plumes of concrete smoke, waves of terror and despair. Earth roiling like waves, fissures and chasms ripping the ground apart.",
+          "description": "",
+          "duration": "When his hunger compels him, Batara Kala awakens for a 1 Action Scene-long rampage, spending up to a Skip scene traveling to his destination and another Skip returning to an empty place to slumber.",
+          "editMode": false,
+          "health": {
+            "lvl": 40,
+            "max": 10,
+            "value": 400
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 40
+          },
+          "scope": "Field",
+          "type": false
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!9b63A0nTPB6hqnLp",
+      "value": {
+        "_id": "9b63A0nTPB6hqnLp",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625179916,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558213388,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/the_mad_simugh.Avatar.webp?1748969807809",
+        "items": [
+          "c1CGjRe9GW1cpl0z",
+          "kG0I21xyOpAOEPzp",
+          "rxn7eu48nynkwVBO",
+          "nzc09v58GtRcX31x",
+          "E2Fh2gNntBllPhFe",
+          "FzUgIeaubBGXqkfc",
+          "OST1h3UC1BVLqTr5"
+        ],
+        "name": "The Mad Simugh",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "The Mad Simugh",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/the_mad_simugh.Token.webp?1748969807809",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 300000,
+        "system": {
+          "armor": 6,
+          "biography": "<p>Doomed salvation-bird. Failed in its destiny to save or redeem the world, so now spreads plague and radiation burns where the shadow of its enormous wings fall. Its awakening is regarded as a calamity, like a volcano erupting.</p>",
+          "calamity": "nzc09v58GtRcX31x",
+          "cataclysms": "Scalding winds, wildfires, sudden hideous mutations, intense radiation, spikes of microwave radiation that boil people alive, Flashes of incinerating light, waves of ash and smoke, explosions, eardrum-bursting shrieks.",
+          "description": "",
+          "duration": "When the Simugh’s egg cracks, it bursts forth and rampages for 1 Campaign Arc. Add it to the Encounters and Events list as the 9-10 result. Between encounters, it ascends to the heavens and causes black, ashy rain to fall on the Tract. At the end of the Arc, it plummets from the sky onto a random field and unleashes the Era-Ending Demise Calamity.",
+          "editMode": false,
+          "health": {
+            "lvl": 30,
+            "max": 10,
+            "value": 300
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 40
+          },
+          "scope": "Field",
+          "type": false
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!OSrxlfvHDqHdNeqE",
+      "value": {
+        "_id": "OSrxlfvHDqHdNeqE",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625177111,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558213403,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/leviathan.Avatar.webp?1748889102640",
+        "items": [
+          "UtSSnI2RghbzawRK",
+          "oF6dxrd5niPudZgJ",
+          "KDWCyY2HOXb5XLVO",
+          "Ccf856OU2Ri1GByc",
+          "jdUMPo2zrdb2wmQq",
+          "Uk5CQggqJkPdSzSq",
+          "g3ieMixN3k1blCY5",
+          "LK9bdpHV4lM77HCO"
+        ],
+        "name": "Leviathan",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Leviathan",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/leviathan.Token.webp?1748889102640",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 500000,
+        "system": {
+          "armor": 10,
+          "biography": "<p>Legendary sea monsters hiding from the still-burning acids of the destroyed ocean. Knows great wisdom but good luck being considered anything but a pest or a snack.</p><p>Aquatic, but can drag itself inland if it’s incredibly pissed off.</p>",
+          "calamity": "LK9bdpHV4lM77HCO",
+          "cataclysms": "Tidal waves, riptides, tsunami, whirlpools and other oceanic calamities. Storm-based hazard; high winds, lightning strikes, driving rain, and the like. Terrestrial stress, cracks in the earth, quakes, collapsing buildings.",
+          "description": "",
+          "duration": "Once roused, the Leviathan rampages for the duration of 5 Action Scenes or 2 Action scenes separated by a Real-Time and Skip scene.",
+          "editMode": false,
+          "health": {
+            "lvl": 50,
+            "max": 10,
+            "value": 500
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 40
+          },
+          "scope": "Field",
+          "type": false
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!TScTT3SxbUD8i2W6",
+      "value": {
+        "_id": "TScTT3SxbUD8i2W6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625182553,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558213418,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/zhulong.Avatar.webp?1748896542762",
+        "items": [
+          "TLOvFtufH7zJSfxS",
+          "TYo7SXikPgeSUEhF",
+          "N4BIzDRQaGGt7WbH",
+          "2EaSYz2NcBpKzEct",
+          "q5ZD9E5IWpYX1u8q",
+          "glwI1C3MeJeJFICy",
+          "YhKpTuYbqUuTzx0u"
+        ],
+        "name": "Zhulong",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Zhulong",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/zhulong.Token.webp?1748896542762",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 7,
+          "biography": "<p>A once-divine dragon, turns night to day when it opens its eyes, changes the seasons when it exhales. Driven mad by the destruction of its celestial duty during the apocalypse, it occasionally descends from the high heavens to wreak atrocities.</p>",
+          "calamity": "YhKpTuYbqUuTzx0u",
+          "cataclysms": "Howling winds, sheets of icy rain and sleet, storms of hail, bolts of lightning, glass exploding, structures and terrain thrown like toys or toppling from stress. Whirlwinds, deafening thunderclaps, clouds descending in all-concealing fogbanks.",
+          "description": "",
+          "duration": "Once he descends from his coiling mediationdance in the tortured upper atmosphere, Zhulong rampages for 1 Action Scene before returning to his heavenly lair.",
+          "editMode": false,
+          "health": {
+            "lvl": 40,
+            "max": 10,
+            "value": 400
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 40
+          },
+          "scope": "Field",
+          "type": false
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!vmfANgNYh8W2NBi2",
+      "value": {
+        "_id": "vmfANgNYh8W2NBi2",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625175818,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558213444,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/daidarabotchi_the_jungle_god.Avatar.webp?1748970706219",
+        "items": [
+          "BmkAK8FdJ8xglmUB",
+          "MTunB0U3ggv8X2x4",
+          "olgmUN8t5TfklPao",
+          "15MuszScD8XaLyU6",
+          "r0MaVMr2phRg5Yat",
+          "kiesP2G7vLyCWTc2"
+        ],
+        "name": "Daidarabotchi, the Jungle God",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": "prana"
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {},
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Daidarabotchi, the Jungle God",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 1,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "tokenizer/npc-images/daidarabotchi_the_jungle_god.Token.webp?1748970706219",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 600000,
+        "system": {
+          "armor": 8,
+          "biography": "<p>God of life and death, wanders the endless tracts of P'an-ku on an unknowable agenda.Life springs forth in his wake, or dies off en masse. By turns worshiped and reviled, his presence sustains and preserves the green world but is calamitous to man made things and human habitations. Has no corporeal presence and passes over areas like a shadow.</p><p><strong>Ghostly</strong></p>",
+          "calamity": "kiesP2G7vLyCWTc2",
+          "cataclysms": "Swarms of locusts, stinging clouds of spores, explosions of plant growth, foaming cascades of growing moss, hordes of small animals, crashes of larger beasts, outbreaks of leprous scars and illness, sudden waves of extinction",
+          "description": "",
+          "duration": "Daidarabotchi is consistently awake and active, fading from existence and reappearing without apparent pattern. Between encounters, he vanishes into the spirit realm. At the end of the Arc, he vanishes in an exhalation of Prana life-energy and unleashes the Cambrian Explosion Calamity.",
+          "editMode": false,
+          "health": {
+            "lvl": 40,
+            "max": 10,
+            "value": 400
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 30
+          },
+          "scope": "Field",
+          "type": false
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!wTTVJvArlJ8WDYzC",
+      "value": {
+        "_id": "wTTVJvArlJ8WDYzC",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625178649,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558213462,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/smiling_boy_slumbering_monster_god.Avatar.webp?1749329582444",
+        "items": [
+          "QxovZhnq36lyacAy",
+          "BsmEymXJBcnyqyWs",
+          "7DTdd7wxLb88yjHH",
+          "uP1rkMSoFHPISa2q",
+          "BaJGMfDenFuwFBc3",
+          "gKMs4BZHwQvhGcAI",
+          "dFgpLdu0NpcJw9IW",
+          "C6ctB0UjtDaMDPT2",
+          "SCKwRCrzA0tBGkLY",
+          "2yHffMI1HSUtvsEi",
+          "07jwyqWB2PyUR2bK",
+          "6FqKPCFfndFcAHRi",
+          "6G7e1gKxcV9Mo9EB",
+          "TC48oFg761qKmIQU",
+          "4bnNBYBVztT8dqBw",
+          "7c7ypsw1SydbsL4h",
+          "Re9UMMRZwua2mRbZ",
+          "T4yXSIQL4vh7MuFw",
+          "qLxVnYmLun5tTFhS",
+          "kTJwrBRhaBtKV3Lp"
+        ],
+        "name": "Smiling Boy, Slumbering Monster-God",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": "prana"
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Smiling Boy, Slumbering Monster-God",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/smiling_boy_slumbering_monster_god.Token.webp?1749329582444",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 100000,
+        "system": {
+          "abilities": "",
+          "armor": 0,
+          "biography": "",
+          "chakras": {
+            "awakened": {
+              "Air": false,
+              "Earth": false,
+              "Fire": false,
+              "Heaven": false,
+              "Hell": false,
+              "Metal": false,
+              "Water": false,
+              "Wood": false
+            },
+            "hellToggle": false,
+            "lvl": 1,
+            "max": 7,
+            "value": 1
+          },
+          "description": "",
+          "editMode": false,
+          "hasChakra": false,
+          "hasTechniques": false,
+          "health": {
+            "lvl": 40,
+            "max": 10,
+            "value": 400
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "isHero": false,
+          "master": {
+            "id": "",
+            "isRuler": false,
+            "loyalty": {
+              "lvl": 0
+            }
+          },
+          "members": [],
+          "namedMembers": [],
+          "pool": {
+            "lvl": 0,
+            "recovery": 0
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 40
+          },
+          "prana": {
+            "gen": {
+              "bonus": 0,
+              "inCombat": 0,
+              "outOfCombat": 0
+            },
+            "max": 100,
+            "value": 0
+          },
+          "size": 4,
+          "techTableFocus": "all"
+        },
+        "type": "npc"
+      }
+    },
+    {
+      "key": "!actors!xf52UbGWrdmkEx2x",
+      "value": {
+        "_id": "xf52UbGWrdmkEx2x",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625181331,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558213478,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/compendia/xiangliu.Avatar.webp?1748978375124",
+        "items": [
+          "uFaFsdF1KsH09tmb",
+          "OVAQZYwiiGZlUyXt",
+          "Nd9VHh0BiwiouDkv",
+          "6o5OhYYH4rtpomHD",
+          "UZZPVD8gZwdfJq8q",
+          "yyPe7Pb8rSp0eEIM",
+          "Tlq0KREVIMrLatNr",
+          "O9I2Ubl5EOODNKKB",
+          "vOj0WN1wW86TF3np",
+          "fMxsVR7RRYErl6h6",
+          "7RENC1N4IofGNKnX",
+          "NbWXsPfKlN8ftvrq",
+          "hE4UmE7ApnJ88FkG"
+        ],
+        "name": "Xiangliu",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": -1,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Xiangliu",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/xiangliu.Token.webp?1748978375124",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 200000,
+        "system": {
+          "armor": 8,
+          "biography": "<p>Nine-headed leech-god of poison, he opportunistically crawled out of hell during the city-scarring quake that let Naraka bleed into Suicide Heaven. Indolent and corrupt, he delights in watching as the city’s denizens cause each other unrivaled misery. Covetous, lascivious and petty, he kidnaps one “bride” or “groom” every few months to dote on and slowly poison to death; if they are saved, he is roused into a catastrophic rampage.</p>",
+          "calamity": "hE4UmE7ApnJ88FkG",
+          "cataclysms": "Waves of nausea and violent illness, clouds of caustic yellow gas, water putrefying into poison, rains of black blinding ichor, psychic shockwaves of despair, reduction of crowds of people into cannibalistic berserkers, structures and terrain corroding and toppling, the world tarnishing and blackening as though cancerous.",
+          "description": "",
+          "duration": "Xiangliu‘s wrath is intense but short-lived, and he must soon crawl away to rest. He spends 1 Action Scene rampaging, with up to a Skip scene traveling to his destination and another Skip returning to a hidden place to slumber.",
+          "editMode": false,
+          "health": {
+            "lvl": 30,
+            "max": 10,
+            "value": 300
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 30
+          },
+          "scope": "Field",
+          "type": false
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors.items!6hPMOMCVOAXjjSE1.02NY9vUqBn52k7jG",
+      "value": {
+        "_id": "02NY9vUqBn52k7jG",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/thor-fist.svg",
+        "name": "God Hand Clutch",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 10 Attack, can be used to Grab and throw objects of size 7 or smaller with a single hand, or up to size 9 with both hands. If both hands smash together, hits an Area at Rank 12 and sends a Rank 6 Shockwave Hazard rippling through that Field.</p><hr><p><strong>Vulnerability:</strong> Characters are small and slippery enough to wriggle from between the Sun-Eater’s mammoth fingers if they’re grabbed. They can escape with a Rank 4 Agility action.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 2,
+            "intensity": "Rank 10",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!6hPMOMCVOAXjjSE1.cRy5a9cl0hjGp4Ll",
+      "value": {
+        "_id": "cRy5a9cl0hjGp4Ll",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/barefoot.svg",
+        "name": "Tramp of Doom",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>One of the Titan’s footsteps, smashes an Area underfoot at Rank 8 and sends a Rank 4 Tremor Hazard through the Field, damaging structures and sending earthbound characters sprawling.</p><p>If both feet land successfully, he can move up to 1 adjacent Field.</p><hr><p><strong>Vulnerability:</strong> If the Titan steps on something that his foot cannot destroy, it injures him by the difference (as the Counterattack keyword) and he falls backward, causing a Rank 10, Area-destroying disaster where his center mass lands.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 2,
+            "intensity": "Rank 8",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!6hPMOMCVOAXjjSE1.joW9rdmmqhsdqk6G",
+      "value": {
+        "_id": "joW9rdmmqhsdqk6G",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/sharp-lips.svg",
+        "name": "Singularity Swallow",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 14 attack, targets a Field. Unhinging its jawbone and opening its maw to impossible proportions, Batara Kala sucks in the contents of a Field in a gravity-distorting gulp. Everything swallowed vanishes within the infinite emptiness of its stomach.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Rampage",
+            "frequency": 1,
+            "intensity": "Rank 14",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!6hPMOMCVOAXjjSE1.ng5KghIayCSKjtwG",
+      "value": {
+        "_id": "ng5KghIayCSKjtwG",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Leg",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "cRy5a9cl0hjGp4Ll",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!6hPMOMCVOAXjjSE1.Q7H1Od1j6ItZ3sxX",
+      "value": {
+        "_id": "Q7H1Od1j6ItZ3sxX",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Colossal Maw",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 30,
+            "max": 10,
+            "value": 300
+          },
+          "linkedOnslaught": "joW9rdmmqhsdqk6G",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!6hPMOMCVOAXjjSE1.RhJ1DaTEmsxiwo6o",
+      "value": {
+        "_id": "RhJ1DaTEmsxiwo6o",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Arm",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "02NY9vUqBn52k7jG",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!6hPMOMCVOAXjjSE1.shlEFvnt68RR83oc",
+      "value": {
+        "_id": "shlEFvnt68RR83oc",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Arm",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "02NY9vUqBn52k7jG",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!6hPMOMCVOAXjjSE1.t3Kbv65aFCzw95RV",
+      "value": {
+        "_id": "t3Kbv65aFCzw95RV",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Leg",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "cRy5a9cl0hjGp4Ll",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!9b63A0nTPB6hqnLp.c1CGjRe9GW1cpl0z",
+      "value": {
+        "_id": "c1CGjRe9GW1cpl0z",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/rainbow-star.svg",
+        "name": "Hell's Rainbow",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">While in flight, the Mad Simugh causes the skies to burn and hum with microwave radiation. This causes a fleshblackening Rank 7 Fire Hazard. Can fly to any Field within this Tract.</span></p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 7",
+            "sets": 2,
+            "target": "Fire Hazard"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!9b63A0nTPB6hqnLp.E2Fh2gNntBllPhFe",
+      "value": {
+        "_id": "E2Fh2gNntBllPhFe",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Titanic Wingspan",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 20,
+            "max": 10,
+            "value": 200
+          },
+          "linkedOnslaught": "c1CGjRe9GW1cpl0z",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!9b63A0nTPB6hqnLp.FzUgIeaubBGXqkfc",
+      "value": {
+        "_id": "FzUgIeaubBGXqkfc",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Claw",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 20,
+            "max": 10,
+            "value": 200
+          },
+          "linkedOnslaught": "rxn7eu48nynkwVBO",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!9b63A0nTPB6hqnLp.kG0I21xyOpAOEPzp",
+      "value": {
+        "_id": "kG0I21xyOpAOEPzp",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/bird-twitter.svg",
+        "name": "Stone-Shattering Cry",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">An explosion of sound, Rank 5 Field-wide sonic Hazard loud enough to burst stone.</span></p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 5",
+            "sets": 2,
+            "target": "Sonic Hazard"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!9b63A0nTPB6hqnLp.nzc09v58GtRcX31x",
+      "value": {
+        "_id": "nzc09v58GtRcX31x",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/mushroom-cloud.svg",
+        "name": "Era-Ending Demise",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">At the end of its rampage, or when it is grounded or slain, the Simugh plummets from the sky and explodes as a Rank 14 Atomic Blast, leveling the Field it falls in. Amidst the rubble, a single Size 7 glowing, red-hot egg rests; within 100 years, or after 100 atrocities have been committed within its presence, the egg will crack and the Simugh will take to the skies once more.</span></p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Rampage",
+            "frequency": 1,
+            "intensity": "Rank 14",
+            "sets": 2,
+            "target": "Atomic Blast"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!9b63A0nTPB6hqnLp.OST1h3UC1BVLqTr5",
+      "value": {
+        "_id": "OST1h3UC1BVLqTr5",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Claw",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 20,
+            "max": 10,
+            "value": 200
+          },
+          "linkedOnslaught": "rxn7eu48nynkwVBO",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!9b63A0nTPB6hqnLp.rxn7eu48nynkwVBO",
+      "value": {
+        "_id": "rxn7eu48nynkwVBO",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/bird-claw.svg",
+        "name": "World-Clutching Talon",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 7 Attack, can be used to Grab and throw objects of size 5 or smaller with a single claw, or up to size 7 with both claws.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 2,
+            "intensity": "Rank 7",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!OSrxlfvHDqHdNeqE.Ccf856OU2Ri1GByc",
+      "value": {
+        "_id": "Ccf856OU2Ri1GByc",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Eyes",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "Uk5CQggqJkPdSzSq",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!OSrxlfvHDqHdNeqE.g3ieMixN3k1blCY5",
+      "value": {
+        "_id": "g3ieMixN3k1blCY5",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/shark-jaws.svg",
+        "name": "Hell Gateway Jaws",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Gnashes its ship-smashing teeth. Against a single target up to Size 9, deals a Rank 13 Destructive Attack.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 13",
+            "sets": 2,
+            "target": "Destructive Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!OSrxlfvHDqHdNeqE.jdUMPo2zrdb2wmQq",
+      "value": {
+        "_id": "jdUMPo2zrdb2wmQq",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Infernal Stomach",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 20,
+            "max": 10,
+            "value": 200
+          },
+          "linkedOnslaught": "LK9bdpHV4lM77HCO",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!OSrxlfvHDqHdNeqE.KDWCyY2HOXb5XLVO",
+      "value": {
+        "_id": "KDWCyY2HOXb5XLVO",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Jaw",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "g3ieMixN3k1blCY5",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!OSrxlfvHDqHdNeqE.LK9bdpHV4lM77HCO",
+      "value": {
+        "_id": "LK9bdpHV4lM77HCO",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/volcano.svg",
+        "name": "Infernal Bile Eruption",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 14, targets a Field with a stream of boiling hellfire. The area is Cursed forever after; no natural thing will ever grow there again, barring some miracle.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 1",
+            "sets": 2,
+            "target": "Rank 14 Calamity"
+          },
+          "subtype": "Capability"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!OSrxlfvHDqHdNeqE.oF6dxrd5niPudZgJ",
+      "value": {
+        "_id": "oF6dxrd5niPudZgJ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Tail",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "UtSSnI2RghbzawRK",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!OSrxlfvHDqHdNeqE.Uk5CQggqJkPdSzSq",
+      "value": {
+        "_id": "Uk5CQggqJkPdSzSq",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/beast-eye.svg",
+        "name": "Ray of Dawn Gaze",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>The fiery rays pouring forth from its eyes set a single focused-on Area or structure ablaze with a Rank 6 Fire Hazard. The surrounding field is heated at Fire Hazard Rank 3, which can cause combustibles to ignite or explode. Can see anywhere in this or any neighboring Field.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 2,
+            "intensity": "Rank 6",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!OSrxlfvHDqHdNeqE.UtSSnI2RghbzawRK",
+      "value": {
+        "_id": "UtSSnI2RghbzawRK",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/armadillo-tail.svg",
+        "name": "Shred The Belly Of The Sea",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Thrashes to a neighboring Field, crushing everything in its path with razor-sharp belly-scales. Causes a Rank 8, Fieldwide Hazard. Tidal Wave if underwater, or smashes through terrains and rips up the soil like a fleet of bulldozers if inland. If going from one to the other, causes a tsunami.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 8",
+            "sets": 2,
+            "target": "Field Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!TScTT3SxbUD8i2W6.2EaSYz2NcBpKzEct",
+      "value": {
+        "_id": "2EaSYz2NcBpKzEct",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/evil-wings.svg",
+        "name": "Sky-Murdering Flight",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>While in flight, Zhulong causes the skies to churn and boil in agony at its impossible and malfeasant presence. This causes a skin-shredding Rank 7 Hurricane-Force-Winds Hazard. Can fly to any adjacent Field, or one Field further.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 7",
+            "sets": 2,
+            "target": "Hazard"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!TScTT3SxbUD8i2W6.glwI1C3MeJeJFICy",
+      "value": {
+        "_id": "glwI1C3MeJeJFICy",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/explosion-rays.svg",
+        "name": "Unhallowed Sunrise Gaze",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>The fiery rays pouring forth from its eyes set a single focused-on Area or structure ablaze with a Rank 6 Fire Hazard. The surrounding field is heated at Fire Hazard Rank 3, which can cause combustibles to ignite or explode. Can see anywhere in this or any neighboring Field.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 2,
+            "intensity": "Rank 6",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!TScTT3SxbUD8i2W6.N4BIzDRQaGGt7WbH",
+      "value": {
+        "_id": "N4BIzDRQaGGt7WbH",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Crown Chakra",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "YhKpTuYbqUuTzx0u",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!TScTT3SxbUD8i2W6.q5ZD9E5IWpYX1u8q",
+      "value": {
+        "_id": "q5ZD9E5IWpYX1u8q",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/dorsal-scales.svg",
+        "name": "World-Serpent Coils",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Smashes into a structure or terrain feature as the dragon flies heedlessly into or through it.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 10",
+            "sets": 2,
+            "target": "Destructive Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!TScTT3SxbUD8i2W6.TLOvFtufH7zJSfxS",
+      "value": {
+        "_id": "TLOvFtufH7zJSfxS",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Titanic Wingspan",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 30,
+            "max": 10,
+            "value": 300
+          },
+          "linkedOnslaught": "2EaSYz2NcBpKzEct",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!TScTT3SxbUD8i2W6.TYo7SXikPgeSUEhF",
+      "value": {
+        "_id": "TYo7SXikPgeSUEhF",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Eyes",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "glwI1C3MeJeJFICy",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!TScTT3SxbUD8i2W6.YhKpTuYbqUuTzx0u",
+      "value": {
+        "_id": "YhKpTuYbqUuTzx0u",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/crowned-explosion.svg",
+        "name": "Gateway of All Calamities",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Summoning an ocean of Prana from the deepest well of its soul, Zhulong breathes a torrent of atomic fire onto any Field within the same Tract as a Rank 14 blast.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Rampage",
+            "frequency": 1,
+            "intensity": "Rank 14",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!vmfANgNYh8W2NBi2.15MuszScD8XaLyU6",
+      "value": {
+        "_id": "15MuszScD8XaLyU6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/shadow-follower.svg",
+        "name": "Shadow of God",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Where Daidarabotchi walks, a certain weight is felt in the hearts of those under his shadow. Those with any serious wound are either miraculously healed or suddenly and serenely die. If chosen to die, then victims suffer a Hazard equal to the accumulated Rank of all their Imbalances. If healed, all their Physical Imbalances miraculously vanish. Man-made structures suddenly rust or crumble as though struck by the weight of centuries of neglect, which manifests as a Rank 8 act of destruction. Passes over 1 Field per round.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 1",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Capability"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!vmfANgNYh8W2NBi2.BmkAK8FdJ8xglmUB",
+      "value": {
+        "_id": "BmkAK8FdJ8xglmUB",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Wraith Tendril",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "r0MaVMr2phRg5Yat",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!vmfANgNYh8W2NBi2.kiesP2G7vLyCWTc2",
+      "value": {
+        "_id": "kiesP2G7vLyCWTc2",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/dinosaur-bones.svg",
+        "name": "Cambrian Explosion",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>With a surge of Prana as intense, serene and inevitable as the rising of the sun, Daidarabotchi pours the life-giving energy of creation into the Field in which he stands. Microscopic life rapidly evolves into an entirely new biome; roll ten times on P’an-Ku Master Encounter List to generate a diversity of creatures evolved or summoned by this divine energy.</p><p>For all Man-made things in the field, a Rank 14 disaster of explosive plant growth disrupts, erodes or otherwise rearranges them. The terrain of the Field permanently alters, becoming a jungle-overgrown ruin of its former self.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Rampage",
+            "frequency": 1,
+            "intensity": "Rank 14",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!vmfANgNYh8W2NBi2.MTunB0U3ggv8X2x4",
+      "value": {
+        "_id": "MTunB0U3ggv8X2x4",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Wraith Tendril",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "r0MaVMr2phRg5Yat",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!vmfANgNYh8W2NBi2.olgmUN8t5TfklPao",
+      "value": {
+        "_id": "olgmUN8t5TfklPao",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Wraith Tendril",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "r0MaVMr2phRg5Yat",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!vmfANgNYh8W2NBi2.r0MaVMr2phRg5Yat",
+      "value": {
+        "_id": "r0MaVMr2phRg5Yat",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/interlaced-tentacles.svg",
+        "name": "Forest God's Wrath",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 8 attack, destructive. Daidaraotchi’s limbs can transubstantiate and become material once per round each and unleash these mighty blows on anything that has drawn his ire.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 3,
+            "intensity": "Rank 8",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.07jwyqWB2PyUR2bK",
+      "value": {
+        "_id": "07jwyqWB2PyUR2bK",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "9ZDJ59RBHm7la14O",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-master.svg",
+        "name": "Telekinetic Onslaught",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 40,
+          "techEffect": "You telekinetically crush all foes and all terrain you choose to target within this Field. This shockwave of force is selective and can spare your allies.\n\nWhen used to boost Power, it allows you to lift, shape and otherwise interact with things purely through your Telekinesis (as the Technique of the same name); you may affect any object you can perceive.",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Master",
+          "techRank": 5,
+          "techReqs": "Awakened Metal Chakra or Two Arms and One other Chakra",
+          "techSkill": "Power",
+          "techTags": "",
+          "techType": "Attack"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.2yHffMI1HSUtvsEi",
+      "value": {
+        "_id": "2yHffMI1HSUtvsEi",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "yRMhsjMu87V3G31A",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-expert.svg",
+        "name": "Psychic Shockwave",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 12,
+          "techEffect": "You send out a destructive wave of psychic force, crushing and mutilating everything in this Area and all neighboring ones (Achieved Rank). All terrain and characters, save yourself, in the affected areas are crushed by your attack, as though from a calamitous sudden increase in gravity. You cannot spare your allies; this deadly attack is indiscriminate.\n\nIf the raw Power of the attack is sufficient to damage the scenery, a new Area is created based on your act of destruction.",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Expert",
+          "techRank": 3,
+          "techReqs": "Awakened Metal Chakra or Two Arms and One other Chakra",
+          "techSkill": "Power",
+          "techTags": "",
+          "techType": "Attack"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.4bnNBYBVztT8dqBw",
+      "value": {
+        "_id": "4bnNBYBVztT8dqBw",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/black-hand-shield.svg",
+        "name": "Starting Shield",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>He begins every battle with the Electromagnetic Catastrophe shield at Rank 12. It auto-sustains until destroyed.</p><p>He also begins every battle surrounded by the Prana Stasis Orb.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 1",
+            "sets": 2,
+            "target": "Defense"
+          },
+          "subtype": "Capability"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.6FqKPCFfndFcAHRi",
+      "value": {
+        "_id": "6FqKPCFfndFcAHRi",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "9ZDJ59RBHm7la14O",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-master.svg",
+        "name": "Eletromagnetic Catastrophe",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 40,
+          "techEffect": "You surround yourself in an electromagnetic shield of psychic force. In addition to deflecting attacks, it grants you control over any metal within range of your senses; you can move it with incredible force and unerring precision in three dimensions, even shaping it to your whim as a Power action of (Achieved Rank).\n\nYou can lift and fully manipulate any metal, with your (Achieved Rank) acting as a Power action. You might manipulate chunks of a structure too big to lift; for example, ripping up and shaping chunks of the metal hull of a battleship.\n\nIf your limbs or sense organs are injured, you can use this Technique to create functional facsimiles out of available metal and circuitry. Each lasts for the remainder of the scene, but can be permanently Sustained for the cost of 5 Kharma. 10 Metal Resources replaces 1 Limb.",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Master",
+          "techRank": 5,
+          "techReqs": "Awakened  Metal Chakra",
+          "techSkill": "Senses",
+          "techTags": "Shield, Sustainable, Elemental Control (Metal)",
+          "techType": "Defense"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.6G7e1gKxcV9Mo9EB",
+      "value": {
+        "_id": "6G7e1gKxcV9Mo9EB",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "9ZDJ59RBHm7la14O",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-master.svg",
+        "name": "Prana Stasis Orb",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 40,
+          "techEffect": "You envelope the entire Field surrounding you in an anti-prana stasis bubble. The Techniques of foes will not function unless they pay a surcharge of 5 Prana per tier of the Technique (5 for Novice, 10 for Expert, 15 for Master). \nYou gain all Prana spent on these surcharges while the stasis field lasts.\n\nThis surcharge does not apply to Supreme-level Techniques; if one is used within the stasis field, it burns the field away.\n\nLasts 1 round unless Sustained. Your (Achieved Rank) acts the Rank of this Hazard. A character overcome its effects with an equal or higher-Ranked Spirit action.",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Master",
+          "techRank": 5,
+          "techReqs": "3 Awakened Chakra",
+          "techSkill": "Intellect",
+          "techTags": "Sustainable, Prana Drain",
+          "techType": "Mudra"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.7c7ypsw1SydbsL4h",
+      "value": {
+        "_id": "7c7ypsw1SydbsL4h",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/angel-wings.svg",
+        "name": "Hideous Flight",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Floats and defies gravity, can rocket through the skies at Agility Rank 10.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 4,
+            "intensity": "Rank 10",
+            "sets": 2,
+            "target": "Rank 10 Movement"
+          },
+          "subtype": "Capability"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.7DTdd7wxLb88yjHH",
+      "value": {
+        "_id": "7DTdd7wxLb88yjHH",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "HOzTHSAacCpnMb1R",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-technique.svg",
+        "name": "Metabolic Surge",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 4,
+          "techEffect": "You infuse your physical form with a gush of adrenaline and psychic energy, enhancing an attack or a defense.",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 1,
+          "techReqs": "Uninjured Torso",
+          "techSkill": "Endurance",
+          "techTags": "",
+          "techType": "Balance"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.BaJGMfDenFuwFBc3",
+      "value": {
+        "_id": "BaJGMfDenFuwFBc3",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "HOzTHSAacCpnMb1R",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-technique.svg",
+        "name": "Psychic Strike",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 3,
+          "techEffect": "You reach out and attack with a tendril of invisible psychic force. This is both Ranged and Subtle as it is an invisible, silent and essentially unpredictable attack from an impossible angle.",
+          "techFacing": {
+            "max": 8,
+            "min": 5,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 1,
+          "techReqs": "Arm or Functional Metal Chakra",
+          "techSkill": "Senses",
+          "techTags": "Ranged, Subtle",
+          "techType": "Attack"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.BsmEymXJBcnyqyWs",
+      "value": {
+        "_id": "BsmEymXJBcnyqyWs",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "HOzTHSAacCpnMb1R",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-technique.svg",
+        "name": "Ghost Light",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 3,
+          "techEffect": "Summon a dim, ghostly orb of psychic energy and hurl it towards the foe. It acts as a ranged, energy attack.",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 1,
+          "techReqs": "Arm",
+          "techSkill": "Spirit",
+          "techTags": "Energy, Ranged",
+          "techType": "Attack"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.C6ctB0UjtDaMDPT2",
+      "value": {
+        "_id": "C6ctB0UjtDaMDPT2",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "yRMhsjMu87V3G31A",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-expert.svg",
+        "name": "Psychometric Harmony",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 12,
+          "techEffect": "reates a sustained, round-long Defense. You exist in psychic harmony with your surroundings, perfectly harmonizing with the psychic ambiance. This provides you with near-perfect clairvoyance and reflexes to avoid danger, including attacks.\n\nWhile so harmonized, you add 1 Prana into your Pool for every 3 Prana spent on Techniques used to attack you. If you annul a Technique targeting you, then you gain 1 Prana for every 3 wasted by the enemy. Round up in all cases.\n\nWhen the Senses boosting capability is used to hide, this technique hides you from the mind’s eye; you’re simply not noticed by those around you, made invisible by their subconscious refusal to acknowledge your presence.",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Expert",
+          "techRank": 3,
+          "techReqs": "Awakened Metal Chakra",
+          "techSkill": "Senses",
+          "techTags": "Sustainable",
+          "techType": "Defense"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.dFgpLdu0NpcJw9IW",
+      "value": {
+        "_id": "dFgpLdu0NpcJw9IW",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "HOzTHSAacCpnMb1R",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-technique.svg",
+        "name": "Telekinesis",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 3,
+          "techEffect": "This Technique allows you to reach out and manipulate physical objects with your mind. It has many permutations.\n\nWhen used to enhance a Power action, this Technique allows you to lift objects within range at (Achieved Rank) with the power of your mind alone.\n\nUsed as a Defense, you anticipate an attack and pull yourself to safety with an invisible force of will.\n\nAfter you have mastered this disquieting Mudra, you may use it without cost for one of two useful effects: First, you can use psychic force to manipulate objects within the same Field and range of your senses without cost at Power Rank 1.\n\nSecond, you can lift yourself and hover or fly with this Technique, although you move no faster than jogging speed (Agility Rank 1).\n\nEither the self-lifting or Power action uses may be sustained.",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 1,
+          "techReqs": "Functional Metal Chakra",
+          "techSkill": "Power",
+          "techTags": "Sustainable",
+          "techType": "Mudra"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.gKMs4BZHwQvhGcAI",
+      "value": {
+        "_id": "gKMs4BZHwQvhGcAI",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "HOzTHSAacCpnMb1R",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-technique.svg",
+        "name": "Psychokinetic Slam",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 3,
+          "techEffect": "You grab a foe with your psychic powers. They appear to freeze in place while you levitate and restrict them. This works like a normal Grab attack, but doesn’t require any limbs. You can move the held foe three dimensionally in space while they stay within range of your senses, moving slowly at an effective Agility of 0.",
+          "techFacing": {
+            "max": 9,
+            "min": 6,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 1,
+          "techReqs": "Functional Metal Chakra",
+          "techSkill": "Power",
+          "techTags": "Ranged, Grab",
+          "techType": "Attack"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.kTJwrBRhaBtKV3Lp",
+      "value": {
+        "_id": "kTJwrBRhaBtKV3Lp",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-supreme.svg",
+        "name": "Supreme-level Technique",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Supreme",
+            "sets": 8,
+            "target": "Attack"
+          },
+          "subtype": "Charge Attack"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.qLxVnYmLun5tTFhS",
+      "value": {
+        "_id": "qLxVnYmLun5tTFhS",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-master.svg",
+        "name": "Master-Level Techniques",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Master",
+            "sets": 4,
+            "target": "Attack"
+          },
+          "subtype": "Charge Attack"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.QxovZhnq36lyacAy",
+      "value": {
+        "_id": "QxovZhnq36lyacAy",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "IbJWqSMHbxa8j6Vd",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-form.svg",
+        "name": "Soundless Ways",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "attackBoost": {
+            "doubled": false,
+            "max": 0,
+            "min": 0,
+            "name": "Eerie Strike",
+            "none": false,
+            "to": "an eerie ranged, psychic strike"
+          },
+          "defenseBoost": {
+            "doubled": false,
+            "max": 3,
+            "min": 3,
+            "name": "Precognitive Evasion",
+            "none": false,
+            "to": "defense"
+          },
+          "description": "",
+          "editMode": false,
+          "requirements": "an Awakened Metal Chakra",
+          "techEffect": "<p><strong>Subconscious Whisper</strong>: You can broadcast your thoughts into the mind of another character. If they so choose, you can hear the thoughts they broadcast in return. You must otherwise be able to sense your target for this power to function.</p>",
+          "yuddhakala": ""
+        },
+        "type": "form"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.Re9UMMRZwua2mRbZ",
+      "value": {
+        "_id": "Re9UMMRZwua2mRbZ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/high-kick.svg",
+        "name": "Unrivaled Master",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Master of the Silent Gift style, he may use the Form and Novice Techniques an unlimited number of times per round so long as he empowers actions with them, rather than creates them.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 1",
+            "sets": 2,
+            "target": "Techniques"
+          },
+          "subtype": "Capability"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.SCKwRCrzA0tBGkLY",
+      "value": {
+        "_id": "SCKwRCrzA0tBGkLY",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "yRMhsjMu87V3G31A",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-expert.svg",
+        "name": "Prana Quash",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 12,
+          "techEffect": "Against any character you can sense, you disrupt and annul the use of a Technique. Master-level Techniques can be pushed through for the additional cost of 12 Prana. If they cannot or do not pay the additional cost, the Technique fails to function and the Prana used to power it is wasted. Supreme-level Techniques cannot be disrupted.\n\nThe values in parenthesis are when used to boost Intellect.",
+          "techFacing": {
+            "max": 3,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Expert",
+          "techRank": 3,
+          "techReqs": "Awakened Metal Chakra",
+          "techSkill": "Intellect",
+          "techTags": "Prana Drain",
+          "techType": "Mudra"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.T4yXSIQL4vh7MuFw",
+      "value": {
+        "_id": "T4yXSIQL4vh7MuFw",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-expert.svg",
+        "name": "Expert-Level Techniques",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Expert",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Charge Attack"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.TC48oFg761qKmIQU",
+      "value": {
+        "_id": "TC48oFg761qKmIQU",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "lAETeDUZUofb0xzG",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-supreme.svg",
+        "name": "Breath of God",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 100,
+          "techEffect": "Creates an annihilating orb of whiteness that expands to encompass the Tract. Hits terrain and people, but also cleanses any psychic or mystical residue, including curses, prophecies, and unhallowed ground. All is returned to its pure, atomic origin by this universe-scouring event.\n\nThe immediate Field is struck at (Achieved Rank), while the surrounding Tract endures a (Technique Rank) strike.\n\nIt annihilates and pulverizes structures, reducing them to atoms. Individuals can be selectively spared, teleported to any area within or up to 1 Field outside of the affected area\nat your choosing. You may extend your mercy to as many recipients as you choose.\n\nDue to its cosmic nature, this Technique is one of the very few methods that can bring true and final death to an Immortal.",
+          "techFacing": {
+            "max": 9,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Supreme",
+          "techRank": 7,
+          "techReqs": "7 Awakened Chakra",
+          "techSkill": "Power",
+          "techTags": "",
+          "techType": "Attack"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!wTTVJvArlJ8WDYzC.uP1rkMSoFHPISa2q",
+      "value": {
+        "_id": "uP1rkMSoFHPISa2q",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "HOzTHSAacCpnMb1R",
+        "img": "systems/lone-wolf-fists/assets/yuddhakhala/unearthly-gift-technique.svg",
+        "name": "Prana Leak",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "editMode": false,
+          "techCost": 3,
+          "techEffect": "Against any character you can sense, you disrupt and annul the use of a Technique. They may pay 3 additional Prana to push it through despite your interference. If they cannot or do not, the Technique fails to function and the Prana used to power it is wasted. Master and Supreme-Level Techniques cannot be disrupted.\n\nThe values in parenthesis are when used to boost Intellect.",
+          "techFacing": {
+            "max": 9,
+            "min": 0,
+            "none": false
+          },
+          "techLvl": "Novice",
+          "techRank": 1,
+          "techReqs": "Functional Metal Chakra",
+          "techSkill": "Intellect",
+          "techTags": "Prana Drain",
+          "techType": "Mudra"
+        },
+        "type": "technique"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.6o5OhYYH4rtpomHD",
+      "value": {
+        "_id": "6o5OhYYH4rtpomHD",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.7RENC1N4IofGNKnX",
+      "value": {
+        "_id": "7RENC1N4IofGNKnX",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/transparent-slime.svg",
+        "name": "Death's Approach",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Xiangliu does not cause destruction as he moves; he slithers with a serpentine grace through narrow streets, subway tunnels, and sewers. He moves with impossible silence (Rank 7 Senses to hear) and horrifying speed (Agility Rank 6) and clings to surfaces like a mucusy leech.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 1",
+            "sets": 2,
+            "target": ""
+          },
+          "subtype": "Capability"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.fMxsVR7RRYErl6h6",
+      "value": {
+        "_id": "fMxsVR7RRYErl6h6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/vomiting.svg",
+        "name": "Poison Stream",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p><span style=\"font-family: Lato, Roboto, sans-serif\">Spits a stream of liquid poison with the strength of a fire hose (Rank 6 Pushing Hazard). Anything touched is corroded as though by a Rank 6 Acid Hazard if nonorganic, or sickened with a Virulence 6 Poison if living.</span></p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 9,
+            "intensity": "Rank 6",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.hE4UmE7ApnJ88FkG",
+      "value": {
+        "_id": "hE4UmE7ApnJ88FkG",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/heavy-rain.svg",
+        "name": "Black Rain",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Tilting all of his heads towards the sky, Xiangliu causes a rain of searing poison to fall on the Field as a Rank 12 Attack. This coats everything with searing acid, melting and warping even steel. Living creatures slain by this venom turn to stone. Those who survive suffer a Virulence 12 dose of the Divine Venom Blood-To-Stone-Poison (p.98)</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Rampage",
+            "frequency": 1,
+            "intensity": "Rank 12",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.NbWXsPfKlN8ftvrq",
+      "value": {
+        "_id": "NbWXsPfKlN8ftvrq",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/grab.svg",
+        "name": "Vengeful-God’s Embrace",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 10 attack, Grabs and crushes a target as small as a person or as large as a battleship (Size 4-9)</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 1,
+            "intensity": "Rank 10",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.Nd9VHh0BiwiouDkv",
+      "value": {
+        "_id": "Nd9VHh0BiwiouDkv",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.O9I2Ubl5EOODNKKB",
+      "value": {
+        "_id": "O9I2Ubl5EOODNKKB",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.OVAQZYwiiGZlUyXt",
+      "value": {
+        "_id": "OVAQZYwiiGZlUyXt",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.Tlq0KREVIMrLatNr",
+      "value": {
+        "_id": "Tlq0KREVIMrLatNr",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.uFaFsdF1KsH09tmb",
+      "value": {
+        "_id": "uFaFsdF1KsH09tmb",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.UZZPVD8gZwdfJq8q",
+      "value": {
+        "_id": "UZZPVD8gZwdfJq8q",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.vOj0WN1wW86TF3np",
+      "value": {
+        "_id": "vOj0WN1wW86TF3np",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!xf52UbGWrdmkEx2x.yyPe7Pb8rSp0eEIM",
+      "value": {
+        "_id": "yyPe7Pb8rSp0eEIM",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Head",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 15,
+            "max": 10,
+            "value": 150
+          },
+          "linkedOnslaught": "fMxsVR7RRYErl6h6",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    }
+  ]
+}

@@ -4,6 +4,10 @@
   "description": "The Lone Wolf Fists system for FoundryVTT!",
   "authors": [
     {
+      "name": "Bashington",
+      "flags": { "role": "v14 port maintainer" }
+    },
+    {
       "name": "El-Gobbo",
       "discord": "elgobbo"
     }
@@ -20,10 +24,10 @@
       "thumbnail": "systems/lone-wolf-fists/assets/logo.png"
     }
   ],
-  "version": "1.2.4",
+  "version": "1.3.0",
   "compatibility": {
-    "minimum": 13,
-    "verified": "13.347"
+    "minimum": 14,
+    "verified": "14.368"
   },
   "esmodules": ["module/lone-wolf-fists.mjs"],
   "styles": ["css/lone-wolf-fists.css"],
@@ -241,18 +245,43 @@
       "type": "module",
       "manifest": "https://raw.githubusercontent.com/datdamnzotz/icons/master/module.json",
       "compatibility": {
-        "verified": "0.0.39"
+        "verified": "0.0.45"
       }
     }]
   },
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/El-Gobbo/lone-wolf-fists/refs/tags/v1.2.4/system.json",
-  "download": "https://github.com/El-Gobbo/lone-wolf-fists/releases/download/v1.2.4/lone-wolf-fists.zip",
   "background": "systems/lone-wolf-fists/assets/logo.png",
   "gridDistance": 5,
   "gridUnits": "ft",
   "primaryTokenAttribute": "health.value",
-  "secondaryTokenAttribute": "power.lvl"
+  "secondaryTokenAttribute": "power.lvl",
+  "documentTypes": {
+    "Actor": {
+      "character": {},
+      "npc": {},
+      "squad": {},
+      "platoon": {},
+      "titan": {},
+      "vehicle": {},
+      "domain": {}
+    },
+    "Item": {
+      "item": {},
+      "gupt-kala": {},
+      "technique": {},
+      "form": {},
+      "imbalance": {},
+      "archetype": {},
+      "clan": {},
+      "skill": {},
+      "armor": {},
+      "weapon": {},
+      "artifact": {},
+      "ability": {},
+      "anatomy": {},
+      "node": {}
+    }
+  }
 }
 
 

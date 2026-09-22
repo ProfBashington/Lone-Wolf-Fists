@@ -1,0 +1,294 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "weapons",
+  "records": [
+    {
+      "key": "!items!5b7EqiiySmb5hDuK",
+      "value": {
+        "_id": "5b7EqiiySmb5hDuK",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1737191319598,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919555747,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/weapons/Reflexive.svg",
+        "name": "Staff or Shield",
+        "ownership": {
+          "JAd8YWvWFXWuIkJi": 3,
+          "default": 0
+        },
+        "sort": 100000,
+        "system": {
+          "description": "",
+          "history": "<p>Grandfather of weapons and most ancient implement of war. Used primarily for defense, rather than attack. Sai and shield are also used in this manner.</p><p>Once per round, you may increase a defense by 1 Rank. For 3 Prana, you may increase another defense.</p>",
+          "tag1": "Reflexive",
+          "tag2": "Balanced",
+          "unique": false,
+          "unorthodox": false
+        },
+        "type": "weapon"
+      }
+    },
+    {
+      "key": "!items!7yxbXqnbjmgrRWZs",
+      "value": {
+        "_id": "7yxbXqnbjmgrRWZs",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1737191211512,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919535417,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/weapons/Unarmed.svg",
+        "name": "Bare hands",
+        "ownership": {
+          "JAd8YWvWFXWuIkJi": 3,
+          "default": 0
+        },
+        "sort": 600000,
+        "system": {
+          "description": "",
+          "history": "<p>The Ancestor of all weapons, root of all forms of combat. Strikes with fists, feet, elbows, even the forehead are the most fundamental weapons, able to attack freely and often in a flurry of blows.</p><p>Fighting <strong>without other forms of weaponry </strong>grants you the ability to attack with a single die twice per turn, rather than the typical once. For 3 Prana, you may attack with a single die an additional time</p>",
+          "tag1": "Unarmed",
+          "tag2": "Balanced",
+          "unique": false,
+          "unorthodox": false
+        },
+        "type": "weapon"
+      }
+    },
+    {
+      "key": "!items!AKQMT1kQQVvZ5at1",
+      "value": {
+        "_id": "AKQMT1kQQVvZ5at1",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1737191656394,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919569007,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/weapons/Flexible.svg",
+        "name": "The Chain",
+        "ownership": {
+          "JAd8YWvWFXWuIkJi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "history": "<p>Vagabond of weapons; who expects such bizarre strategy? Also includes lassos, nets and other entangling weapons; used to grab and entrap foes.</p><p>Once per round, increase a Grab by +1 Rank. This may be invoked on an already-extant grab to make it more difficult to escape. For 3 Prana, may empower a second grab.</p>",
+          "tag1": "Flexible",
+          "tag2": "Balanced",
+          "unique": false,
+          "unorthodox": false
+        },
+        "type": "weapon"
+      }
+    },
+    {
+      "key": "!items!deECzb3bFmGFiHdD",
+      "value": {
+        "_id": "deECzb3bFmGFiHdD",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1737191612464,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919542236,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/weapons/Ranged.svg",
+        "name": "Bow and Arrow",
+        "ownership": {
+          "JAd8YWvWFXWuIkJi": 3,
+          "default": 0
+        },
+        "sort": 200000,
+        "system": {
+          "description": "",
+          "history": "<p>Intellectual of all weapons, it is the mind’s grand art of killing made manifest. Also includes low-caliber guns, slings, boomerangs and other weapons used to strike at a distance.</p><p>Once per round, you may attack any visible target in this Field or any adjacent one, regardless of distance. Strikes utilizing this advantage consume appropriate ammunition: for a bow, an arrow; for a gun, a bullet. For 3 Prana, you may fire a second shot.</p>",
+          "tag1": "Ranged",
+          "tag2": "Balanced",
+          "unique": false,
+          "unorthodox": false
+        },
+        "type": "weapon"
+      }
+    },
+    {
+      "key": "!items!H9c1MIMRK9pY6pfO",
+      "value": {
+        "_id": "H9c1MIMRK9pY6pfO",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1737191312782,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919548915,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/weapons/Reach.svg",
+        "name": "Spear",
+        "ownership": {
+          "JAd8YWvWFXWuIkJi": 3,
+          "default": 0
+        },
+        "sort": 500000,
+        "system": {
+          "description": "",
+          "history": "<p>King of weapons and long considered the greatest strategic armament. Used by skilled combatants to control the flow of battle.</p><p>May attack into a neighboring Area. So long as you are engaged with a foe, you may use the reach and battlefield control offered by these weapons to increase your Initiative by 1d10. For 3 Prana, you may add an additional 1d10.</p>",
+          "tag1": "Reach",
+          "tag2": "Balanced",
+          "unique": false,
+          "unorthodox": false
+        },
+        "type": "weapon"
+      }
+    },
+    {
+      "key": "!items!IO9hLxrcurO3i7uG",
+      "value": {
+        "_id": "IO9hLxrcurO3i7uG",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736975004487,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919562433,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/weapons/Balanced.svg",
+        "name": "Sword",
+        "ownership": {
+          "cd9suLhBWMW847kB": 3,
+          "default": 0
+        },
+        "sort": 400000,
+        "system": {
+          "description": "",
+          "history": "<p>Gentleman of weaponry; a vestige of an age which married civility and barbary. Perfectly honed killing instruments, they are coveted and feared by warriors.</p><p>With the comprehensive killing advantage offered by these deadly weapons, you may increase a single attack by 1 Rank once per round.You may channel this killing supremacy once again at the cost of 4 Prana.</p>",
+          "tag1": "Balanced",
+          "tag2": "Balanced",
+          "unique": false,
+          "unorthodox": false
+        },
+        "type": "weapon"
+      }
+    },
+    {
+      "key": "!items!jt4OdjBe7BVi0nxV",
+      "value": {
+        "_id": "jt4OdjBe7BVi0nxV",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1737191375010,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919579404,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/weapons/Heavy.svg",
+        "name": "Warhammer",
+        "ownership": {
+          "JAd8YWvWFXWuIkJi": 3,
+          "default": 0
+        },
+        "sort": 300000,
+        "system": {
+          "description": "",
+          "history": "<p>The Brute of weapons. Violent and stupid, its horrific legacy is impossible to ignore. Massive, blunt objects used to crush bones and pulverize the foe; they are exceedingly easy to use, able to rely on both size and momentum.</p><p>Uncomplicated and uncompromising, this weapon adds +2d10 Damage to every successful attack you land. Magic is not needed to enjoy this benefit; it is provided by the physics of the weapon. You may add an additional +10 damage for the cost of 3 Prana, but this power must be imbued prior to launching your attack.</p>",
+          "tag1": "Heavy",
+          "tag2": "Balanced",
+          "unique": false,
+          "unorthodox": false
+        },
+        "type": "weapon"
+      }
+    },
+    {
+      "key": "!items!oQ84uCzi33EdAHjD",
+      "value": {
+        "_id": "oQ84uCzi33EdAHjD",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1737191741436,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740919573971,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/weapons/Subtle.svg",
+        "name": "The Needle",
+        "ownership": {
+          "JAd8YWvWFXWuIkJi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "history": "<p>Fiend of weapons, the tool of cowards and assassins. Throwing Needles, stars, darts and other quiet, easily concealed and innocuous weaponry; they are nearly harmless on their own, but often coated in deadly poison.</p><p>You may use this weapon to empower an attack from stealth while remaining hidden. For 3 Prana, you may perform another subtle strike from hiding.</p>",
+          "tag1": "Subtle",
+          "tag2": "Balanced",
+          "unique": false,
+          "unorthodox": false
+        },
+        "type": "weapon"
+      }
+    }
+  ]
+}

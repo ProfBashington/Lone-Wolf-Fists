@@ -1,0 +1,346 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "armor",
+  "records": [
+    {
+      "key": "!items!8jdzmrU2Ya0WXodp",
+      "value": {
+        "_id": "8jdzmrU2Ya0WXodp",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131680346,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740131842665,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-1.svg",
+        "name": "Leather Armor",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 100000,
+        "system": {
+          "armorValue": 1,
+          "description": "<p>Can also be jackets, hide armor, gimp gear, etc.</p>",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!C469XJSOndgpbCUD",
+      "value": {
+        "_id": "C469XJSOndgpbCUD",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131789690,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740132031206,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-10.svg",
+        "name": "Divine Armor",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 750000,
+        "system": {
+          "armorValue": 10,
+          "description": "<p>Can also be fate-fueled armor.</p>",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!cb9TKpmQorCaf30y",
+      "value": {
+        "_id": "cb9TKpmQorCaf30y",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131711395,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740131873213,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-3.svg",
+        "name": "Worked Leather Armor",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 137500,
+        "system": {
+          "armorValue": 3,
+          "description": "<p>Can also be ringmail or sturdy shields.</p>",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!GoGjzXFDe6CS1jfz",
+      "value": {
+        "_id": "GoGjzXFDe6CS1jfz",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131767184,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740131997262,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-8.svg",
+        "name": "Magical Armor",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 550000,
+        "system": {
+          "armorValue": 8,
+          "description": "",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!KDixyJQ0vu6BYjfD",
+      "value": {
+        "_id": "KDixyJQ0vu6BYjfD",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131753332,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740131989144,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-7.svg",
+        "name": "Space-age Armor",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 450000,
+        "system": {
+          "armorValue": 7,
+          "description": "<p>Can also be advanced military tac-gear.</p>",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!KYAOY6xsMwDqMJfy",
+      "value": {
+        "_id": "KYAOY6xsMwDqMJfy",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131745574,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740131951147,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-6.svg",
+        "name": "Bullet-proof Armor",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 350000,
+        "system": {
+          "armorValue": 6,
+          "description": "<p>Can also be ceramic.</p>",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!PoUzqv4pKrLH7QlP",
+      "value": {
+        "_id": "PoUzqv4pKrLH7QlP",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131683018,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740131847359,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-2.svg",
+        "name": "Scavenged Armor",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 125000,
+        "system": {
+          "armorValue": 2,
+          "description": "",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!PpUK2mdGs7gN872D",
+      "value": {
+        "_id": "PpUK2mdGs7gN872D",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131738783,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1741516404194,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-5.svg",
+        "name": "Iron-age Mail",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 250000,
+        "system": {
+          "armorValue": 5,
+          "description": "<p>Can also be tac-gear, can also include shield.</p>",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!uBkGNVz81zH4yBwn",
+      "value": {
+        "_id": "uBkGNVz81zH4yBwn",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131714550,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740131886518,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-4.svg",
+        "name": "Chainmail",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 150000,
+        "system": {
+          "armorValue": 4,
+          "description": "<p>Can also be scalemail.</p>",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    },
+    {
+      "key": "!items!VkYBjndVl1Lre39T",
+      "value": {
+        "_id": "VkYBjndVl1Lre39T",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1740131786624,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740132017466,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/armor/rating-9.svg",
+        "name": "Hellforged Armor",
+        "ownership": {
+          "default": 0,
+          "sPeA9JIH4zu0YqMp": 3
+        },
+        "sort": 650000,
+        "system": {
+          "armorValue": 9,
+          "description": "<p>Can also be armor born from the marriage of science and sorcery.</p>",
+          "editMode": false,
+          "worn": false
+        },
+        "type": "armor"
+      }
+    }
+  ]
+}

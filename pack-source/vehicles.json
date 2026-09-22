@@ -1,0 +1,5408 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "vehicles",
+  "records": [
+    {
+      "key": "!actors!8oPo3z9XSYDJPu5Q",
+      "value": {
+        "_id": "8oPo3z9XSYDJPu5Q",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625206518,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159112,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "TXmwOUJBR2E6hU7R",
+        "img": "systems/lone-wolf-fists/assets/compendia/motorcycle.Avatar.webp?1749329917175",
+        "items": [],
+        "name": "Motorcycle",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Motorcycle",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/motorcycle.Token.webp?1749329917175",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 200000,
+        "system": {
+          "armor": 4,
+          "biography": "<p>Civilian vehicles, usable and maintainable by laymen. The ease of use and mobility they offer fundamentally changes humanity’s relationship with distance. Often require infrastructure like roads or tracks to function, they are more reliant on civilization than heartier vehicles.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Session",
+            "quantity": 1
+          },
+          "health": {
+            "lvl": 5,
+            "max": 10,
+            "value": 10
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 5,
+            "weight": 1
+          },
+          "movement": {
+            "handling": 6,
+            "speed": 5
+          },
+          "occupancy": {
+            "cargo": "About a saddle bag",
+            "crew": "1 rider"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Roads, Terrestrial",
+          "towing": 3
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!AegR449ABVKr5Qmh",
+      "value": {
+        "_id": "AegR449ABVKr5Qmh",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625200132,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159163,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "wKko8hjMm0N9gGms",
+        "img": "systems/lone-wolf-fists/assets/compendia/crane.Avatar.webp?1748992603348",
+        "items": [
+          "oTLssFo2Dbh1C5EJ",
+          "QN6rNq7kTO2LHPwl"
+        ],
+        "name": "Crane",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Crane",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/crane.Token.webp?1748992603348",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 300000,
+        "system": {
+          "armor": 6,
+          "biography": "<p>Construction vehicles of all types; used for changing the face of a landscape and building human-habitable structures.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 7
+          },
+          "health": {
+            "lvl": 7,
+            "max": 10,
+            "value": 70
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 7,
+            "weight": 10
+          },
+          "movement": {
+            "handling": 0,
+            "speed": 2
+          },
+          "occupancy": {
+            "cargo": "4",
+            "crew": "1"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Roads",
+          "towing": 9
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!bfuhHxSc961LNUEz",
+      "value": {
+        "_id": "bfuhHxSc961LNUEz",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625202347,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159870,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "FqpAEG1MRSPSM3h2",
+        "img": "systems/lone-wolf-fists/assets/compendia/sky_cutting_sword.Avatar.webp?1749068765335",
+        "items": [],
+        "name": "Sky-Cutting Sword",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Sky-Cutting Sword",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/sky_cutting_sword.Token.webp?1749068765335",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 300000,
+        "system": {
+          "armor": 0,
+          "biography": "<p><strong>Uses Prana instead of Fuel.</strong></p><hr><p>Artifacts forged for transportation, or war machines so complicated and enormous that they have a life of their own. Fueled in Prana rather than crude earthly fuels, these wonders cut the skies or raze the earth.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 6
+          },
+          "health": {
+            "lvl": 2,
+            "max": 10,
+            "value": 20
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 2,
+            "weight": 0
+          },
+          "movement": {
+            "handling": 6,
+            "speed": 4
+          },
+          "occupancy": {
+            "cargo": "0",
+            "crew": "1 rider"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Flight",
+          "towing": 0
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!C1g9E41pLgBOPk8n",
+      "value": {
+        "_id": "C1g9E41pLgBOPk8n",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625202347,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159216,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "FqpAEG1MRSPSM3h2",
+        "img": "systems/lone-wolf-fists/assets/compendia/havoc_king_creature_.Avatar.webp?1749069596845",
+        "items": [
+          "p0iWtd9JoPdrFM69",
+          "vftjIDhj5mWPLAWz",
+          "YehyDEosSDfO9oFP",
+          "k06kiVMXZp03vyFf",
+          "6vFlBwWqbTRzsasY",
+          "tpsupYKzBqLOCvNe",
+          "ESlFc07hQXVyzJi9",
+          "SWIPL3c2mJnVxJJP"
+        ],
+        "name": "Havoc King (Creature)",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Havoc King (Creature)",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/havoc_king_creature_.Token.webp?1749069596845",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 8,
+          "biography": "<p><strong>Uses Prana instead of Fuel.</strong></p><hr><p>Artifacts forged for transportation, or war machines so complicated and enormous that they have a life of their own. Fueled in Prana rather than crude earthly fuels, these wonders cut the skies or raze the earth.</p>",
+          "calamity": "SWIPL3c2mJnVxJJP",
+          "cataclysms": "Earthquakes, falling debris, collapsing buildings. Plumes of concrete smoke, waves of terror and despair. Earth roiling like waves, fissures and chasms ripping the ground apart.",
+          "description": "",
+          "duration": "-",
+          "editMode": false,
+          "health": {
+            "lvl": 3,
+            "max": 10,
+            "value": 30
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "onslaught": {},
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 30
+          },
+          "scope": "Field",
+          "type": false
+        },
+        "type": "titan"
+      }
+    },
+    {
+      "key": "!actors!EEEP3pXnT72iATI0",
+      "value": {
+        "_id": "EEEP3pXnT72iATI0",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625201272,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159315,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Po2viSjwsYKD14yi",
+        "img": "systems/lone-wolf-fists/assets/compendia/main_battle_tank.Avatar.webp?1749036174066",
+        "items": [
+          "aTvoCBKywDwGWDmh",
+          "QzokAMlFS3Y4WGge"
+        ],
+        "name": "Main Battle Tank",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Main Battle Tank",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/main_battle_tank.Token.webp?1749036174066",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 10,
+          "biography": "<p>Instruments of destruction, these mighty war machines sang the thunderous chorus of the end times from the barrels of their cannons. Any civilization possessing such mighty vehicles can easily impose its will on neighbors. They are highly prized and often found in the hands of ruthless warlords.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 70
+          },
+          "health": {
+            "lvl": 7,
+            "max": 10,
+            "value": 70
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 7,
+            "weight": 11
+          },
+          "movement": {
+            "handling": 1,
+            "speed": 4
+          },
+          "occupancy": {
+            "cargo": "3 (cramped cargo capacity)",
+            "crew": "4 (commander, gunner, loader, driver)"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Terrestrial",
+          "towing": 8
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!EJpGN4j5gHhstjtT",
+      "value": {
+        "_id": "EJpGN4j5gHhstjtT",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625198933,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159481,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Hj32ZfAqsvgZxnIM",
+        "img": "systems/lone-wolf-fists/assets/compendia/propeller_plane.Avatar.webp?1748983429920",
+        "items": [],
+        "name": "Propeller Plane",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Propeller Plane",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/propeller_plane.Token.webp?1748983429920",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 5,
+          "biography": "<p>Planes and other flight vehicles. Battle the tyranny of gravity by allowing mankind access to the ancient dream of flight. Often require significant runways or landing spaces, typically require intense technical knowledge and special maintenance, and demand high skill and effort to pilot. Regardless of these drawbacks, it remains one of the most versatile and useful vehicle types.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 1
+          },
+          "health": {
+            "lvl": 6,
+            "max": 10,
+            "value": 60
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 6,
+            "weight": 7
+          },
+          "movement": {
+            "handling": 5,
+            "speed": 8
+          },
+          "occupancy": {
+            "cargo": "3",
+            "crew": "1 pilot, 1 passenger"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Flight",
+          "towing": 0
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!eYEr9TeV02tgvZOO",
+      "value": {
+        "_id": "eYEr9TeV02tgvZOO",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625201272,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159896,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Po2viSjwsYKD14yi",
+        "img": "systems/lone-wolf-fists/assets/compendia/fighter_jet.Avatar.webp?1749036851806",
+        "items": [
+          "aTvoCBKywDwGWDmh",
+          "QzokAMlFS3Y4WGge"
+        ],
+        "name": "Fighter Jet",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Fighter Jet",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/fighter_jet.Token.webp?1749036851806",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 8,
+          "biography": "<p>Instruments of destruction, these mighty war machines sang the thunderous chorus of the end times from the barrels of their cannons. Any civilization possessing such mighty vehicles can easily impose its will on neighbors. They are highly prized and often found in the hands of ruthless warlords.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 10000
+          },
+          "health": {
+            "lvl": 7,
+            "max": 10,
+            "value": 70
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 7,
+            "weight": 9
+          },
+          "movement": {
+            "handling": 5,
+            "speed": 14
+          },
+          "occupancy": {
+            "cargo": "1, very little additional cockpit room.",
+            "crew": "Pilot, gunner"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Flight",
+          "towing": 0
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!fRHIzHOxlyvGuonV",
+      "value": {
+        "_id": "fRHIzHOxlyvGuonV",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625200132,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159928,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "wKko8hjMm0N9gGms",
+        "img": "systems/lone-wolf-fists/assets/compendia/bulldozer.Avatar.webp?1748990382934",
+        "items": [
+          "oTLssFo2Dbh1C5EJ",
+          "QN6rNq7kTO2LHPwl"
+        ],
+        "name": "Bulldozer",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Bulldozer",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/bulldozer.Token.webp?1748990382934",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 100000,
+        "system": {
+          "armor": 6,
+          "biography": "<p>Construction vehicles of all types; used for changing the face of a landscape and building human-habitable structures.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 7
+          },
+          "health": {
+            "lvl": 7,
+            "max": 10,
+            "value": 70
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 7,
+            "weight": 10
+          },
+          "movement": {
+            "handling": 0,
+            "speed": 1
+          },
+          "occupancy": {
+            "cargo": "3",
+            "crew": "1"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Terrestrial",
+          "towing": 9
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!HomwYgd49k8Cdwrn",
+      "value": {
+        "_id": "HomwYgd49k8Cdwrn",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625206518,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159518,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "TXmwOUJBR2E6hU7R",
+        "img": "systems/lone-wolf-fists/assets/compendia/car.Avatar.webp?1749327826351",
+        "items": [],
+        "name": "Car",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Car",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/car.Token.webp?1749327826351",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 100000,
+        "system": {
+          "armor": 5,
+          "biography": "<p>Civilian vehicles, usable and maintainable by laymen. The ease of use and mobility they offer fundamentally changes humanity’s relationship with distance. Often require infrastructure like roads or tracks to function, they are more reliant on civilization than heartier vehicles.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 1
+          },
+          "health": {
+            "lvl": 6,
+            "max": 10,
+            "value": 60
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 6,
+            "weight": 4
+          },
+          "movement": {
+            "handling": 4,
+            "speed": 5
+          },
+          "occupancy": {
+            "cargo": "4",
+            "crew": "1 driver, up to 4 passengers safely seated"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Roads",
+          "towing": 5
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!hQTBe4LHGz3ncytF",
+      "value": {
+        "_id": "hQTBe4LHGz3ncytF",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625205082,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159953,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "4OOeIF09ZOzj3VTC",
+        "img": "systems/lone-wolf-fists/assets/compendia/motor_boat.Avatar.webp?1749320272510",
+        "items": [],
+        "name": "Motor Boat",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Motor Boat",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/motor_boat.Token.webp?1749320272510",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 400000,
+        "system": {
+          "armor": 5,
+          "biography": "<p>Boats, ranging in size from the personal to the industrial in size. They make the surface of the polluted oceans traversable by otherwise land-bound humans.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 1
+          },
+          "health": {
+            "lvl": 6,
+            "max": 10,
+            "value": 60
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 6,
+            "weight": 3
+          },
+          "movement": {
+            "handling": 2,
+            "speed": 4
+          },
+          "occupancy": {
+            "cargo": "3 additional passengers (safe load)",
+            "crew": "1 pilot"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Aquatic, Marine",
+          "towing": 4
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!Id10A5ny5ieSPYHy",
+      "value": {
+        "_id": "Id10A5ny5ieSPYHy",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625198933,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159562,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Hj32ZfAqsvgZxnIM",
+        "img": "systems/lone-wolf-fists/assets/compendia/jumbo_jet.Avatar.webp?1748985537480",
+        "items": [],
+        "name": "Jumbo Jet",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Jumbo Jet",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/jumbo_jet.Token.webp?1748985537480",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 8,
+          "biography": "<p>Planes and other flight vehicles. Battle the tyranny of gravity by allowing mankind access to the ancient dream of flight. Often require significant runways or landing spaces, typically require intense technical knowledge and special maintenance, and demand high skill and effort to pilot. Regardless of these drawbacks, it remains one of the most versatile and useful vehicle types.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 70
+          },
+          "health": {
+            "lvl": 20,
+            "max": 10,
+            "value": 200
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 8,
+            "weight": 12
+          },
+          "movement": {
+            "handling": 2,
+            "speed": 10
+          },
+          "occupancy": {
+            "cargo": "7 (or roughly 400 passengers and power 10)",
+            "crew": "pilot and copilot"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Flight",
+          "towing": 0
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!iIzjQ7YMcRfnW8Dz",
+      "value": {
+        "_id": "iIzjQ7YMcRfnW8Dz",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625203578,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159988,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "K2SCtvBNFROKMl6Z",
+        "img": "systems/lone-wolf-fists/assets/compendia/space_rocket.Avatar.webp?1749228906494",
+        "items": [
+          "jSlJAAhEb75rjiKz"
+        ],
+        "name": "Space Rocket",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Space Rocket",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/space_rocket.Token.webp?1749228906494",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 100000,
+        "system": {
+          "armor": 7,
+          "biography": "<p><strong>Fuel should be 10k/Blast-off. Orbiter is weight 9.</strong></p><hr><p>Engines of science from a more enlightened era of humanity. The apex of human exploration (prior to magic) these wonders allow for travel to near space, the depths of the ocean, or other wondrous and impossible landscapes.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Rampage",
+            "quantity": 10000
+          },
+          "health": {
+            "lvl": 20,
+            "max": 10,
+            "value": 200
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 8,
+            "weight": 14
+          },
+          "movement": {
+            "handling": 1,
+            "speed": 14
+          },
+          "occupancy": {
+            "cargo": "7, and enough lift to carry a bulldozer into space",
+            "crew": "7"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Flight, Space",
+          "towing": 0
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!iXDTR2JDX12EQqbD",
+      "value": {
+        "_id": "iXDTR2JDX12EQqbD",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625202347,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558160017,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "FqpAEG1MRSPSM3h2",
+        "img": "systems/lone-wolf-fists/assets/compendia/fire_wheels.Avatar.webp?1749042097330",
+        "items": [],
+        "name": "Fire Wheels",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Fire Wheels",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/fire_wheels.Token.webp?1749042097330",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 100000,
+        "system": {
+          "armor": 6,
+          "biography": "<p><strong>Uses Fire Prana instead of Fuel.</strong></p><hr><p>Artifacts forged for transportation, or war machines so complicated and enormous that they have a life of their own. Fueled in Prana rather than crude earthly fuels, these wonders cut the skies or raze the earth.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 10
+          },
+          "health": {
+            "lvl": 3,
+            "max": 10,
+            "value": 30
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 3,
+            "weight": 0
+          },
+          "movement": {
+            "handling": 8,
+            "speed": 8
+          },
+          "occupancy": {
+            "cargo": "3",
+            "crew": "1 rider"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Ground Flight",
+          "towing": 6
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!JsJXgVDSjSeiwiTN",
+      "value": {
+        "_id": "JsJXgVDSjSeiwiTN",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625203578,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159599,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "K2SCtvBNFROKMl6Z",
+        "img": "systems/lone-wolf-fists/assets/compendia/submarine.Avatar.webp?1749236564532",
+        "items": [
+          "uD2Mf4ikoep2ngbZ",
+          "CWE6gkwBPlwJ9MOx"
+        ],
+        "name": "Submarine",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Submarine",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/submarine.Token.webp?1749236564532",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 200000,
+        "system": {
+          "armor": 9,
+          "biography": "<p>Engines of science from a more enlightened era of humanity. The apex of human exploration (prior to magic) these wonders allow for travel to near space, the depths of the ocean, or other wondrous and impossible landscapes.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 7
+          },
+          "health": {
+            "lvl": 20,
+            "max": 10,
+            "value": 200
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 8,
+            "weight": 13
+          },
+          "movement": {
+            "handling": 2,
+            "speed": 5
+          },
+          "occupancy": {
+            "cargo": "6 (cramped quarters)",
+            "crew": "60 crew"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Submersible",
+          "towing": 0
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!kszHoqUXE3eViBCd",
+      "value": {
+        "_id": "kszHoqUXE3eViBCd",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625205082,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558160043,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "4OOeIF09ZOzj3VTC",
+        "img": "systems/lone-wolf-fists/assets/compendia/jet_ski.Avatar.webp?1749319701290",
+        "items": [],
+        "name": "Jet Ski",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Jet Ski",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/jet_ski.Token.webp?1749319701290",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 100000,
+        "system": {
+          "armor": 4,
+          "biography": "<p>Boats, ranging in size from the personal to the industrial in size. They make the surface of the polluted oceans traversable by otherwise land-bound humans.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 1
+          },
+          "health": {
+            "lvl": 5,
+            "max": 10,
+            "value": 50
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 5,
+            "weight": 2
+          },
+          "movement": {
+            "handling": 4,
+            "speed": 3
+          },
+          "occupancy": {
+            "cargo": "0",
+            "crew": "1"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Aquatic, Marine",
+          "towing": 2
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!L82HOpIfmns9QRJo",
+      "value": {
+        "_id": "L82HOpIfmns9QRJo",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625203578,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159639,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "K2SCtvBNFROKMl6Z",
+        "img": "systems/lone-wolf-fists/assets/compendia/orbital_laser_satellite.Avatar.webp?1749234590593",
+        "items": [
+          "RwZVFq0cvt3d7brY",
+          "4HZOHTNXjvOjur6j"
+        ],
+        "name": "Orbital Laser Satellite",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Orbital Laser Satellite",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/orbital_laser_satellite.Token.webp?1749234590593",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 300000,
+        "system": {
+          "armor": 6,
+          "biography": "<p>Engines of science from a more enlightened era of humanity. The apex of human exploration (prior to magic) these wonders allow for travel to near space, the depths of the ocean, or other wondrous and impossible landscapes.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 0
+          },
+          "health": {
+            "lvl": 20,
+            "max": 10,
+            "value": 200
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 8,
+            "weight": 10
+          },
+          "movement": {
+            "handling": 1,
+            "speed": 14
+          },
+          "occupancy": {
+            "cargo": "0",
+            "crew": "0"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Space",
+          "towing": 0
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!SEQvPUMvw8BoVqYO",
+      "value": {
+        "_id": "SEQvPUMvw8BoVqYO",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625200132,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159674,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "wKko8hjMm0N9gGms",
+        "img": "systems/lone-wolf-fists/assets/compendia/steamroller.Avatar.webp?1748996036970",
+        "items": [
+          "QjpLv0sCRSXZHVIb"
+        ],
+        "name": "Steamroller",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Steamroller",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/steamroller.Token.webp?1748996036970",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 200000,
+        "system": {
+          "armor": 5,
+          "biography": "<p>Construction vehicles of all types; used for changing the face of a landscape and building human-habitable structures.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 7
+          },
+          "health": {
+            "lvl": 7,
+            "max": 10,
+            "value": 70
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 6,
+            "weight": 8
+          },
+          "movement": {
+            "handling": 0,
+            "speed": 1
+          },
+          "occupancy": {
+            "cargo": "4 (cab)",
+            "crew": "1"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Terrestrial",
+          "towing": 8
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!VtZuQZptaITaBUHC",
+      "value": {
+        "_id": "VtZuQZptaITaBUHC",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625201272,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159709,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Po2viSjwsYKD14yi",
+        "img": "systems/lone-wolf-fists/assets/compendia/experimental_prana_battery_hypercycle.Avatar.webp?1749037466337",
+        "items": [],
+        "name": "Experimental Prana-Battery Hypercycle",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Experimental Prana-Battery Hypercycle",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/experimental_prana_battery_hypercycle.Token.webp?1749037466337",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 7,
+          "biography": "<p>Instruments of destruction, these mighty war machines sang the thunderous chorus of the end times from the barrels of their cannons. Any civilization possessing such mighty vehicles can easily impose its will on neighbors. They are highly prized and often found in the hands of ruthless warlords.</p><hr><p><strong>Note:</strong> The experimental Prana-battery grants this wonder of engineering effectively unlimited Fuel. Attempting to repurpose it ruins its delicate harmony unless crafted under the hands of a Master of the Art of the Artisan; it can generate enough power to count as a Fire-element Node at the heart of a Power Plant (p.178).</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 0
+          },
+          "health": {
+            "lvl": 5,
+            "max": 10,
+            "value": 50
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 5,
+            "weight": 2
+          },
+          "movement": {
+            "handling": 7,
+            "speed": 8
+          },
+          "occupancy": {
+            "cargo": "3",
+            "crew": "1 rider"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Roads, Terrestrial",
+          "towing": 5
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!WqCRuyOniTqHMe5K",
+      "value": {
+        "_id": "WqCRuyOniTqHMe5K",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625206518,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159739,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "TXmwOUJBR2E6hU7R",
+        "img": "systems/lone-wolf-fists/assets/compendia/dune_buggy.Avatar.webp?1749327936614",
+        "items": [],
+        "name": "Dune Buggy",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Dune Buggy",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/dune_buggy.Token.webp?1749327936614",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 6,
+          "biography": "<p>Civilian vehicles, usable and maintainable by laymen. The ease of use and mobility they offer fundamentally changes humanity’s relationship with distance. Often require infrastructure like roads or tracks to function, they are more reliant on civilization than heartier vehicles.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 1
+          },
+          "health": {
+            "lvl": 6,
+            "max": 10,
+            "value": 60
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 6,
+            "weight": 4
+          },
+          "movement": {
+            "handling": 4,
+            "speed": 4
+          },
+          "occupancy": {
+            "cargo": "5",
+            "crew": "1 driver, up to 4 passengers safely seated"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Terrestrial",
+          "towing": 5
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!ws2gWeZ7pedGKuU7",
+      "value": {
+        "_id": "ws2gWeZ7pedGKuU7",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625202347,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558160091,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "FqpAEG1MRSPSM3h2",
+        "img": "systems/lone-wolf-fists/assets/compendia/havoc_king_vehicle_.Avatar.webp?1749069107520",
+        "items": [
+          "fKeZnMAY3GxErY4U",
+          "YOaYgUUQkmF8AQQS"
+        ],
+        "name": "Havoc King (Vehicle)",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Havoc King (Vehicle)",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/havoc_king_vehicle_.Token.webp?1749069107520",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 200000,
+        "system": {
+          "armor": 8,
+          "biography": "<p><strong>Uses Prana instead of Fuel.</strong></p><hr><p>Artifacts forged for transportation, or war machines so complicated and enormous that they have a life of their own. Fueled in Prana rather than crude earthly fuels, these wonders cut the skies or raze the earth.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 100
+          },
+          "health": {
+            "lvl": 3,
+            "max": 10,
+            "value": 30
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 10,
+            "weight": 14
+          },
+          "movement": {
+            "handling": 1,
+            "speed": 1
+          },
+          "occupancy": {
+            "cargo": "6, spacious cranial cockpit",
+            "crew": "1 pilot, 10 cockpit crew"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Terrestrial",
+          "towing": 12
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!wUI2ellvVdaATMx3",
+      "value": {
+        "_id": "wUI2ellvVdaATMx3",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625201272,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558160067,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Po2viSjwsYKD14yi",
+        "img": "systems/lone-wolf-fists/assets/compendia/battleship.Avatar.webp?1749037248643",
+        "items": [
+          "aTvoCBKywDwGWDmh"
+        ],
+        "name": "Battleship",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Battleship",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/battleship.Token.webp?1749037248643",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 12,
+          "biography": "<p>Instruments of destruction, these mighty war machines sang the thunderous chorus of the end times from the barrels of their cannons. Any civilization possessing such mighty vehicles can easily impose its will on neighbors. They are highly prized and often found in the hands of ruthless warlords.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 70
+          },
+          "health": {
+            "lvl": 23,
+            "max": 10,
+            "value": 230
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 9,
+            "weight": 14
+          },
+          "movement": {
+            "handling": 1,
+            "speed": 4
+          },
+          "occupancy": {
+            "cargo": "8",
+            "crew": "Up to 300 crew, mostly gunnery operators (100 per turret)"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Aquatic",
+          "towing": 14
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!WxvQK8YVLK2MZHv3",
+      "value": {
+        "_id": "WxvQK8YVLK2MZHv3",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625198933,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159776,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "Hj32ZfAqsvgZxnIM",
+        "img": "systems/lone-wolf-fists/assets/compendia/helicopter.Avatar.webp?1748985799191",
+        "items": [],
+        "name": "Helicopter",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Helicopter",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/helicopter.Token.webp?1748985799191",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 6,
+          "biography": "<p>Planes and other flight vehicles. Battle the tyranny of gravity by allowing mankind access to the ancient dream of flight. Often require significant runways or landing spaces, typically require intense technical knowledge and special maintenance, and demand high skill and effort to pilot. Regardless of these drawbacks, it remains one of the most versatile and useful vehicle types.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 7
+          },
+          "health": {
+            "lvl": 7,
+            "max": 10,
+            "value": 70
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 7,
+            "weight": 10
+          },
+          "movement": {
+            "handling": 3,
+            "speed": 6
+          },
+          "occupancy": {
+            "cargo": "6 and up to 1 ton total weight",
+            "crew": "pilot and co-pilot"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Flight",
+          "towing": 0
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!xweMKdSQBX9Yfbf5",
+      "value": {
+        "_id": "xweMKdSQBX9Yfbf5",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625205082,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558160124,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "4OOeIF09ZOzj3VTC",
+        "img": "systems/lone-wolf-fists/assets/compendia/snowmobile.Avatar.webp?1749319825227",
+        "items": [],
+        "name": "Snowmobile",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Snowmobile",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/snowmobile.Token.webp?1749319825227",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 4,
+          "biography": "<p>Boats, ranging in size from the personal to the industrial in size. They make the surface of the polluted oceans traversable by otherwise land-bound humans.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 1
+          },
+          "health": {
+            "lvl": 5,
+            "max": 10,
+            "value": 50
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 5,
+            "weight": 2
+          },
+          "movement": {
+            "handling": 4,
+            "speed": 3
+          },
+          "occupancy": {
+            "cargo": "0",
+            "crew": "1"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Terrestrial (Snow)",
+          "towing": 2
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!yvS9Em6uyIDM1xxd",
+      "value": {
+        "_id": "yvS9Em6uyIDM1xxd",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625205082,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558160147,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "4OOeIF09ZOzj3VTC",
+        "img": "systems/lone-wolf-fists/assets/compendia/cargo_ship.Avatar.webp?1749320331077",
+        "items": [],
+        "name": "Cargo Ship",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Cargo Ship",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/cargo_ship.Token.webp?1749320331077",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 300000,
+        "system": {
+          "armor": 8,
+          "biography": "<p>Boats, ranging in size from the personal to the industrial in size. They make the surface of the polluted oceans traversable by otherwise land-bound humans.</p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 70
+          },
+          "health": {
+            "lvl": 23,
+            "max": 10,
+            "value": 230
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 9,
+            "weight": 14
+          },
+          "movement": {
+            "handling": 0,
+            "speed": 2
+          },
+          "occupancy": {
+            "cargo": "9, the entire purpose of this vessel is transporting cargo",
+            "crew": "1 captain and 19-23 crew members of varying essentialness"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Aquatic",
+          "towing": 11
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors!ZZHqFsWL2iIJJGFZ",
+      "value": {
+        "_id": "ZZHqFsWL2iIJJGFZ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.347",
+          "createdTime": 1755625206518,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "Cd2kuorcF6VDk3oM",
+          "modifiedTime": 1756558159835,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": "TXmwOUJBR2E6hU7R",
+        "img": "systems/lone-wolf-fists/assets/compendia/freight_train.Avatar.webp?1749388248995",
+        "items": [],
+        "name": "Freight Train",
+        "ownership": {
+          "CfRxFmeilmeBCoZJ": 3,
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "prototypeToken": {
+          "actorLink": false,
+          "alpha": 1,
+          "appendNumber": true,
+          "bar1": {
+            "attribute": "health"
+          },
+          "bar2": {
+            "attribute": null
+          },
+          "detectionModes": [],
+          "displayBars": 20,
+          "displayName": 30,
+          "disposition": 0,
+          "flags": {
+            "monks-combat-marker": {
+              "token-combat-animation": "",
+              "token-highlight": "",
+              "token-highlight-scale": 1.5
+            },
+            "splatter": {
+              "bloodColor": ""
+            }
+          },
+          "height": 1,
+          "light": {
+            "alpha": 0.5,
+            "angle": 360,
+            "animation": {
+              "intensity": 5,
+              "reverse": false,
+              "speed": 5,
+              "type": null
+            },
+            "attenuation": 0.5,
+            "bright": 0,
+            "color": null,
+            "coloration": 1,
+            "contrast": 0,
+            "darkness": {
+              "max": 1,
+              "min": 0
+            },
+            "dim": 0,
+            "luminosity": 0.5,
+            "negative": false,
+            "priority": 0,
+            "saturation": 0,
+            "shadows": 0
+          },
+          "lockRotation": true,
+          "movementAction": null,
+          "name": "Freight Train",
+          "occludable": {
+            "radius": 0
+          },
+          "prependAdjective": false,
+          "randomImg": false,
+          "ring": {
+            "colors": {
+              "background": null,
+              "ring": null
+            },
+            "effects": 0,
+            "enabled": false,
+            "subject": {
+              "scale": 1,
+              "texture": null
+            }
+          },
+          "rotation": 0,
+          "sight": {
+            "angle": 360,
+            "attenuation": 0.1,
+            "brightness": 0,
+            "color": null,
+            "contrast": 0,
+            "enabled": false,
+            "range": 0,
+            "saturation": 0,
+            "visionMode": "basic"
+          },
+          "texture": {
+            "alphaThreshold": 0.75,
+            "anchorX": 0.5,
+            "anchorY": 0.5,
+            "fit": "contain",
+            "offsetX": 0,
+            "offsetY": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "src": "systems/lone-wolf-fists/assets/compendia/freight_train.Token.webp?1749388248995",
+            "tint": "#ffffff"
+          },
+          "turnMarker": {
+            "animation": null,
+            "disposition": false,
+            "mode": 1,
+            "src": null
+          },
+          "width": 1
+        },
+        "sort": 0,
+        "system": {
+          "armor": 9,
+          "biography": "<p>Civilian vehicles, usable and maintainable by laymen. The ease of use and mobility they offer fundamentally changes humanity’s relationship with distance. Often require infrastructure like roads or tracks to function, they are more reliant on civilization than heartier vehicles.</p><hr><p><strong>+1 Fuel/Scene per additional car.</strong></p>",
+          "description": "",
+          "editMode": false,
+          "fuel": {
+            "duration": "Scene",
+            "quantity": 1
+          },
+          "health": {
+            "lvl": 7,
+            "max": 10,
+            "value": 70
+          },
+          "initiative": {
+            "advantage": false,
+            "modifiers": ""
+          },
+          "mass": {
+            "size": 7,
+            "weight": 12
+          },
+          "movement": {
+            "handling": 0,
+            "speed": 5
+          },
+          "occupancy": {
+            "cargo": "7 per additional car; can pull up to 200 such cars, each fully loaded",
+            "crew": "1 conductor, 2-3 additional crew members"
+          },
+          "power": {
+            "bonus": 0,
+            "final": 0,
+            "lvl": 0
+          },
+          "terrainTypes": "Tracked",
+          "towing": 14
+        },
+        "type": "vehicle"
+      }
+    },
+    {
+      "key": "!actors.items!AegR449ABVKr5Qmh.oTLssFo2Dbh1C5EJ",
+      "value": {
+        "_id": "oTLssFo2Dbh1C5EJ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/cargo-crane.svg",
+        "name": "Arm",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "The trademark claw of the crane, used for moving impossibly huge loads skyward. Allows the operator a Rank 8 Power action to lift anything hooked. It has enough reach to grab anything in the same or adjacent Areas within a Field. Due to it’s clumsiness and slowness, any attempts to grab with this arm require an attack and grant the foe Advantage for purposes of defending.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!AegR449ABVKr5Qmh.QN6rNq7kTO2LHPwl",
+      "value": {
+        "_id": "QN6rNq7kTO2LHPwl",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/wrecking-ball.svg",
+        "name": "OR a Wrecking Ball",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "A heavy steel ball at the end of a long steel cable; if swung at a target (requires an attack if they’re not stationary) then it impacts for a ludicrous Rank 10 hit.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!C1g9E41pLgBOPk8n.6vFlBwWqbTRzsasY",
+      "value": {
+        "_id": "6vFlBwWqbTRzsasY",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Leg",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "tpsupYKzBqLOCvNe",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!C1g9E41pLgBOPk8n.ESlFc07hQXVyzJi9",
+      "value": {
+        "_id": "ESlFc07hQXVyzJi9",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/grab.svg",
+        "name": "God Hand Clutch",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>Rank 10 Attack, can be used to Grab and throw objects of size 7 or smaller with a single hand, or up to size 9 with both hands. If both hands smash together, hits an Area at Rank 12 and sends a Rank 6 Shockwave Hazard rippling through that Field.</p><hr><p><strong>Vulnerability:</strong> Characters are small and slippery enough to wriggling from between the mammoth fingers if they’re grabbed. They can escape with a Rank 4 Agility action.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 2,
+            "intensity": "Rank 10",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!C1g9E41pLgBOPk8n.k06kiVMXZp03vyFf",
+      "value": {
+        "_id": "k06kiVMXZp03vyFf",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Leg",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "tpsupYKzBqLOCvNe",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!C1g9E41pLgBOPk8n.p0iWtd9JoPdrFM69",
+      "value": {
+        "_id": "p0iWtd9JoPdrFM69",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Jaw",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 30,
+            "max": 10,
+            "value": 300
+          },
+          "linkedOnslaught": "SWIPL3c2mJnVxJJP",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!C1g9E41pLgBOPk8n.SWIPL3c2mJnVxJJP",
+      "value": {
+        "_id": "SWIPL3c2mJnVxJJP",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/blast.svg",
+        "name": "Aperture of Despair",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p><strong>ONCE PER LIFETIME NOT RAMPAGE</strong></p><hr><p>Unhinging its jaw, the Havok King breathes a beam of unearthly fire onto any Field within the same Tract as a Rank 14 blast. Once unleashed, the corrosive energies begin to melt the Havok King from the inside; it loses (1d10 time ten) Health every Round as it rapidly erodes; it collapses upon itself as a Rank 12 Hazard, trapping and melting anyone still inside or under it when it falls.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Rampage",
+            "frequency": 1,
+            "intensity": "Rank 14",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!C1g9E41pLgBOPk8n.tpsupYKzBqLOCvNe",
+      "value": {
+        "_id": "tpsupYKzBqLOCvNe",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/robot-leg.svg",
+        "name": "Tramp of Doom",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "<p>One of the Havoc King’s footsteps, smashes an Area underfoot at Rank 8 and sends a Rank 4 Tremor Hazard through the Field, damaging structures and sending earthbound characters sprawling.</p><p>If both feet land successfully, he can move up to 1 adjacent Field.</p><hr><p><strong>Vulnerability:</strong> If the Havoc King steps on something that his foot cannot destroy, it injures him by the difference (as the Counterattack keyword) and he falls backward, causing a Rank 10, Area-destroying disaster where his center mass lands.</p>",
+          "editMode": false,
+          "effect": {
+            "duration": "Round",
+            "frequency": 2,
+            "intensity": "Rank 8",
+            "sets": 2,
+            "target": "Attack"
+          },
+          "subtype": "Power"
+        },
+        "type": "ability"
+      }
+    },
+    {
+      "key": "!actors.items!C1g9E41pLgBOPk8n.vftjIDhj5mWPLAWz",
+      "value": {
+        "_id": "vftjIDhj5mWPLAWz",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Arm",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "ESlFc07hQXVyzJi9",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!C1g9E41pLgBOPk8n.YehyDEosSDfO9oFP",
+      "value": {
+        "_id": "YehyDEosSDfO9oFP",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "icons/svg/item-bag.svg",
+        "name": "Arm",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "editMode": false,
+          "health": {
+            "lvl": 25,
+            "max": 10,
+            "value": 250
+          },
+          "linkedOnslaught": "ESlFc07hQXVyzJi9",
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!EEEP3pXnT72iATI0.aTvoCBKywDwGWDmh",
+      "value": {
+        "_id": "aTvoCBKywDwGWDmh",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/cannon-shot.svg",
+        "name": "Main Battle Cannon (gunner)",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Ranged attack, Rank 10 attack and a Rank 5 Shockwave that damages anything in the same Field as the impact site.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!EEEP3pXnT72iATI0.QzokAMlFS3Y4WGge",
+      "value": {
+        "_id": "QzokAMlFS3Y4WGge",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/sentry-gun.svg",
+        "name": "Machinegun (Driver)",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Ranged, Rank 4 area attack that sprays bullets across a Field.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!eYEr9TeV02tgvZOO.aTvoCBKywDwGWDmh",
+      "value": {
+        "_id": "aTvoCBKywDwGWDmh",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/chaingun.svg",
+        "name": "“Smilin’ Jack” pneumatic rotary cannon (pilot)",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Ranged, Rank 6 area attack that sprays bullets across a Field.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!eYEr9TeV02tgvZOO.QzokAMlFS3Y4WGge",
+      "value": {
+        "_id": "QzokAMlFS3Y4WGge",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/missile-swarm.svg",
+        "name": "“Rattlesnake” missile (gunner)",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Ranged, Rank 9 attack that explodes and causes a Rank 4 Napalm Hazard across the Field it hits.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!fRHIzHOxlyvGuonV.oTLssFo2Dbh1C5EJ",
+      "value": {
+        "_id": "oTLssFo2Dbh1C5EJ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/razor-blade.svg",
+        "name": "Dozer Blade",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "The massive front blade of a bulldozer can be used by the pilot to apply up to the vehicle’s Towing Capacity as a Power action for lifting, hauling, and otherwise applying force in creative ways. It also functions to give the vehicle Armor 7 from the front arc. Finally, when ramming, the vehicle deals +1 Rank of damage.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!fRHIzHOxlyvGuonV.QN6rNq7kTO2LHPwl",
+      "value": {
+        "_id": "QN6rNq7kTO2LHPwl",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/hook.svg",
+        "name": "Ripper",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "The rear claw attachment, usable by the operator to commit acts of destruction or shaping up to the Towing Capacity in Power.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!iIzjQ7YMcRfnW8Dz.jSlJAAhEb75rjiKz",
+      "value": {
+        "_id": "jSlJAAhEb75rjiKz",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/bright-explosion.svg",
+        "name": "Highly Explosive",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Highly explosive when destroyed. Explodes at Rank 10, engulfing the Field in a fireball.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!JsJXgVDSjSeiwiTN.CWE6gkwBPlwJ9MOx",
+      "value": {
+        "_id": "CWE6gkwBPlwJ9MOx",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/radar-sweep.svg",
+        "name": "Sonar Scan",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Allows otherwise blind underwater combat to be conducted as though targets could be “seen” in murky, shadowy light (Senses 2).",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!JsJXgVDSjSeiwiTN.uD2Mf4ikoep2ngbZ",
+      "value": {
+        "_id": "uD2Mf4ikoep2ngbZ",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/torpedo.svg",
+        "name": "2 Torpedo Launchers (4 crew each)",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Rank 12 single-target strike, only aquatic targets, travel at speed 3 to hit distant targets, up to 3 Fields away.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!L82HOpIfmns9QRJo.4HZOHTNXjvOjur6j",
+      "value": {
+        "_id": "4HZOHTNXjvOjur6j",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/telescope.svg",
+        "name": "Spy Equipment",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Rank 6 Senses to see anything targetable by the Indrastra.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!L82HOpIfmns9QRJo.RwZVFq0cvt3d7brY",
+      "value": {
+        "_id": "RwZVFq0cvt3d7brY",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/laserburn.svg",
+        "name": "Indrastra Orbital Cannon",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Rank 12 attack that strikes any Field one the side of the planet currently occupied by the station.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!SEQvPUMvw8BoVqYO.QjpLv0sCRSXZHVIb",
+      "value": {
+        "_id": "QjpLv0sCRSXZHVIb",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/oil-drum.svg",
+        "name": "Drum Roller",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "When ramming or running over something/someone, the front roller can catch and crush anything in the steam roller’s path with 20 tons of weight behind it (Crush at Rank 9).",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!ws2gWeZ7pedGKuU7.fKeZnMAY3GxErY4U",
+      "value": {
+        "_id": "fKeZnMAY3GxErY4U",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/foot-trip.svg",
+        "name": "Special Movement",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "top speed/handling = 1 field/action",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!ws2gWeZ7pedGKuU7.YOaYgUUQkmF8AQQS",
+      "value": {
+        "_id": "YOaYgUUQkmF8AQQS",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/giant.svg",
+        "name": "Artificial Titan",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "The Havok King is an artificial Titan. While operative, the pilot has direct control of its Titan Attributes (see creature sheet)",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!actors.items!wUI2ellvVdaATMx3.aTvoCBKywDwGWDmh",
+      "value": {
+        "_id": "aTvoCBKywDwGWDmh",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": null,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "effects": [],
+        "flags": {},
+        "folder": null,
+        "img": "modules/game-icons-net/blackbackground/turret.svg",
+        "name": "3 Cannon Turrets (gunnery crew)",
+        "ownership": {
+          "cPASHwKMrgyw9rMi": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "armor": 0,
+          "description": "Ranged and able to strike any visible Field within the same Tract. Strikes a Structure or Area at Rank 12 with the remaining Field suffering a Rank 8 shockwave.",
+          "editMode": false,
+          "health": {
+            "lvl": 1,
+            "max": 10,
+            "value": 10
+          },
+          "systemToggle": false
+        },
+        "type": "anatomy"
+      }
+    },
+    {
+      "key": "!folders!4OOeIF09ZOzj3VTC",
+      "value": {
+        "_id": "4OOeIF09ZOzj3VTC",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625205018,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625205109,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Water",
+        "sort": 600000,
+        "sorting": "a",
+        "type": "Actor"
+      }
+    },
+    {
+      "key": "!folders!FqpAEG1MRSPSM3h2",
+      "value": {
+        "_id": "FqpAEG1MRSPSM3h2",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625202308,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625202373,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Magic",
+        "sort": 400000,
+        "sorting": "a",
+        "type": "Actor"
+      }
+    },
+    {
+      "key": "!folders!Hj32ZfAqsvgZxnIM",
+      "value": {
+        "_id": "Hj32ZfAqsvgZxnIM",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625198892,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625198962,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Air",
+        "sort": 100000,
+        "sorting": "a",
+        "type": "Actor"
+      }
+    },
+    {
+      "key": "!folders!K2SCtvBNFROKMl6Z",
+      "value": {
+        "_id": "K2SCtvBNFROKMl6Z",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625203536,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625203605,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Metal",
+        "sort": 500000,
+        "sorting": "a",
+        "type": "Actor"
+      }
+    },
+    {
+      "key": "!folders!Po2viSjwsYKD14yi",
+      "value": {
+        "_id": "Po2viSjwsYKD14yi",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625201227,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625201296,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Fire",
+        "sort": 300000,
+        "sorting": "a",
+        "type": "Actor"
+      }
+    },
+    {
+      "key": "!folders!TXmwOUJBR2E6hU7R",
+      "value": {
+        "_id": "TXmwOUJBR2E6hU7R",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625206479,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625206542,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Wood",
+        "sort": 700000,
+        "sorting": "a",
+        "type": "Actor"
+      }
+    },
+    {
+      "key": "!folders!wKko8hjMm0N9gGms",
+      "value": {
+        "_id": "wKko8hjMm0N9gGms",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1755625200090,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "CfRxFmeilmeBCoZJ",
+          "modifiedTime": 1755625200154,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.1.1"
+        },
+        "color": null,
+        "description": "",
+        "flags": {},
+        "folder": null,
+        "name": "Earth",
+        "sort": 200000,
+        "sorting": "a",
+        "type": "Actor"
+      }
+    }
+  ]
+}

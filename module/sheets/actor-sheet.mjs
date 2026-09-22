@@ -47,7 +47,7 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     // the context variable to see the structure, but some key properties for
     // sheets are the actor object, the data object, whether or not it's
     // editable, the items array, and the effects array.
-    const context = super.getData();
+    const context = await super.getData();
 
     // Use a safe clone of the actor data for further operations.
     const actorData = this.document.toPlainObject();
@@ -85,7 +85,7 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     }
 
     if(actorData.type === 'domain') {
-      this._prepareDomain(context);
+      await this._prepareDomain(context);
     }
 
     if(actorData.type === 'vehicle') {
@@ -269,20 +269,14 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
           if (archetype.length < 1){
             archetype.push(i);
           }
-          else {
-            let target = this.actor.items.get(i._id);
-            target.delete();
-          }
+          else context.duplicateArchetypes = (context.duplicateArchetypes ?? 0) + 1;
           break;
 
         case 'clan':
           if (clan.length < 1){
             clan.push(i);
           }
-          else {
-            let target = this.actor.items.get(i._id);
-            target.delete();
-          }
+          else context.duplicateClans = (context.duplicateClans ?? 0) + 1;
           break;
 
         case 'skill':
@@ -372,6 +366,10 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     const members = [];
     for(let m of context.system.namedMembers) {
       const member = await fromUuid(m);
+      if (!member) {
+        (context.missingReferences ??= []).push(m);
+        continue;
+      }
       let duplicate = false;
       for(let i = 0; i < members.length; i++) {
         if(members[i].creature === member.name) {
@@ -449,7 +447,8 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     for(let n in context.node) {
       productList(context.node[n])
     }
-    const ruler = await fromUuid(context.system.ruler);
+    const ruler = context.system.ruler ? await fromUuid(context.system.ruler) : null;
+    if (context.system.ruler && !ruler) (context.missingReferences ??= []).push(context.system.ruler);
     context.ruler = ruler;
     context.forceTypes = LWFDOMAINS.forceTypes;
     return context;
@@ -582,7 +581,7 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     });
 
     html.on('click', '#recover-prana', async (ev) => {
-      chakraReset(this.actor);
+      await chakraReset(this.actor);
     });
 
     // Choose masteries to add on level up TODO: pass the data back to the original character sheet
@@ -653,7 +652,7 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
       const artifacts = this.actor.items.filter(i => i.type === "artifact")
       let extraPrana = 0;
       if(artifacts.length > 0){
-        for (const artifact in artifacts){
+        for (const artifact of artifacts){
           if(!artifact.system.chakra.hasChakra || 
             artifact.system.chakra.recovery <= 0 ||
             (!artifact.system.worn && !artifact.system.held)){
@@ -665,7 +664,7 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
       let newActive = this.actor.system.chakras.value + 1;
       let increase = this.actor.system.pool.recovery * newActive;
       increase = increase + this.actor.system.prana.value + extraPrana;
-      this.actor.update({['system.chakras.value']: newActive, ['system.prana.value']: increase});
+      await this.actor.update({['system.chakras.value']: newActive, ['system.prana.value']: increase});
     })
 
     html.on('change', '.techniqueDisplay', (ev) => {
@@ -700,8 +699,12 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
       //Check to see if the id is a uuid - if it is, update the source and the current sheet
       if(index.includes('.')) {
         const namedMember = await fromUuid(index);
-        namedMember.update({[ `system.${target}.lvl` ]: newValue });
-        this.actor.update({[ `system.updateToggle` ]: !(this.actor.system.updateToggle)})
+        if (!namedMember) {
+          ui.notifications.warn(`The selected member reference no longer exists.`);
+          return;
+        }
+        await namedMember.update({[ `system.${target}.lvl` ]: newValue });
+        await this.actor.update({[ `system.updateToggle` ]: !(this.actor.system.updateToggle)})
       }
       else {
         const arrayOf = li.dataset.arrayOf;
@@ -734,17 +737,17 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
       //Find the id of the member being edited
       const li = $(ev.currentTarget).closest('.item');
       const member = await fromUuid(li.data('id'));
+      if (!member) {
+        ui.notifications.warn(`The selected member reference no longer exists.`);
+        return;
+      }
       //render the sheet
       member.sheet.render(true);
     })
 
-    html.on('change', '#membership-set', (ev) => {
-      const value = ev.currentTarget.value;
-      if (value > 100)
-        value = 100;
-      else if (value < 0)
-        value = 0;
-      this.actor.update({[ 'system.membership.max' ]: value, [ 'system.membership.value' ]: value, [ 'system.health.value' ]: value * 10})
+    html.on('change', '#membership-set', async (ev) => {
+      const value = Math.min(100, Math.max(0, Number(ev.currentTarget.value) || 0));
+      await this.actor.update({[ 'system.membership.max' ]: value, [ 'system.membership.value' ]: value, [ 'system.health.value' ]: value * 10})
     })
 
     html.on('change', '.anatomy-choice', async (ev) => {
@@ -769,10 +772,10 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     html.on('click', '.item-create', this._onItemCreate.bind(this));
 
     // Delete Inventory Item
-    html.on('click', '.item-delete', (ev) => {
+    html.on('click', '.item-delete', async (ev) => {
       const tr = $(ev.currentTarget).parents('.item');
       const item = this.actor.items.get(tr.data('itemId'));
-      item.delete();
+      await item.delete();
       tr.slideUp(200, () => this.render(false));
     });
 
@@ -832,7 +835,7 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
    * @param {Event} event   The originating click event
    * @private
    */
-  _onRoll(event) {
+  async _onRoll(event) {
     event.preventDefault();
     const element = event.currentTarget;
     const dataset = element.dataset;
@@ -850,11 +853,10 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     if (dataset.roll) {
       let label = dataset.label ? `[ability] ${dataset.label}` : '';
       let roll = new Roll(dataset.roll, this.actor.getRollData());
-      roll.toMessage({
+      await roll.toMessage({
         speaker: ChatMessage.getSpeaker({ actor: this.actor }),
         flavor: label,
-        rollMode: game.settings.get('core', 'rollMode'),
-      });
+      }, { messageMode: game.settings.get('core', 'messageMode') });
       return roll;
     }
   }
@@ -865,6 +867,10 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
     // Get the id of the dropped creature
     const id = data.uuid;
     const disciple = await fromUuid(id);
+    if (!disciple) {
+      ui.notifications.warn(`The dropped actor reference no longer exists.`);
+      return false;
+    }
     // Only npcs or characters can be disciples
     if(!(disciple.type === "npc" || disciple.type === "character" || disciple.type === 'squad' || (disciple.type === 'platoon' && this.actor.type === 'domain') ))
       return false;
@@ -885,17 +891,17 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
       })
       if(!newFollower)
         return false;
-      disciple.update({[ `system.master.id` ]: this.actor.uuid, [ `system.master.isRuler`]: isRuler })
+      await disciple.update({[ `system.master.id` ]: this.actor.uuid, [ `system.master.isRuler`]: isRuler })
     }
     if(this.actor.type === 'domain') {
-      this.actor.update({[ `system.ruler` ]: id})
+      await this.actor.update({[ `system.ruler` ]: id})
     }
     else {
       // Get a copy of the squad member array
       const members = this.actor.system.namedMembers;
       members.push(id);
       // Update the current Squad member array with the new values
-      this.actor.update({[ `system.namedMembers` ]: members})
+      await this.actor.update({[ `system.namedMembers` ]: members})
     }
   }
 }

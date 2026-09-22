@@ -4,7 +4,27 @@
   "description": "CSS compiler for the lwf system",
   "scripts": {
     "build": "sass src/scss/lone-wolf-fists.scss css/lone-wolf-fists.css --style=expanded --no-source-map",
-    "watch": "sass src/scss/lone-wolf-fists.scss css/lone-wolf-fists.css --style=expanded --source-map --watch"
+    "watch": "sass src/scss/lone-wolf-fists.scss css/lone-wolf-fists.css --style=expanded --source-map --watch",
+    "packs:export": "node tools/packs/export.cjs",
+    "packs:build": "node tools/packs/build.cjs",
+    "packs:validate": "node tools/packs/validate.cjs",
+    "packs:roundtrip": "npm run packs:build && npm run packs:validate",
+    "check:contracts": "node tools/check-contracts.cjs",
+    "check:v14-effects": "node tools/check-v14-effects.cjs",
+    "check:safe-lifecycle": "node tools/check-safe-lifecycle.cjs",
+    "check:release-blockers": "node tools/check-release-blockers.cjs",
+    "check:pack-references": "node tools/check-pack-references.cjs",
+    "check:pack-assets": "node tools/check-pack-assets.cjs \"C:/path/to/LWF Dev Server/data/Data/modules/game-icons-net\"",
+    "check:world-migration": "node tools/check-world-migration.mjs",
+    "release:build": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File tools/build-release.ps1",
+    "check:all": "npm run check:contracts && npm run check:v14-effects && npm run check:safe-lifecycle && npm run check:release-blockers && npm run check:pack-references && npm run check:world-migration && npm run packs:roundtrip && npm run check:pack-assets",
+    "dev:deploy": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action deploy",
+    "dev:start": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action start",
+    "dev:stop": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action stop",
+    "dev:restart": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action restart",
+    "dev:status": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action status",
+    "dev:verify": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action verify",
+    "dev:logs": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action logs"
   },
   "browserslist": [
     "last 3 versions"
@@ -13,9 +33,13 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "classic-level": "^3.0.0",
     "sass": "^1.53.0"
   },
   "dependencies": {
     "madge": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=24.13.1 <25"
   }
 }

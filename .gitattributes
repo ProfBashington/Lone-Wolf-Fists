@@ -1,0 +1,6 @@
+# Foundry compendium packs are LevelDB databases. Their CURRENT pointer files
+# are byte-sensitive and must retain LF line endings on every platform.
+/packs/**/CURRENT text eol=lf
+
+# Exported pack sources are ordinary JSON and should be reviewed with LF lines.
+/pack-source/**/*.json text eol=lf

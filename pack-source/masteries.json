@@ -1,0 +1,552 @@
+{
+  "format": "lwf-pack-source-v1",
+  "pack": "masteries",
+  "records": [
+    {
+      "key": "!items!85zutp9B7QQLte3P",
+      "value": {
+        "_id": "85zutp9B7QQLte3P",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544026653,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916556742,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "Lun3dZVe2Fgne47G"
+        ],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Power-mastery.svg",
+        "name": "Power Mastery",
+        "ownership": {
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 300000,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Power-description.jpg\">",
+          "skill": "Power",
+          "use": "<p><strong>+1 rank to all Power actions</strong></p><p><span style=\"font-family: Roboto, sans-serif\">The skill of raw physical strength. When characters use their muscles to lift, break, shove or otherwise leverage their sinew-studded frame, this is the skill they use. Use Power when:</span></p><ul style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px; padding: 0px 0px 0px 1.5em; color: rgb(25, 24, 19); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Lifting and throwing heavy objects</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Improvising heavy weapons</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Shoving, pulling, dragging, or otherwise moving weighty loads</span></p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!CmymUsJ30ilfOlSX",
+      "value": {
+        "_id": "CmymUsJ30ilfOlSX",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544025421,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916537887,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "XrR6JLpJfToTxELm"
+        ],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Intellect-mastery.svg",
+        "name": "Intellect Mastery",
+        "ownership": {
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 100000,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Intellect-description.jpg\">",
+          "skill": "Intellect",
+          "use": "<p><strong>+1 rank to all Intellect actions</strong></p><p><span style=\"font-family: Roboto, sans-serif\">The skill of comprehension, intuition and memory. When characters need to rigorously apply logic, conceive sophisticated thoughts, or recall a memory with speed and accuracy, they use this skill. Use Intellect when you must:</span></p><ul style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px; padding: 0px 0px 0px 1.5em; color: rgb(25, 24, 19); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Intuit or engineer complex ideas</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Solve a logic problem rapidly</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Recall information quickly and completely</span></p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!E1Ip2kf1RedGdtK3",
+      "value": {
+        "_id": "E1Ip2kf1RedGdtK3",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544021861,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916461803,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "eQZAWedC8bJqKebf"
+        ],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Agility-mastery.svg",
+        "name": "Agility Mastery",
+        "ownership": {
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 400000,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Agility-description.jpg\">",
+          "skill": "Agility",
+          "use": "<p><strong>+1 rank to all Agility actions</strong></p><p>The skill of balance, nimbleness, and speed. When characters need to move fast or far, when they need to tightrope walk across a power line; when they need to dance through a hail of bullets, they use this skill. Use Agility when:</p><ul><li><p>Moving tactically</p></li><li><p>Traveling fast</p></li><li><p>Balancing or performing a gymnastic feat</p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!E4er7wLPgOXOax42",
+      "value": {
+        "_id": "E4er7wLPgOXOax42",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544024215,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916506557,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "ebji8vBWnZfIZjrl"
+        ],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Heart-mastery.svg",
+        "name": "Heart Mastery",
+        "ownership": {
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 500000,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Heart-description.jpg\">",
+          "skill": "Heart",
+          "use": "<p><strong>+1 rank to all Heart actions</strong></p><p><span style=\"font-family: Roboto, sans-serif\">The skill of empathy, charm, and persuasiveness.When characters need to communicate, deceive, or convince someone of an argument, they use this skill. Use Heart when you must:</span></p><ul style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px; padding: 0px 0px 0px 1.5em; color: rgb(25, 24, 19); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Influence many people at once</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Lie, directly or surreptitiously</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Use or shape the rules of culture</span></p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!pmlSfdBW1X3F3Og3",
+      "value": {
+        "_id": "pmlSfdBW1X3F3Og3",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544028938,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916599240,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "AXyv7odrHBWmlZD4"
+        ],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Spirit-mastery.svg",
+        "name": "Spirit Mastery",
+        "ownership": {
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 0,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Spirit-description.jpg\">",
+          "skill": "Spirit",
+          "use": "<p><strong>+1 rank to all Spirit actions</strong></p><p><span style=\"font-family: Roboto, sans-serif\">The skill of the soul, balance, and mystical attunement. When characters need to synchronize with the weft of Dharma, sense spiritual phenomena, or use magical rituals, they use this skill. Use Spirit when you need to:</span></p><ul style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px; padding: 0px 0px 0px 1.5em; color: rgb(25, 24, 19); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Attune to the invisible world of the spirit</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Perform complex magical rites or rituals</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Summon, rebuke or bind spirits</span></p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!qwQODT8txuSEIQBe",
+      "value": {
+        "_id": "qwQODT8txuSEIQBe",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544027713,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916574528,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "9c6s2lRpxHm6Bmcm"
+        ],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Senses-mastery.svg",
+        "name": "Senses Mastery",
+        "ownership": {
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 200000,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Senses-description.jpg\">",
+          "skill": "Senses",
+          "use": "<p><strong>+1 rank to all Senses actions</strong></p><p><span style=\"font-family: Roboto, sans-serif\">The skill of the five senses, situational awareness and physical subtlety. When characters need to get information about their surroundings, move and hide, or notice minute detail, they use this skill. Use Senses when you must:</span></p><ul style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px; padding: 0px 0px 0px 1.5em; color: rgb(25, 24, 19); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Hide or sneak</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Detect anything with the five senses</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Gather details from your environment</span></p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items!sx0mGmHBwSy0hbK2",
+      "value": {
+        "_id": "sx0mGmHBwSy0hbK2",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544023041,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "sPeA9JIH4zu0YqMp",
+          "modifiedTime": 1740916480963,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "1.0.0-beta"
+        },
+        "effects": [
+          "gT4AzIRsrSHcfll6"
+        ],
+        "flags": {},
+        "folder": null,
+        "img": "systems/lone-wolf-fists/assets/skills/Endurance-mastery.svg",
+        "name": "Endurance Mastery",
+        "ownership": {
+          "XJUmf5KAX1OeYYX0": 3,
+          "default": 0
+        },
+        "sort": 600000,
+        "system": {
+          "description": "",
+          "effectChart": "<img src=\"systems/lone-wolf-fists/assets/skills/Endurance-description.jpg\">",
+          "skill": "Endurance",
+          "use": "<p><strong>+1 rank to all Endurance actions</strong></p><p><span style=\"font-family: Roboto, sans-serif\">The skill of resilience, staying power, and toughness. When characters need to push their limits, resist harmful phenomena, or survive inimical circumstances, they use this skill. Use Endurance when:</span></p><ul style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px; padding: 0px 0px 0px 1.5em; color: rgb(25, 24, 19); font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;\"><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Withstanding hardships</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Prolonging strenuous activities</span></p></li><li style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track);\"><p style=\"box-sizing: border-box; user-select: text; scrollbar-width: thin; scrollbar-color: var(--color-scrollbar) var(--color-scrollbar-track); margin: 0.5em 0px\"><span style=\"font-family: Roboto, sans-serif\">Enduring deprivation</span></p></li></ul>"
+        },
+        "type": "skill"
+      }
+    },
+    {
+      "key": "!items.effects!85zutp9B7QQLte3P.Lun3dZVe2Fgne47G",
+      "value": {
+        "_id": "Lun3dZVe2Fgne47G",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544454511,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "XJUmf5KAX1OeYYX0",
+          "modifiedTime": 1736544474930,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "power mastery",
+        "origin": "Compendium.lone-wolf-fists.masteries.Item.85zutp9B7QQLte3P",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.masteries.types.Power",
+              "value": true,
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    },
+    {
+      "key": "!items.effects!CmymUsJ30ilfOlSX.XrR6JLpJfToTxELm",
+      "value": {
+        "_id": "XrR6JLpJfToTxELm",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544429630,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "XJUmf5KAX1OeYYX0",
+          "modifiedTime": 1736544450637,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "intelllect mastery",
+        "origin": "Compendium.lone-wolf-fists.masteries.Item.CmymUsJ30ilfOlSX",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.masteries.types.Intellect",
+              "value": true,
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    },
+    {
+      "key": "!items.effects!E1Ip2kf1RedGdtK3.eQZAWedC8bJqKebf",
+      "value": {
+        "_id": "eQZAWedC8bJqKebf",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544303797,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "XJUmf5KAX1OeYYX0",
+          "modifiedTime": 1736544362839,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "agility mastery",
+        "origin": "Compendium.lone-wolf-fists.masteries.Item.E1Ip2kf1RedGdtK3",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.masteries.types.Agility",
+              "value": true,
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    },
+    {
+      "key": "!items.effects!E4er7wLPgOXOax42.ebji8vBWnZfIZjrl",
+      "value": {
+        "_id": "ebji8vBWnZfIZjrl",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544406265,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "XJUmf5KAX1OeYYX0",
+          "modifiedTime": 1736544425030,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "heart mastery",
+        "origin": "Compendium.lone-wolf-fists.masteries.Item.E4er7wLPgOXOax42",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.masteries.types.Heart",
+              "value": true,
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    },
+    {
+      "key": "!items.effects!pmlSfdBW1X3F3Og3.AXyv7odrHBWmlZD4",
+      "value": {
+        "_id": "AXyv7odrHBWmlZD4",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544498777,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "XJUmf5KAX1OeYYX0",
+          "modifiedTime": 1736544517575,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "spirit mastery",
+        "origin": "Compendium.lone-wolf-fists.masteries.Item.pmlSfdBW1X3F3Og3",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.masteries.types.Spirit",
+              "value": true,
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    },
+    {
+      "key": "!items.effects!qwQODT8txuSEIQBe.9c6s2lRpxHm6Bmcm",
+      "value": {
+        "_id": "9c6s2lRpxHm6Bmcm",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544478714,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "XJUmf5KAX1OeYYX0",
+          "modifiedTime": 1736544495390,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "senses mastery",
+        "origin": "Compendium.lone-wolf-fists.masteries.Item.qwQODT8txuSEIQBe",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.masteries.types.Senses",
+              "value": true,
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    },
+    {
+      "key": "!items.effects!sx0mGmHBwSy0hbK2.gT4AzIRsrSHcfll6",
+      "value": {
+        "_id": "gT4AzIRsrSHcfll6",
+        "_stats": {
+          "compendiumSource": null,
+          "coreVersion": "13.344",
+          "createdTime": 1736544378916,
+          "duplicateSource": null,
+          "exportSource": null,
+          "lastModifiedBy": "XJUmf5KAX1OeYYX0",
+          "modifiedTime": 1736544400198,
+          "systemId": "lone-wolf-fists",
+          "systemVersion": "0.1"
+        },
+        "description": "",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null
+        },
+        "flags": {},
+        "img": "icons/svg/aura.svg",
+        "name": "endurance mastery",
+        "origin": "Compendium.lone-wolf-fists.masteries.Item.sx0mGmHBwSy0hbK2",
+        "sort": 0,
+        "statuses": [],
+        "system": {
+          "changes": [
+            {
+              "key": "system.masteries.types.Endurance",
+              "value": true,
+              "type": "override"
+            }
+          ]
+        },
+        "tint": "#ffffff",
+        "transfer": true,
+        "type": "base"
+      }
+    }
+  ]
+}

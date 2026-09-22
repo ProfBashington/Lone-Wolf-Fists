@@ -3,5 +3,5 @@ export async function chakraReset(actor) {
     const minChakra = actor.system?.chakras?.lvl;
     const basePranaGen = actor.system?.pool?.lvl * minChakra;
     if(!(maxAura === undefined || minChakra === undefined))
-        actor.update({ ["system.aura.value"]: maxAura, [ 'system.prana.value']: basePranaGen, [ 'system.chakras.value' ]: minChakra })
+        return actor.update({ ["system.aura.value"]: maxAura, [ 'system.prana.value']: basePranaGen, [ 'system.chakras.value' ]: minChakra })
 }

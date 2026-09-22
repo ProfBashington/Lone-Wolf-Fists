@@ -30,13 +30,14 @@ export async function effortRoll(diceNumber, data) {
   data.content = await foundry.applications.handlebars.renderTemplate(`systems/lone-wolf-fists/templates/chat-messages/effort-roll.hbs`, { sets })
   data.rolls = rolls;
   data.flags = { core: { canPopout: true } };
-  return ChatMessage.create(data, {})
+  return ChatMessage.create(data, { messageMode: game.settings.get('core', 'messageMode') })
 
 }
 
 export async function extractDiceNumber(message, data) {
-  let command = message.split(" ");
-  if(Number(command[1]) === NaN) {
+  const command = message.trim().split(/\s+/);
+  const diceNumber = Number(command[1]);
+  if (!Number.isInteger(diceNumber) || diceNumber < 1) {
     ui.notifications.error(
       `<div>Your command could not be parsed:</div>
       <div>${message}</div>
@@ -45,6 +46,6 @@ export async function extractDiceNumber(message, data) {
     return;
   }
   
-  await effortRoll(command[1], data)
+  await effortRoll(diceNumber, data)
   return null;
 }
