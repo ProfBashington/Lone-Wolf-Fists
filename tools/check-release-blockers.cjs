@@ -11,10 +11,11 @@ if (actorSheet.includes("const value = ev.currentTarget.value;")) failures.push(
 if (!actorSheet.includes("for (const artifact of artifacts)")) failures.push("Prana Flare must iterate artifact documents");
 if (!actorSheet.includes("await this._prepareDomain(context)")) failures.push("domain sheet preparation must await asynchronous references");
 if (system.includes("Hooks.on('endCombat'")) failures.push("release build must not retain the test endCombat hook");
-if (!system.includes("off('click.lwf', '.dice-set')")) failures.push("chat listener must be namespaced and deduplicated");
+if (system.includes("'renderChatLog'") || !system.includes("Hooks.on('renderChatMessageHTML'")) failures.push("dice-set listeners must bind per message via renderChatMessageHTML (v14 passes HTMLElement, not jQuery)");
 
 if (!actorDoc.includes("super.prepareBaseData()")) failures.push("lwfActor.prepareBaseData must call super so v14 resets Active Effect phases");
 if (!actorDoc.includes("super.prepareDerivedData()")) failures.push("lwfActor.prepareDerivedData must call super");
+if (/Folder\.create|\.configure\(/.test(system)) failures.push("startup must not create compendium folders or reconfigure packs; system.json packFolders is authoritative");
 
 if (failures.length) throw new Error(failures.join("\n"));
 process.stdout.write("Release-blocker regression contracts passed.\n");

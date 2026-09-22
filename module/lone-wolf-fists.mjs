@@ -169,11 +169,13 @@ Hooks.on('chatMessage', (_, messageText, data) => {
 })
 
 // Dashed outline of sets when clicked
-Hooks.on('renderChatLog', (_, html) => {
-  html.off('click.lwf', '.dice-set').on('click.lwf', '.dice-set', (ev) => {
-    const targetDiv = ev.currentTarget;
-    targetDiv.classList.toggle('selected-set')
-  })
+// Bound per rendered message element, so listeners never accumulate and popouts work too.
+Hooks.on('renderChatMessageHTML', (_message, html) => {
+  for (const set of html.querySelectorAll('.dice-set')) {
+    set.addEventListener('click', (ev) => {
+      ev.currentTarget.classList.toggle('selected-set')
+    })
+  }
 })
 
 
@@ -195,74 +197,8 @@ Hooks.once('ready', async function ()  {
   Hooks.on('hotbarDrop', (bar, data, slot) => createItemMacro(data, slot));
 
 
-  // Each entry x in folderNames should have an associated xPacks array.
-  const packs = {
-    Creatures: [
-      "monsters",
-      "armies", 
-      "titans-and-gods",
-      "disasters"
-    ],
-    Items: [
-      "weapons",
-      "armor",
-      "artifacts",
-      "vehicles"
-    ],
-    Techniques: [
-      "techniques",
-      "gupt-kala"
-    ],
-    Skills: [
-      "skills",
-      "masteries"
-    ],
-    Archetypes: [
-      "archetypes"
-    ],
-    "Optional Techniques": [
-      "apocalypse-apocrypha"
-    ]
-  }
-
-  const compendiumFolders = await createCompendiumFolders(Object.keys(packs));
-
-  await movePacksToFolders(packs, compendiumFolders);
-
-
-  async function createCompendiumFolders(folderNames){
-    let compendiumFolders = Object.fromEntries(
-      folderNames.map((key) => [key, null])
-    );
-
-    for (const key in compendiumFolders){
-      compendiumFolders[key] = game.folders.find(f => f.type==="Compendium" && f.name === key);
-      if(!compendiumFolders[key]){
-        compendiumFolders[key] = await Folder.create({
-          name: key,
-          type: "Compendium",
-          sorting: "a"
-        });
-      }
-    }
-
-    return compendiumFolders;
-  };
-
-  async function movePacksToFolders(packs, compendiumFolders){
-    for(const targetFolder in compendiumFolders){
-      await movePacks(packs[targetFolder], compendiumFolders[targetFolder]);
-    }
-  }
-
-  async function movePacks(packArray, folderData){
-    for (const i in packArray){
-      const pack = game.packs.get(`lone-wolf-fists.${packArray[i]}`);
-      if (pack && (pack.folder != folderData.id)){
-        await pack.configure({["folder"]: folderData.id})
-      }
-    }
-  };
+  // Compendium folders come from the manifest's packFolders, which core applies
+  // server-side on every world launch without overriding a GM's own arrangement.
 
 });
 
