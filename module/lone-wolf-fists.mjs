@@ -184,22 +184,26 @@ Hooks.on('renderChatMessageHTML', (_message, html) => {
 /* -------------------------------------------- */
 
 Hooks.once('ready', async function ()  {
-  // Wait to register hotbar drop hook on ready so that modules could register earlier if they want to
-  
+  // Wait to register hotbar drop hook on ready so that modules could register earlier if they want to.
+  // Every user gets item macros; the GM-only return that used to precede this was added with the
+  // (now removed) compendium-folder code and unintentionally disabled them for players.
+  // Returning false (synchronously) stops core from also creating its own sheet-toggle macro.
+  Hooks.on('hotbarDrop', (bar, data, slot) => {
+    if (data.type !== 'Item') return;
+    createItemMacro(data, slot);
+    return false;
+  });
+
+  // Compendium folders come from the manifest's packFolders, which core applies
+  // server-side on every world launch without overriding a GM's own arrangement.
+
   if (!game.user.isGM) return;
   try {
     await migrateCurrentWorld();
   } catch (error) {
     console.error("Lone Wolf Fists | World migration failed", error);
     ui.notifications.error("Lone Wolf Fists world migration failed. The migration marker was not advanced.");
-    return;
   }
-  Hooks.on('hotbarDrop', (bar, data, slot) => createItemMacro(data, slot));
-
-
-  // Compendium folders come from the manifest's packFolders, which core applies
-  // server-side on every world launch without overriding a GM's own arrangement.
-
 });
 
 

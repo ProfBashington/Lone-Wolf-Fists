@@ -15,6 +15,9 @@ if (system.includes("'renderChatLog'") || !system.includes("Hooks.on('renderChat
 
 if (!actorDoc.includes("super.prepareBaseData()")) failures.push("lwfActor.prepareBaseData must call super so v14 resets Active Effect phases");
 if (!actorDoc.includes("super.prepareDerivedData()")) failures.push("lwfActor.prepareDerivedData must call super");
+if (actorSheet.includes('dataset.id.split("-")[1]')) failures.push("deleting a named squad/follower member must look up its full UUID, not split('-')[1] (removed the wrong member)");
+if (!/Hooks\.on\('hotbarDrop'[\s\S]{0,200}return false;/.test(system)) failures.push("hotbarDrop must return false synchronously for Item drops so core does not also create a sheet macro");
+if (/if \(!game\.user\.isGM\) return;[\s\S]*Hooks\.on\('hotbarDrop'/.test(system)) failures.push("hotbarDrop must be registered for every user, not only GMs");
 if (/Folder\.create|\.configure\(/.test(system)) failures.push("startup must not create compendium folders or reconfigure packs; system.json packFolders is authoritative");
 
 if (failures.length) throw new Error(failures.join("\n"));

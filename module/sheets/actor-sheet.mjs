@@ -728,8 +728,10 @@ export class lwfActorSheet extends foundry.appv1.sheets.ActorSheet {
       const li = ev.currentTarget.parentElement.parentElement;
       const location = parseInt(li.dataset.id)
       if(isNaN(location)) {
+        // Named members use their actor UUID as the row id.
         const newMembers = this.actor.system.namedMembers;
-        const index = newMembers.indexOf(ev.currentTarget.parentElement.parentElement.dataset.id.split("-")[1]);
+        const index = newMembers.indexOf(li.dataset.id);
+        if (index < 0) return;
         newMembers.splice(index, 1);
         this.actor.update({[ `system.namedMembers`]: newMembers});
       }
