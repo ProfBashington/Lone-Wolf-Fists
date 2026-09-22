@@ -23,7 +23,6 @@ This is a system to play the post-apocalyptic anime inspired ttrpg [Lone Wolf Fi
 - If you're a gm, edit any non-character sheet by either pressing the edit button in the top right, or selecting the edit tab.
 
 ## Known issues
-- The module dice so nice does not work with the dice rolling mechanic - no dice are rolled.
 - Effort and health max cannot be increased for player characters - as a workaround for techniques that change these things, create an npc with the relevant stats.
 - Health bars should display properly, but please let me know if any other issues arise around display of health or other attributes!
 

@@ -21,6 +21,7 @@ Foundry versions are not a supported upgrade path.
 - Actor data preparation failed after the first update on v14, so derived values such as max
   health were wrong.
 - Clicking a dice set in an effort roll now highlights it.
+- Effort rolls now show 3D dice with Dice So Nice (confirmed by in-game testing).
 - `/effort` rejects blank, non-numeric, zero, negative, and fractional dice counts.
 - Deleting a named squad or follower member removed the last member instead of the chosen one.
 - Players can create item macros on the hotbar, and a drop creates one macro instead of two.
@@ -33,7 +34,6 @@ Foundry versions are not a supported upgrade path.
 ### Known limitations
 - Sheets use Foundry's older Application framework, which logs one deprecation warning when a
   sheet opens. Foundry plans to remove it in v16.
-- Dice So Nice does not animate effort rolls.
 
 ### Rollback
 Reinstall Lone Wolf Fists 1.2.4 on a Foundry 13 installation. Worlds opened on Foundry 14 cannot
