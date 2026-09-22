@@ -251,8 +251,10 @@
   },
   "socket": false,
   "background": "systems/lone-wolf-fists/assets/logo.png",
-  "gridDistance": 5,
-  "gridUnits": "ft",
+  "grid": {
+    "distance": 5,
+    "units": "ft"
+  },
   "primaryTokenAttribute": "health.value",
   "secondaryTokenAttribute": "power.lvl",
   "documentTypes": {

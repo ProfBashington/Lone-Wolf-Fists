@@ -12,6 +12,8 @@ Foundry versions are not a supported upgrade path.
   any older effects it finds.
 - Chat and rolls use v14 message modes (public, GM, blind, self).
 - Dialogs (End Combat, Rest, Masteries) use Foundry's current dialog API.
+- The 5 ft grid default uses the current `grid` manifest key. The old `gridDistance` and
+  `gridUnits` keys were being ignored.
 - Compendium folders come from `packFolders`; the system no longer rearranges packs on every GM
   login, so a GM's own arrangement is kept.
 

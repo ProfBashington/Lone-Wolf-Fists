@@ -39,6 +39,11 @@ function checkForms(templateRoot) {
 
   sameMembers("Manifest Actor documentTypes", Object.keys(manifest.documentTypes?.Actor || {}), documentTypes.ACTOR_TYPES);
   sameMembers("Manifest Item documentTypes", Object.keys(manifest.documentTypes?.Item || {}), documentTypes.ITEM_TYPES);
+  // Keys v14 no longer recognizes (it warns and ignores them), with their replacements.
+  const retiredKeys = { gridDistance: "grid.distance", gridUnits: "grid.units", minimumCoreVersion: "compatibility.minimum", compatibleCoreVersion: "compatibility.verified", author: "authors", dependencies: "relationships", name: "id" };
+  for (const [key, replacement] of Object.entries(retiredKeys)) {
+    if (key in manifest) throw new Error(`system.json key "${key}" is not recognized by Foundry v14; use "${replacement}"`);
+  }
   // v14 deprecates legacy template.json; TypeDataModels are the only source of type data.
   if (fs.existsSync("template.json")) throw new Error("template.json must not return; declare types in system.json documentTypes and TypeDataModels");
   const models = fs.readFileSync("module/data/_module.mjs", "utf8");
