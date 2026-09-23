@@ -10,8 +10,23 @@ This is the Foundry v14 continuation of the original Lone Wolf Fists system by *
 
 ## Installation
 
+### From inside Foundry (recommended)
+
+1. In Foundry's setup screen, open **Game Systems** → **Install System**.
+2. Paste this **Manifest URL** at the bottom and click **Install**:
+
+   ```
+   https://github.com/ProfBashington/Lone-Wolf-Fists/releases/latest/download/system.json
+   ```
+
+3. Foundry also installs the required **Game-icons.net** module (`game-icons-net`). If it doesn't,
+   install it from the module browser.
+4. Create a world using the Lone Wolf Fists system. Foundry will offer future updates automatically.
+
+### Manually
+
 1. Install the required module **Game-icons.net** (`game-icons-net`) from Foundry's module browser.
-2. Download the release ZIP from this repository's
+2. Download `lone-wolf-fists.zip` from the latest release on this repository's
    [Releases](https://github.com/ProfBashington/Lone-Wolf-Fists/releases) and extract it into a new
    folder named `lone-wolf-fists` inside your Foundry `Data/systems/` folder, so that
    `Data/systems/lone-wolf-fists/system.json` exists.

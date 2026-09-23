@@ -44,6 +44,14 @@ function checkForms(templateRoot) {
   for (const [key, replacement] of Object.entries(retiredKeys)) {
     if (key in manifest) throw new Error(`system.json key "${key}" is not recognized by Foundry v14; use "${replacement}"`);
   }
+  // Install/update links: the manifest always resolves to the latest release, and the download
+  // must be this version's own release asset, so a version bump cannot ship a stale download link.
+  if (manifest.manifest || manifest.download) {
+    const expectedManifest = `${manifest.url}/releases/latest/download/system.json`;
+    const expectedDownload = `${manifest.url}/releases/download/v${manifest.version}/lone-wolf-fists.zip`;
+    if (manifest.manifest !== expectedManifest) throw new Error(`system.json manifest must be ${expectedManifest}`);
+    if (manifest.download !== expectedDownload) throw new Error(`system.json download must be ${expectedDownload} for version ${manifest.version}`);
+  }
   // v14 deprecates legacy template.json; TypeDataModels are the only source of type data.
   if (fs.existsSync("template.json")) throw new Error("template.json must not return; declare types in system.json documentTypes and TypeDataModels");
   const models = fs.readFileSync("module/data/_module.mjs", "utf8");

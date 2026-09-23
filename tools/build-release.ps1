@@ -70,7 +70,14 @@ try {
     targetFoundry = '14.368'
     createdAt = (Get-Date).ToUniversalTime().ToString('o')
   } | ConvertTo-Json | Set-Content -LiteralPath "$archive.json" -Encoding utf8
+  # GitHub Release assets with the fixed names the manifest/download URLs expect.
+  $releaseDir = Join-Path $output "release-v$($manifest.version)"
+  if (Test-Path -LiteralPath $releaseDir) { Remove-Item -LiteralPath $releaseDir -Recurse -Force }
+  New-Item -ItemType Directory -Path $releaseDir | Out-Null
+  Copy-Item -LiteralPath $archive -Destination (Join-Path $releaseDir 'lone-wolf-fists.zip')
+  Copy-Item -LiteralPath (Join-Path $stage 'system.json') -Destination (Join-Path $releaseDir 'system.json')
   Remove-Item -LiteralPath $stage -Recurse -Force
+  Write-Host "Release assets: $releaseDir (upload lone-wolf-fists.zip and system.json to tag v$($manifest.version))"
   Write-Host "Built $archive"
   Write-Host "SHA256 $hash"
   Write-Host "Content SHA256 $contentHash ($($contents.Count) files)"

@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 1.3.1 — Install from inside Foundry
+
+- Adds `manifest` and `download` links, so the system can be installed and updated from Foundry's
+  **Install System** screen with the manifest URL
+  `https://github.com/ProfBashington/Lone-Wolf-Fists/releases/latest/download/system.json`.
+- No gameplay or data changes from 1.3.0.
+
 ## 1.3.0 — Foundry VTT 14 compatibility
 
 Requires Foundry VTT 14 (tested on 14.368) and `game-icons-net` 0.0.45. This release keeps the
