@@ -14,21 +14,21 @@
     "check:safe-lifecycle": "node tools/check-safe-lifecycle.cjs",
     "check:release-blockers": "node tools/check-release-blockers.cjs",
     "check:pack-references": "node tools/check-pack-references.cjs",
-    "check:pack-assets": "node tools/check-pack-assets.cjs \"C:/path/to/LWF Dev Server/data/Data/modules/game-icons-net\"",
+    "check:pack-assets": "node tools/check-pack-assets.cjs",
     "check:world-migration": "node tools/check-world-migration.mjs",
     "check:deprecated-globals": "node tools/check-deprecated-globals.cjs",
     "release:build": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File tools/build-release.ps1",
     "check:all": "npm run check:contracts && npm run check:v14-effects && npm run check:safe-lifecycle && npm run check:release-blockers && npm run check:deprecated-globals && npm run check:pack-references && npm run check:world-migration && npm run packs:roundtrip && npm run check:pack-assets",
-    "dev:deploy": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action deploy",
-    "dev:stop": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action stop",
-    "dev:status": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action status",
-    "dev:verify": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action verify",
-    "dev:logs": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \"C:/path/to/LWF Dev Server/server.ps1\" -Action logs"
+    "dev:deploy": "node tools/dev-server.cjs deploy",
+    "dev:stop": "node tools/dev-server.cjs stop",
+    "dev:status": "node tools/dev-server.cjs status",
+    "dev:verify": "node tools/dev-server.cjs verify",
+    "dev:logs": "node tools/dev-server.cjs logs"
   },
   "browserslist": [
     "last 3 versions"
   ],
-  "author": "El-Gobbo",
+  "author": "ProfBashington",
   "license": "MIT",
   "private": true,
   "devDependencies": {
@@ -37,5 +37,8 @@
   },
   "engines": {
     "node": ">=24.13.1 <25"
-  }
+  },
+  "contributors": [
+    "El-Gobbo (original author)"
+  ]
 }

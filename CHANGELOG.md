@@ -6,6 +6,11 @@ Requires Foundry VTT 14 (tested on 14.368) and `game-icons-net` 0.0.45. This rel
 existing sheets and rules; it only makes the system work correctly on v14. Worlds from earlier
 Foundry versions are not a supported upgrade path.
 
+### Project
+- Now maintained by ProfBashington at https://github.com/ProfBashington/Lone-Wolf-Fists, continuing
+  El-Gobbo's original system (DuncanLittlechild/lone-wolf-fists, 0.1–1.2.4).
+- The compendium content and game art are distributed with the permission of the game's creator.
+
 ### Compatibility changes
 - Declares all Actor and Item types in `system.json`; the legacy `template.json` is removed.
 - Active Effects in the compendiums use the v14 format, and a one-time world migration converts

@@ -2,8 +2,9 @@ const fs = require("node:fs");
 const path = require("node:path");
 const { ClassicLevel } = require("classic-level");
 
-const moduleRoot = process.argv[2];
-if (!moduleRoot) throw new Error("Usage: node tools/check-pack-assets.cjs <game-icons-net directory>");
+const { localConfig, requireSetting } = require("./local-config.cjs");
+
+const moduleRoot = process.argv[2] ?? requireSetting("gameIconsModule", localConfig().gameIconsModule);
 
 function indexFiles(root) {
   const files = new Set();

@@ -4,18 +4,21 @@
   "description": "The Lone Wolf Fists system for FoundryVTT!",
   "authors": [
     {
-      "name": "Bashington",
-      "flags": { "role": "v14 port maintainer" }
+      "name": "ProfBashington",
+      "url": "https://github.com/ProfBashington",
+      "flags": { "role": "Maintainer (Foundry v14 port)" }
     },
     {
       "name": "El-Gobbo",
-      "discord": "elgobbo"
+      "url": "https://github.com/DuncanLittlechild",
+      "discord": "elgobbo",
+      "flags": { "role": "Original author" }
     }
   ],
-  "url": "https://github.com/El-Gobbo/lone-wolf-fists",
+  "url": "https://github.com/ProfBashington/Lone-Wolf-Fists",
   "license": "LICENSE.md",
   "readme": "README.md",
-  "bugs": "https://github.com/El-Gobbo/lone-wolf-fists/issues",
+  "bugs": "https://github.com/ProfBashington/Lone-Wolf-Fists/issues",
   "changelog": "CHANGELOG.md",
   "media": [
     {

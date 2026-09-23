@@ -3,3 +3,4 @@ build/
 dist/
 assets/dice/GIMP/
 css/*.map
+local.config.json
