@@ -17,7 +17,7 @@
     "check:pack-assets": "node tools/check-pack-assets.cjs",
     "check:world-migration": "node tools/check-world-migration.mjs",
     "check:deprecated-globals": "node tools/check-deprecated-globals.cjs",
-    "release:build": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File tools/build-release.ps1",
+    "release:build": "node tools/build-release.cjs",
     "check:all": "npm run check:contracts && npm run check:v14-effects && npm run check:safe-lifecycle && npm run check:release-blockers && npm run check:deprecated-globals && npm run check:pack-references && npm run check:world-migration && npm run packs:roundtrip && npm run check:pack-assets",
     "dev:deploy": "node tools/dev-server.cjs deploy",
     "dev:stop": "node tools/dev-server.cjs stop",

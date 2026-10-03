@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Unreleased
+
+- Development only: the release ZIP is built by a cross-platform Node script
+  (`npm run release:build`) and is byte-for-byte reproducible. Unused boilerplate files
+  (`lib/some-lib/`, `newgraph.svg`) are removed. The installed system is unchanged.
+
 ## 1.3.1 — Install from inside Foundry
 
 - Adds `manifest` and `download` links, so the system can be installed and updated from Foundry's
